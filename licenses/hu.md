@@ -1,5 +1,5 @@
 Cyonicolutions Általános engedély (CSGL)
-1.0 verzió teszt
+1.0 verzió
 
 Hatálybalépés dátuma: [2024 - 2028]
 

@@ -1,11 +1,11 @@
 Cyonicsolutions General License (CSGL)
-Versão 1.0 Teste
+Versão 1.0
 
 Data efetiva: [2024 - 2028]
 
 1. concessão de licença
 
-1.1 concessão de direitos: De acordo com esta licença, o Licenciante concede ao licenciado um direito não exclusivo, não transferível e não publicável de acessar, visualizar e usar o software (conforme definido abaixo) apenas para fins pessoais e não comerciais, sujeitos aos termos e condições estabelecidos aqui.
+1.1 concessão de direitos: De acordo com esta licença, o Licenciante concede ao licenciado um direito não exclusivo, não transferível e não publicável de acessar, ver e usar o software (conforme definido abaixo) apenas para fins pessoais e não comerciais, sujeitos aos termos e condições estabelecidos aqui.
 
 2. Definições
 
@@ -57,7 +57,7 @@ Nota: Para os fins desta licença, o "Repositório Oficial do Software" refere -
 
 8.2 Modificações: Qualquer modificação ou alteração a esta licença deve ser por escrito e assinada por ambas as partes.
 
-8.3 Severabilidade: Se qualquer disposição desta licença for considerada inválida ou inexequível por um tribunal de jurisdição competente, as demais disposições permanecerão em pleno vigor e efeito.
+8.3 Severabilidade: se alguma disposição desta licença for considerada inválida ou inexequível por um tribunal de jurisdição competente, as demais disposições permanecerão em pleno vigor e efeito.
 
 ---
 Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

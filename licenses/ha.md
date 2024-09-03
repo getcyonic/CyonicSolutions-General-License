@@ -1,5 +1,5 @@
 Cyonicsolutions Babban lasisin (CSGL)
-Sha'awa 1.0
+Version 1.0
 
 Kwanan Wata: [2024 - 2028]
 

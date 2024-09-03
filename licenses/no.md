@@ -1,5 +1,5 @@
 Cyonicsolutions General License (CSGL)
-Versjon 1.0 Test
+Versjon 1.0
 
 Effektiv dato: [2024 - 2028]
 
@@ -45,7 +45,7 @@ Merk: For formålene med denne lisensen refererer det "offisielle depotet for pr
 
 6.1 Oppsigelse: Denne lisensen er effektiv inntil den er avsluttet.Lisensgiver kan avslutte denne lisensen når som helst etter varsel til rettighetshaver hvis rettighetshaver bryter noen begrep eller betingelse for denne lisensen.
 
-6.2 Effekt av oppsigelse: Ved avslutning av denne lisensen må rettighetshaver umiddelbart slutte å bruke programvaren og ødelegge alle kopier av programvaren i sin besittelse.
+6.2 Effekt av oppsigelse: Ved oppsigelse av denne lisensen må rettighetshaver umiddelbart slutte å bruke programvaren og ødelegge alle kopier av programvaren i sin besittelse.
 
 7. Gjeldende lov
 
@@ -55,7 +55,7 @@ Merk: For formålene med denne lisensen refererer det "offisielle depotet for pr
 
 8.1 Hele avtalen: Denne lisensen utgjør hele avtalen mellom partene med hensyn til programvaren og erstatter alle tidligere eller samtidige avtaler, skriftlige eller muntlige, relatert til programvaren.
 
-8.2 Endringer: Eventuell modifisering eller endring av denne lisensen må være skriftlig og signert av begge parter.
+8.2 Endringer: Eventuell endring eller endring av denne lisensen må være skriftlig og signert av begge parter.
 
 8.3 Sjekkbarhet: Hvis noen bestemmelse i denne lisensen er funnet å være ugyldig eller ikke -håndheves av en domstol med kompetent jurisdiksjon, vil de gjenværende bestemmelsene forbli i full kraft og virkning.
 

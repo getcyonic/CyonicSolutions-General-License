@@ -1,5 +1,5 @@
 Cyonicsolutions License License (CSGL)
-Test tal-verżjoni 1.0
+Verżjoni 1.0
 
 Data effettiva: [2024 - 2028]
 

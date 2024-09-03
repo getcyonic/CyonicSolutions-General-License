@@ -1,5 +1,5 @@
 Iwe-aṣẹ gigun kẹkẹ Gbogbogbo (CSG)
-Ẹya 1.0 idanwo
+Ẹya 1.0
 
 Ọjọ ti o munadoko: [2024 - 2028]
 

@@ -1,5 +1,5 @@
 Ilayisense Jikelele Ye-CynonicOLints (CSGL)
-Ukuhlolwa kwenguqulo 1.0
+Inguqulo 1.0
 
 Usuku Olusebenzayo: [2024 - 2028]
 

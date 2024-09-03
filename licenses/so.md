@@ -1,5 +1,5 @@
 Ruqsadda Guud ee Synonitics (CSL)
-Nooca 1.0 Tijaabada
+Nooca 1.0
 
 Taariikhda dhaqangalka: [2024 - 2028]
 

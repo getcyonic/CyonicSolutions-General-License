@@ -1,5 +1,5 @@
 Smoniksolutions Ümumi Lisenziyası (CSGL)
-Version 1.0 testi
+Version 1.0
 
 Effektiv Tarix: [2024 - 2028]
 

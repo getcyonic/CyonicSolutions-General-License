@@ -1,5 +1,5 @@
 Cyonicsolutions Geman talen (CSGL)
-Ferzje 1.0 test
+Ferzje 1.0
 
 Effektive datum: [2024 - 2028]
 
@@ -39,7 +39,7 @@ Opmerking: foar doelen fan dizze lisinsje, de software "ferwiist nei de software
 
 5.1 Gjin garânsje: De software wurdt levere "lykas" sûnder garânsje fan elke soarte, of ymplisyt of ymplisearre, mar net beheind ta, de ymplisyt garânsjes, fitness foar in bepaald doel, as net-ynbreuk.
 
-5.2 Disclaimer: Licensor sil net oanspraaklik wêze foar alle direkte, yndirekte, ynsidintele, spesjale as gefolchyske skea dy't gefolch fan it gebrûk fan of ûnfermogen om de software te brûken.
+5.2 Disclaimer: Licensor sil net oanspraaklik wêze foar alle direkte, yndirekte, ynsidintele, spesjale as gefolchyske skea dy't gefolch út it gebrûk fan of ûnfermogen om de software te brûken.
 
 6. Beëiniging
 

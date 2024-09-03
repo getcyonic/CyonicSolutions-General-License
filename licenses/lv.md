@@ -1,5 +1,5 @@
 Cyonicsolutions vispārējā licence (CSGL)
-1.0 versijas pārbaude
+1.0 versija
 
 Stāšanās datums: [2024 - 2028]
 

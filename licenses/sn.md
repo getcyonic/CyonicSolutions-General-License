@@ -1,5 +1,5 @@
 Cyiycicsolutions General License (CSGL)
-Shanduro 1.0 Muedzo
+Shanduro 1.0
 
 Zvinobudirira Zuva: [2024 - 2028]
 

@@ -1,5 +1,5 @@
 Cyonicsolutions Lîsansa Giştî (CSGL)
-Testa 1.0 ya guhertoyê
+Guhertoya 1.0
 
 Dîroka bandor: [2024 - 2028]
 

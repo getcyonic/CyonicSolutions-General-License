@@ -1,5 +1,5 @@
 Ceadúnas Ginearálta Cyonicsolutions (CSGL)
-Tástáil leagan 1.0
+Leagan 1.0
 
 Dáta Éifeachtach: [2024 - 2028]
 
@@ -37,7 +37,7 @@ Tabhair faoi deara: Chun críocha an cheadúnais seo, tagraíonn an "stór oifig
 
 5. Barántais agus Séanadh
 
-5.1 Gan aon bharántas: Cuirtear na bogearraí ar fáil "mar atá" gan bharántas de chineál ar bith, sainráite nó intuigthe, lena n-áirítear, ach gan a bheith teoranta dóibh, na barántais intuigthe maidir le hinrochtaineacht, aclaíocht chun críche áirithe, nó neamh-shárú.
+5.1 Gan aon bharántas: Cuirtear na bogearraí ar fáil "mar atá" gan bharántas de chineál ar bith, sainráite nó intuigthe, lena n-áirítear, ach gan a bheith teoranta dóibh, na barántais intuigthe maidir le hinfhaighteacht, aclaíocht chun críche áirithe, nó neamh-shárú.
 
 5.2 Séanadh: Ní bheidh ceadúnaí faoi dhliteanas i leith aon damáistí díreacha, indíreacha, teagmhasacha, speisialta nó iarmhartacha a eascraíonn as úsáid nó neamhábaltacht na mbogearraí a úsáid.
 

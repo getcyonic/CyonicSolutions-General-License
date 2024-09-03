@@ -1,5 +1,5 @@
 CYONICOLUVIONS SA KINABUHI NGA LICKENSYON (CSGL)
-Bersyon 1.0 pagsulay
+Bersyon 1.0
 
 Epektibo nga Petsa: [2024 - 2028]
 

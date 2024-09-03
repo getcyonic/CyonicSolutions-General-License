@@ -1,5 +1,5 @@
 Giấy phép chung của Cyonicsolutions (CSGL)
-Phiên bản 1.0 Kiểm tra
+Phiên bản 1.0
 
 Ngày có hiệu lực: [2024 - 2028]
 
@@ -17,11 +17,11 @@ Ngày có hiệu lực: [2024 - 2028]
 
 3. Hạn chế
 
-3.1 Sửa đổi: Người được cấp phép không được sửa đổi, điều chỉnh, dịch hoặc tạo các tác phẩm phái sinh của phần mềm, toàn bộ hoặc một phần, trừ khi được phép trong phần này.
+3.1 Sửa đổi: Bên được cấp phép không được sửa đổi, điều chỉnh, dịch hoặc tạo các tác phẩm phái sinh của phần mềm, toàn bộ hoặc một phần, trừ khi được phép trong phần này.
 
 3.2 Quyền sửa đổi: Sửa đổi đối với phần mềm chỉ được phép nếu chúng được gửi và phê duyệt thông qua kho lưu trữ chính thức của Cyonicsolutions trên GitHub, như được mô tả dưới đây:
 
-3.2.Bên được cấp phép phải tuân theo quy trình đóng góp đã được thiết lập, bao gồm tạo tài khoản GitHub, nhận kho lưu trữ và gửi yêu cầu kéo theo các hướng dẫn được cung cấp.
+3.2.Người được cấp phép phải tuân theo quy trình đóng góp đã được thiết lập, bao gồm tạo tài khoản GitHub, nhận kho lưu trữ và gửi yêu cầu kéo theo các hướng dẫn được cung cấp.
 
 3.2.2 Đánh giá và chấp nhận: Cyonicsolutions có quyền xem xét, chấp nhận hoặc từ chối mọi sửa đổi đã gửi.Không có sửa đổi nào được coi là tích hợp vào phần mềm cho đến khi chính thức chấp nhận và tích hợp bởi các phân giải Cyonicsolution vào kho lưu trữ chính thức.
 
@@ -57,7 +57,7 @@ Lưu ý: Đối với các mục đích của giấy phép này, "Kho lưu trữ
 
 8.2 Sửa đổi: Bất kỳ sửa đổi hoặc sửa đổi cho giấy phép này phải được viết và ký bởi cả hai bên.
 
-8.3 Khả năng nghiêm trọng: Nếu có bất kỳ điều khoản nào của giấy phép này được phát hiện là không hợp lệ hoặc không thể thực thi được bởi một tòa án có thẩm quyền, các điều khoản còn lại sẽ vẫn có hiệu lực và hiệu lực đầy đủ.
+8.3 Khả năng nghiêm trọng: Nếu có bất kỳ điều khoản nào của giấy phép này được phát hiện là không hợp lệ hoặc không thể thực thi được bởi một tòa án có thẩm quyền, các điều khoản còn lại sẽ vẫn có hiệu lực đầy đủ.
 
 ---
 Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

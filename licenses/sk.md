@@ -1,5 +1,5 @@
 Cyonicsolutions General License (CSGL)
-Test verzie 1.0
+Verzia 1.0
 
 Dátum účinnosti: [2024 - 2028]
 
@@ -27,7 +27,7 @@ Dátum účinnosti: [2024 - 2028]
 
 3.2.3 Dokumentácia a potvrdenie: Licencia musí poskytnúť primeranú dokumentáciu pre akúkoľvek predloženú zmenu a môže sa vyžadovať, aby poskytol príslušné potvrdenie týkajúce sa úpravy.
 
-3.2.4 Žiadne miestne zmeny: Miestne úpravy, ktoré vykonal držiteľ licencie, ktoré nie sú predložené a akceptované prostredníctvom GitHub, nie sú povolené a budú sa považovať za porušenie podmienok tejto licencie.
+3.2.4 Žiadne miestne zmeny: Miestne úpravy vykonávané držiteľom licencie, ktoré nie sú predložené a akceptované prostredníctvom GitHub, nie sú povolené a budú sa považovať za porušenie podmienok tejto licencie.
 
 Poznámka: Na účely tejto licencie sa „oficiálny úložisko softvéru“ vzťahuje na úložisko hostené na __url_0__, je zodpovednosťou licencie pre kontrolu a dodržiavanie usmernení a postupov poskytnutých spoločnosťou Cyonicsolutions pre prispievanie.
 

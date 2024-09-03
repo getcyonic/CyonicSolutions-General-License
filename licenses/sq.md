@@ -1,5 +1,5 @@
 Licenca e përgjithshme e Citonicsolutions (CSGL)
-Testi i Versionit 1.0
+Versioni 1.0
 
 Data e efektshme: [2024 - 2028]
 

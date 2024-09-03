@@ -1,5 +1,5 @@
 Cyonicsolutions Lisensi Umum (CSGL)
-Tes 1.0
+Versi 1.0
 
 Tanggal efektif: [2024 - 2028]
 

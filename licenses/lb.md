@@ -1,5 +1,5 @@
 Cyponicsolutioun Allgemeng Lizenz (CSGL)
-Versioun 1.0 Test
+Versioun 1.0
 
 Effektiv Datum: [2024 - 2028]
 

@@ -1,5 +1,5 @@
 Cyonicsolutions Opća licenca (CSGL)
-Verzija 1.0 test
+Verzija 1.0
 
 Datum stupanja na snagu: [2024 - 2028]
 

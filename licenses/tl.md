@@ -1,5 +1,5 @@
 Pangkalahatang Lisensya ng Cyonicsolutions (CSGL)
-Bersyon 1.0 Pagsubok
+Bersyon 1.0
 
 Epektibong Petsa: [2024 - 2028]
 
@@ -53,7 +53,7 @@ TANDAAN: Para sa mga layunin ng lisensya na ito, ang "opisyal na imbakan para sa
 
 8. Pangkalahatang mga probisyon
 
-8.1 Buong Kasunduan: Ang lisensya na ito ay bumubuo ng buong kasunduan sa pagitan ng mga partido na may paggalang sa software at supersedes lahat ng nauna o kontemporaryo na mga kasunduan, nakasulat o pasalita, na may kaugnayan sa software.
+8.1 Buong Kasunduan: Ang lisensya na ito ay bumubuo ng buong kasunduan sa pagitan ng mga partido na may paggalang sa software at supersedes ang lahat ng nauna o kontemporaryo na mga kasunduan, nakasulat o pasalita, na may kaugnayan sa software.
 
 8.2 Mga Pagbabago: Ang anumang pagbabago o susog sa lisensya na ito ay dapat na nakasulat at nilagdaan ng parehong partido.
 

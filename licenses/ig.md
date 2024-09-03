@@ -1,5 +1,5 @@
 Cyonictolutions General Concer (CSGL)
-Ụdị 1.0 ule
+Ụdị 1.0
 
 Bọchị dị mma: [2024 - 2028]
 

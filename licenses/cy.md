@@ -1,5 +1,5 @@
 Cyonicsolutions Trwydded Gyffredinol (CSGL)
-Prawf Fersiwn 1.0
+Fersiwn 1.0
 
 Dyddiad effeithiol: [2024 - 2028]
 

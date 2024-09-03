@@ -1,5 +1,5 @@
 CSGL (Cyonicsolutions General License)
-버전 1.0 테스트
+버전 1.0
 
 발효 일 : [2024-2028]
 

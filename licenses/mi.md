@@ -1,5 +1,5 @@
 Cyonicutions General Raihana (CSGL)
-Putanga 1.0 Whakamatau
+Putanga 1.0
 
 Te ra whai hua: [2024 - 2028]
 

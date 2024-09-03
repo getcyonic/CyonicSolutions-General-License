@@ -1,5 +1,5 @@
 Licencia xeral de Cyonicsolutions (CSGL)
-Proba da versión 1.0
+Versión 1.0
 
 Data de entrada en vigor: [2024 - 2028]
 
@@ -21,9 +21,9 @@ Data de entrada en vigor: [2024 - 2028]
 
 3.2 Permiso de modificacións: as modificacións do software só se permiten se son enviadas e aprobadas a través do repositorio oficial de Cyonicsolutions en GitHub, como se describe a continuación:
 
-3.2.1 Envío de modificacións: Calquera modificación ou traballo derivado debe enviarse como contribución (solicitude de pull) ao repositorio oficial de Cyonicsolutions en GitHub.O licenciatario debe seguir o proceso de cotización establecido, que inclúe a creación dunha conta de GitHub, a bifuración do repositorio e a presentación dunha solicitude de pulo de acordo coas directrices que se ofrecen.
+3.2.1 Envío de modificacións: Calquera modificación ou traballo derivado debe enviarse como contribución (solicitude de pull) ao repositorio oficial de Cyonicsolutions en GitHub.O licenciatario debe seguir o proceso de contribución establecido, que inclúe a creación dunha conta de GitHub, a bifuración do repositorio e a presentación dunha solicitude de pulo de acordo coas directrices que se ofrecen.
 
-3.2.2 Revisión e aceptación: Cyonicsolutions resérvase o dereito a revisar, aceptar ou rexeitar calquera modificación enviada.Non se considerará que non se considere modificación incorporada ao software ata que estea formalmente aceptado e integrado por Cyonicsolutions no repositorio oficial.
+3.2.2 Revisión e aceptación: Cyonicsolutions resérvase o dereito a revisar, aceptar ou rexeitar calquera modificación enviada.Non se considera que non se considere modificación incorporada ao software ata que estea formalmente aceptado e integrado por Cyonicsolutions no repositorio oficial.
 
 3.2.3 Documentación e recoñecemento: o licenciatario debe proporcionar unha documentación adecuada para calquera modificación enviada e pode ser necesaria para proporcionar un recoñecemento adecuado sobre a modificación.
 
@@ -49,7 +49,7 @@ Nota: Para os efectos desta licenza, o "repositorio oficial do software" refíre
 
 7. Lei aplicable
 
-7.1 Lei de goberno: Esta licenza rexerase e interpretarase de acordo coas leis do Brasil, sen ter en conta os seus principios de conflitos de leis.Calquera disputa derivada desta licenza estará suxeita á xurisdición exclusiva dos tribunais situados en São Paulo.
+7.1 Lei de goberno: esta licenza rexerase e interpretarase de acordo coas leis do Brasil, sen ter en conta os seus principios de conflitos de leis.Calquera disputa derivada desta licenza estará suxeita á xurisdición exclusiva dos tribunais situados en São Paulo.
 
 8. Disposicións xerais
 

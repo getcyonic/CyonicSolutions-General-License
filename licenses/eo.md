@@ -1,5 +1,5 @@
 Ĝenerala Permesilo de Cyonicsolutions (CSGL)
-Versio 1.0 -testo
+Versio 1.0
 
 Efika dato: [2024 - 2028]
 

@@ -1,5 +1,5 @@
 Cyonicsolutions Algemene licentie (CSGL)
-Versie 1.0 -test
+Versie 1.0
 
 Ingangsdatum: [2024 - 2028]
 
@@ -9,7 +9,7 @@ Ingangsdatum: [2024 - 2028]
 
 2. Definities
 
-2.1 Software: betekent het softwareprogramma, inclusief broncode, binaries, documentatie en andere gerelateerde materialen, die door licentiegever beschikbaar worden gesteld aan de licentiehouder onder deze licentie.
+2.1 Software: betekent het softwareprogramma, inclusief broncode, binaries, documentatie en andere gerelateerde materialen, die door licentiegever beschikbaar zijn gesteld aan de licentiehouder onder deze licentie.
 
 2.2 Licentiegever: de entiteit of persoon die deze licentie verleent.In dit geval verwijst het naar cyonicsolutions, inclusief zijn gelieerde ondernemingen en vertegenwoordigers.
 
@@ -45,7 +45,7 @@ OPMERKING: Voor de toepassing van deze licentie verwijst de "officiële reposito
 
 6.1 Beëindiging: deze licentie is effectief totdat beëindigd.Licentiegever kan deze licentie te allen tijde beëindigen bij kennisgeving aan licentiehouder als licentienemer een termijn of voorwaarde van deze licentie overtreden.
 
-6.2 Effect van beëindiging: Na beëindiging van deze licentie moet de licentienemer onmiddellijk ophouden met het gebruik van de software en alle kopieën van de software in zijn bezit vernietigen.
+6.2 Effect van beëindiging: na beëindiging van deze licentie moet de licentienemer onmiddellijk stoppen met het gebruik van de software en alle kopieën van de software in zijn bezit vernietigen.
 
 7. Toepasselijke wetgeving
 

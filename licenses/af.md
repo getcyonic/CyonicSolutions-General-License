@@ -1,5 +1,5 @@
 Cyonicsolutions Algemene lisensie (CSGL)
-Weergawe 1.0 Toets
+Weergawe 1.0
 
 Effektiewe datum: [2024 - 2028]
 
@@ -21,7 +21,7 @@ Effektiewe datum: [2024 - 2028]
 
 3.2 Toestemming vir wysigings: wysigings aan die sagteware word slegs toegelaat as dit ingedien en goedgekeur word deur die amptelike Cyonicsolutions -bewaarplek op GitHub, soos hieronder beskryf:
 
-3.2.1 Voorlegging van wysigings: Enige wysiging of afgeleide werk moet as 'n bydrae (trekversoek) aan die amptelike cyonicsolutions -bewaarplek op GitHub ingedien word.Die lisensiehouer moet die gevestigde bydraeproses volg, wat die opstel van 'n GitHub -rekening insluit, die bewaarplek vurk en die indiening van 'n trekversoek in ooreenstemming met die riglyne wat voorsien is.
+3.2.1 Voorlegging van wysigings: Enige wysiging of afgeleide werk moet as 'n bydrae (trekversoek) aan die amptelike cyonicsolutions -bewaarplek op GitHub ingedien word.Die lisensiehouer moet die gevestigde bydraeproses volg, wat die opstel van 'n GitHub -rekening insluit, die bewaarplek vurk en 'n versoek om 'n trekversoek in te dien in ooreenstemming met die riglyne wat voorsien is.
 
 3.2.2 Hersiening en aanvaarding: Cyonicsolutions behou die reg voor om enige ingediende wysiging te hersien, te aanvaar of te verwerp.Geen wysiging mag in die sagteware opgeneem word totdat dit formeel aanvaar en geïntegreer is deur cyonicsolutions in die amptelike bewaarplek nie.
 

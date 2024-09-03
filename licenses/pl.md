@@ -1,11 +1,11 @@
 Ogólna licencja Cyonicsolutions (CSGL)
-Wersja 1.0 Test
+Wersja 1.0
 
 Data wejścia w życie: [2024 - 2028]
 
 1. Gradzanie licencji
 
-1.1 Uznaczenie praw: Zgodnie z niniejszą licencją licencjodawca przyznaje licencjobiorcę niewyłączne, nie do przeniesienia, niepełnosprawne prawo do dostępu, przeglądania i korzystania z oprogramowania (zgodnie z definicją poniżej) wyłącznie do celów osobistych, niekomercyjnych, z zastrzeżeniemWarunki określone w niniejszym dokumencie.
+1.1 Uznaczenie praw: Zgodnie z niniejszą licencją licencjodawca przyznaje licencjobiorcę niewyłączne, nie do przenoszenia, niepełnosprawne prawo do dostępu, przeglądania i korzystania z oprogramowania (zgodnie z definicją poniżej) wyłącznie do celów osobistych, niekomercyjnych, z zastrzeżeniemWarunki określone w niniejszym dokumencie.
 
 2. Definicje
 

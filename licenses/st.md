@@ -1,5 +1,5 @@
 Li-complys tsa li-complense tsa Collena (CSGL)
-Phepelo ea 1.0 Teko ea 1.0
+Mofuta oa 1.0
 
 Letsatsi le sebetsang: [2024 - 2028]
 

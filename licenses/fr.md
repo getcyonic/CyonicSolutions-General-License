@@ -1,5 +1,5 @@
 Cyonicsolutions General License (CSGL)
-Test de version 1.0
+Version 1.0
 
 Date d'entrée en vigueur: [2024 - 2028]
 
@@ -43,7 +43,7 @@ Remarque: Aux fins de cette licence, le "référentiel officiel du logiciel" fai
 
 6. résiliation
 
-6.1 Résiliation: Cette licence est efficace jusqu'à la fin.Le concédant peut résilier cette licence à tout moment lors d'un avis de titulaire de licence si le titulaire de licence inflige une durée ou une condition de cette licence.
+6.1 Résiliation: Cette licence est efficace jusqu'à la fin.Le concédant peut résilier cette licence à tout moment lors d'un avis de titulaire de licence si le titulaire de licence violait une durée ou de la condition de cette licence.
 
 6.2 Effet de la résiliation: Lors de la résiliation de cette licence, le titulaire de licence doit immédiatement cesser d'utiliser le logiciel et détruire toutes les copies du logiciel en sa possession.
 
@@ -57,7 +57,7 @@ Remarque: Aux fins de cette licence, le "référentiel officiel du logiciel" fai
 
 8.2 Modifications: Toute modification ou modification de cette licence doit être écrit et signé par les deux parties.
 
-8.3 Securabilité: si une disposition de cette licence est invalide ou inapplicable par une cour de compétence compétente, les dispositions restantes resteront pleinement en vigueur et en effet.
+8.3 Securabilité: si une disposition de cette licence est invalide ou inapplicable par une cour de compétence compétente, les dispositions restantes resteront en vigueur et en effet.
 
 ---
 Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

@@ -1,5 +1,5 @@
 Cynicsolutions General Daim Ntawv Tso Cai (CSGL)
-Version 1.0 xeem ntawv
+Version 1.0
 
 Hnub Pib: [2024 - 2028]
 
