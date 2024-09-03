@@ -1,0 +1,62 @@
+name: Revert Commit
+
+on:
+  workflow_dispatch:
+    inputs:
+      commit_sha:
+        description: 'SHA do commit a ser revertido'
+        required: true
+        default: 'changevalue'
+
+jobs:
+  revert:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Revert commit
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const commitSHA = '${{ github.event.inputs.commit_sha }}'; // SHA do commit fornecido como entrada
+
+            // Cria uma nova branch para o revert
+            const branchName = `revert-${commitSHA}`;
+            await github.rest.git.createRef({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              ref: `refs/heads/${branchName}`,
+              sha: (await github.rest.repos.getCommit({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: 'main' // Branch base para o revert
+              })).data.sha
+            });
+
+            // Faz o revert do commit na nova branch
+            await github.rest.repos.createCommit({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              message: `Revert "${commitSHA}"`,
+              tree: (await github.rest.repos.getCommit({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: branchName
+              })).data.tree.sha,
+              parents: [(await github.rest.repos.getCommit({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                ref: branchName
+              })).data.parents[0].sha]
+            });
+
+            // Cria um pull request para a branch principal
+            await github.rest.pulls.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `Revert "${commitSHA}"`,
+              head: branchName,
+              base: 'main' // Ou a branch onde você deseja aplicar o revert
+            });
