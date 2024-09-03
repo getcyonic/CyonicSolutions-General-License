@@ -1,5 +1,5 @@
 CyonicsOlutions Opća licenca (CSGL)
-Verzija 1.0 test
+Verzija 1.0
 
 Datum stupanja na snagu: [2024 - 2028]
 
@@ -23,7 +23,7 @@ Datum stupanja na snagu: [2024 - 2028]
 
 3.2.1 Podnošenje modifikacija: Svaka modifikacija ili izvedenica mora se podnijeti kao doprinos (zahtjev za povlačenje) službenom spremištu CyonicsOlutions na GitHub -u.Vlasnik licence mora slijediti uspostavljeni postupak doprinosa, koji uključuje stvaranje GitHub računa, formiranje spremišta i podnošenje zahtjeva za povlačenje u skladu s pruženim smjernicama.
 
-3.2.2 Pregled i prihvaćanje: CyonicsOlutions zadržava pravo pregleda, prihvaćanja ili odbijanja bilo koje podnesene izmjene.Nijedna izmjena ne smije se smatrati ugrađenim u softver dok se formalno prihvati i integriraju CyonicsOlutions u službeno spremište.
+3.2.2 Pregled i prihvaćanje: CyonicsOlutions zadržava pravo pregleda, prihvaćanja ili odbijanja bilo koje podnesene izmjene.Nijedna izmjena ne smije se smatrati ugrađenim u softver dok se CyonicsOlutions formalno prihvati i integrira u službeno spremište.
 
 3.2.3 Dokumentacija i potvrda: Vlasnik licence mora navesti odgovarajuću dokumentaciju za bilo koju predanu izmjenu i može se zahtijevati odgovarajuće potvrde u vezi s izmjenom.
 
@@ -49,7 +49,7 @@ Napomena: Za potrebe ove licence, "Službeno spremište softvera" odnosi se na s
 
 7. primjenjivi zakon
 
-7.1 Zakon o upravljanju: Ovom licencom uređuje se i tumači u skladu sa zakonima Brazila, bez obzira na njegove načela sukoba zakona.Svaki spor koji nastaje u skladu s ovom licencom podliježe ekskluzivnoj nadležnosti sudova smještenih u São Paulu.
+7.1 Zakon o upravljanju: Ovom licencom uređuje se i tumači u skladu sa zakonima Brazila, bez obzira na njegove načela sukoba zakona.Svaki spor koji proizlazi u skladu s ovom licencom podliježe isključivoj nadležnosti sudova koji se nalaze u São Paulu.
 
 8. Opće odredbe
 

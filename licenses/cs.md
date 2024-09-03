@@ -1,5 +1,5 @@
 Obecná licence Cyonicsolutions (CSGL)
-Verze 1.0 Test
+Verze 1.0
 
 Datum účinnosti: [2024 - 2028]
 
@@ -43,7 +43,7 @@ Poznámka: Pro účely této licence se „oficiální úložiště pro software
 
 6. Ukončení
 
-6.1 Ukončení: Tato licence je účinná až do ukončení.Licence může tuto licenci kdykoli ukončit na základě oznámení licence, pokud licence poruší jakýkoli termín nebo podmínku této licence.
+6.1 Ukončení: Tato licence je účinná až do ukončení.Licence může tuto licenci kdykoli ukončit po oznámení licence, pokud licence poruší jakýkoli termín nebo podmínku této licence.
 
 6.2 Vliv ukončení: Po ukončení této licence musí držitel licence okamžitě přestat používat software a zničit všechny kopie softwaru, který má v držení.
 

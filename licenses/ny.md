@@ -1,5 +1,5 @@
 CoptonicleSictions General License (CSGL)
-Version 1.0 kuyesa
+Version 1.0
 
 Tsiku Lothandiza: [2024 - 2028]
 

@@ -1,5 +1,5 @@
 Cyonicsolutions Lisans Jeneral (CSGL)
-Version 1.0 tès
+Version 1.0
 
 Dat efikas: [2024 - 2028]
 

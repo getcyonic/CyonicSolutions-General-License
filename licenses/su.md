@@ -1,5 +1,5 @@
 Lisénsi Umum Umum (CSGG)
-Versi 1.0 tés
+Versi 1.0
 
 Tanggal anu efektif: [2024 - 2028]
 

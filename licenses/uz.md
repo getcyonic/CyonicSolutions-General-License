@@ -1,5 +1,5 @@
 Conšolisoliyalar Bosh litsenziyasi (CSGL)
-1.0 versiyasi sinovi
+Versiya 1.0 versiyasi
 
 Samarali sana: [2024 - 2028]
 

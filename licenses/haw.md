@@ -1,5 +1,5 @@
 Cynicsical Firl Tracere (CSGL)
-Kākau inoa 1.0
+Manual 60
 
 Ka lā kūpono: [2024 - 2028]
 

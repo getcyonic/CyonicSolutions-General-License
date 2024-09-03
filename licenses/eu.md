@@ -1,5 +1,5 @@
 Cyonicsolutions Lizentzia Orokorra (CSGL)
-1.0 bertsioa proba
+1.0 bertsioa
 
 Data eraginkorra: [2024 - 2028]
 

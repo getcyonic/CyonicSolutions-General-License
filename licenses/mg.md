@@ -1,5 +1,5 @@
 CyonicSolutions Generation (CSGL)
-Fandikan-teny 1.0
+Version 1.0
 
 Daty mahomby: [2024 - 2028]
 

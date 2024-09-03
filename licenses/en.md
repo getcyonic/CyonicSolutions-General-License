@@ -1,5 +1,5 @@
 CyonicSolutions General License (CSGL)
-Version 1.0 test
+Version 1.0
 
 Effective Date: [2024 - 2028]
 

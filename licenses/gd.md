@@ -1,5 +1,5 @@
 Cead Coitcheann Coicich (CSGL)
-Tionndadh 1.0 Deuchainn
+Tionndadh 1.0
 
 Ceann-latha èifeachdach: [2024 - 2028]
 

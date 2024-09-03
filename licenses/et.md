@@ -1,5 +1,5 @@
 CyonicsLolutions üldine litsents (CSGL)
-Versioon 1.0 test
+Versioon 1.0
 
 Jõustumiskuupäev: [2024 - 2028]
 
@@ -57,7 +57,7 @@ MÄRKUS. Selle litsentsi kohaldamisel viitab "Tarkvara ametlik hoidla" hoidlale,
 
 8.2 Muudatused: selle litsentsi muutmine või muudatused peavad olema kirjalikult ja allkirjastatud mõlemad pooled.
 
-8.3 Eraldatavus: kui pädeva kohtu jurisdiktsiooni kohus on selle litsentsi mis tahes sätet kehtetuks või jõustamatu, jäävad ülejäänud sätted täielikult jõu ja mõjuga.
+8.3 Eraldatavus: kui pädeva kohtu jurisdiktsiooni kohus leitakse, et selle litsentsi säte on kehtetu või jõustamatu, jäävad ülejäänud sätted täies jõusse ja mõju.
 
 ---
 Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

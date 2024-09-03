@@ -1,11 +1,11 @@
 Cyonicsolutions Genel Lisansı (CSGL)
-Sürüm 1.0 Test
+Sürüm 1.0
 
 Etkili Tarih: [2024 - 2028]
 
 1. Lisans Hibe
 
-1.1 Hakların Hibe: Bu lisans kapsamında, lisans veren hibe, lisans sahibine, yazılıma (aşağıda tanımlandığı gibi) erişme, görüntüleme ve kullanma hakkı (yalnızca aşağıda tanımlandığı gibi) lisans alan kişi, kişisel, ticari olmayan amaçlar için,Burada belirtilen hüküm ve koşullar.
+1.1 Hakların Hibe: Bu lisans kapsamında, lisans veren hibe, lisans sahibine, yazılıma (aşağıda tanımlandığı gibi) erişme, görüntüleme ve kullanma hakkı (yalnızca aşağıda tanımlandığı gibi), kişisel, ticari olmayan amaçlar için lisans alan kişiye,Burada belirtilen hüküm ve koşullar.
 
 2. Tanımlar
 
@@ -57,7 +57,7 @@ Not: Bu lisansın amaçları doğrultusunda, "Yazılım için Resmi Depo" __URL_
 
 8.2 Değişiklikler: Bu lisansda yapılan herhangi bir değişiklik veya değişiklik yazılı olmalı ve her iki taraf tarafından imzalanmalıdır.
 
-8.3 Kesilebilirlik: Bu lisansın herhangi bir hükmünün yetkili bir yargı mahkemesi tarafından geçersiz veya uygulanamadığı tespit edilirse, geri kalan hükümler tam olarak yürürlükte kalacaktır.
+8.3 Kesilebilirlik: Bu lisansın herhangi bir hükmünün, yetkili bir yargı mahkemesi tarafından geçersiz veya uygulanamadığı tespit edilirse, geri kalan hükümler tam olarak yürürlükte kalacaktır.
 
 ---
 Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

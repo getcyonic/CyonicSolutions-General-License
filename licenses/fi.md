@@ -1,5 +1,5 @@
 Cyonicsolutions General License (CSGL)
-Versio 1.0 -testi
+Versio 1.0
 
 Voimapäivä: [2024 - 2028]
 
@@ -45,7 +45,7 @@ HUOMAUTUS: Tätä lisenssiä varten "ohjelmiston virallinen arkisto" viittaa __U
 
 6.1 Pääte: Tämä lisenssi on voimassa, kunnes lopetetaan.Lisenssinantaja voi lopettaa tämän lisenssin milloin tahansa ilmoituksen lisenssinsaajalle, jos lisenssinsaaja rikkoo tämän lisenssin ehtoa tai ehtoa.
 
-6.2 Päätösten vaikutus: Tämän lisenssin lopettamisen yhteydessä lisenssinsaajan on välittömästi lopetettava ohjelmiston avulla ja tuhottava kaikki hallussaan olevan ohjelmiston kopiot.
+6.2 Päätettäessä: Tämän lisenssin lopettamisen yhteydessä lisenssinsaajan on välittömästi lopetettava ohjelmiston avulla ja tuhottava kaikki hallussaan olevan ohjelmiston kopiot.
 
 7. Sovellettava laki
 

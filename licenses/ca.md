@@ -1,5 +1,5 @@
 Llicència general de Cyonicsolutions (CSGL)
-Versió 1.0 Prova
+Versió 1.0
 
 Data d’efectivitat: [2024 - 2028]
 

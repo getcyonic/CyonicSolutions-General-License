@@ -1,5 +1,5 @@
 Cyonicsolutions General License (CSGL)
-Version 1.0 -test
+Version 1.0
 
 Effektiv datum: [2024 - 2028]
 
@@ -53,7 +53,7 @@ Obs: För denna licens, hänvisar det "officiella förvaret för programvaran" t
 
 8. Allmänna bestämmelser
 
-8.1 Hela avtalet: Denna licens utgör hela avtalet mellan parterna med avseende på programvaran och ersätter alla tidigare eller samtidiga avtal, skriftliga eller muntliga, relaterade till programvaran.
+8.1 Hela avtal: Denna licens utgör hela avtalet mellan parterna med avseende på programvaran och ersätter alla tidigare eller samtidiga avtal, skriftliga eller muntliga, relaterade till programvaran.
 
 8.2 Ändringar: Alla ändringar eller ändringar av denna licens måste vara skriftligt och undertecknat av båda parter.
 

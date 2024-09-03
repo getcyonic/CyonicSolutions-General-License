@@ -1,11 +1,11 @@
 Licenza generale di cyonicsolutions (CSGL)
-Versione 1.0 Test
+Versione 1.0
 
 Data di efficacia: [2024 - 2028]
 
 1. Concesso di licenza
 
-1.1 Concessione dei diritti: ai sensi della presente licenza, il licenziatario concede un licenziatario un diritto non esclusivo, non trasferibile, non pubblicensibile di accedere, visualizzare e utilizzare il software (come definito di seguito) esclusivamente per scopi personali e non commerciali, soggetti aI termini e le condizioni qui stabiliti.
+1.1 Concessione dei diritti: ai sensi della presente licenza, il licenziatario concede un licenziatario un diritto non esclusivo, non trasferibile, non sostituibile di accedere, visualizzare e utilizzare il software (come definito di seguito) esclusivamente per scopi personali e non commerciali, soggetti aI termini e le condizioni qui stabiliti.
 
 2. Definizioni
 
@@ -43,13 +43,13 @@ Nota: ai fini della presente licenza, il "repository ufficiale per il software" 
 
 6. Terminatura
 
-6.1 Risoluzione: questa licenza è efficace fino a quando non è terminata.Il licenziante può interrompere la presente licenza in qualsiasi momento in caso di preavviso al licenziatario se il licenziatario viola qualsiasi termine o condizione della presente licenza.
+6.1 Risoluzione: questa licenza è efficace fino a quando non è risolta.Il licenziante può interrompere la presente licenza in qualsiasi momento in caso di preavviso al licenziatario se il licenziatario viola qualsiasi termine o condizione della presente licenza.
 
 6.2 Effetto della risoluzione: al momento della risoluzione di questa licenza, il licenziatario deve smettere immediatamente di utilizzare il software e distruggere tutte le copie del software in suo possesso.
 
 7. Legge applicabile
 
-7.1 Legge di governo: questa licenza sarà regolata e interpretata in conformità con le leggi del Brasile, indipendentemente dai principi dei conflitti di leggi.Qualsiasi controversia derivante ai sensi della presente licenza è soggetta alla giurisdizione esclusiva dei tribunali situati a San Paolo.
+7.1 Legge di governo: questa licenza sarà regolata e interpretata in conformità con le leggi del Brasile, indipendentemente dai suoi conflitti di leggi.Qualsiasi controversia derivante ai sensi della presente licenza è soggetta alla giurisdizione esclusiva dei tribunali situati a San Paolo.
 
 8. Disposizioni generali
 
@@ -57,7 +57,7 @@ Nota: ai fini della presente licenza, il "repository ufficiale per il software" 
 
 8.2 Modifiche: qualsiasi modifica o emendamento a questa licenza deve essere scritta e firmata da entrambe le parti.
 
-8.3 Severabilità: se qualsiasi disposizione di questa licenza è risultata non valida o inapplicabile da un tribunale della giurisdizione competente, le disposizioni rimanenti rimarranno in vigore e effetto.
+8.3 Severabilità: se qualsiasi disposizione di questa licenza è ritenuta non valida o inapplicabile da un tribunale della giurisdizione competente, le disposizioni rimanenti rimarranno in vigore e effetto.
 
 ---
 Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

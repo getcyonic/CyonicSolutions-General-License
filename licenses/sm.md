@@ -1,5 +1,5 @@
 Cloonicaliction General Solitulafono (CSGL)
-Version 1.0 Suʻega
+Fasioti 1.0
 
 Aso aoga: [2024 - 2028]
 

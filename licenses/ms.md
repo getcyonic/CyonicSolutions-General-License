@@ -1,5 +1,5 @@
 Lesen Umum Cyonicsolutions (CSGL)
-Ujian Versi 1.0
+Versi 1.0
 
 Tarikh Berkuatkuasa: [2024 - 2028]
 

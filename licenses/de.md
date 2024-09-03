@@ -1,11 +1,11 @@
 Cyonicolutions Allgemeine Lizenz (CSGL)
-Version 1.0 Test
+Version 1.0
 
 Datum des Inkrafttretens: [2024 - 2028]
 
 1. Lizenz gewähren
 
-1.1 Gewährung von Rechten: Im Rahmen dieser Lizenz Grants-Lizenznehmer Grantdie hierin festgelegten Bedingungen.
+1.1 Gewährung von Rechten: Im Rahmen dieser Lizenz Grants-Lizenznehmer ein nicht exklusives, nicht übertragbares, nicht veröffentliches Recht, die Software (wie unten definiert) ausschließlich für persönliche, nichtkommerzielle Zwecke zuzugreifen, anzeigen und zu verwenden, vorbehaltlich derdie hierin festgelegten Bedingungen.
 
 2. Definitionen
 
@@ -37,7 +37,7 @@ Hinweis: Für die Zwecke dieser Lizenz bezieht sich das "Offizielle Repository f
 
 5. Garantien und Haftungsausschluss
 
-5.1 Keine Garantie: Die Software wird "wie" ohne Garantie jeglicher Art, entweder ausdrücklich noch impliziert, einschließlich, aber nicht beschränkt auf die impliziten Garantien für Handelsfähigkeit, Fitness für einen bestimmten Zweck oder Nichtverletzung bereitgestellt.
+5.1 Keine Garantie: Die Software wird "wie ist" ohne Garantie jeglicher Art, entweder ausdrücklich oder impliziert, einschließlich, aber nicht beschränkt auf die impliziten Garantien für Handelsfähigkeit, Fitness für einen bestimmten Zweck oder Nichtverletzung bereitgestellt.
 
 5.2 Haftungsausschluss: Der Lizenzgeber haftet nicht für direkte, indirekte, zufällige, besondere oder Folgeschäden, die sich aus der Verwendung oder Unfähigkeit zur Verwendung der Software ergeben.
 

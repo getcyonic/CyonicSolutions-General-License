@@ -1,5 +1,5 @@
 Splošna licenca CyonicSolutions (CSGL)
-Različica 1.0 test
+Različica 1.0
 
 Datum veljavnosti: [2024 - 2028]
 
@@ -43,7 +43,7 @@ OPOMBA: Za namene te licence se "uradno skladišče programske opreme" nanaša n
 
 6. Prenehanje
 
-6.1 Prekinitev: Ta licenca je večnamenska do prekinitve.Dajatelj licence lahko to licenco kadar koli odpove, če imetnik licence odpove, če imetnik licence krši kateri koli rok ali pogoj te licence.
+6.1 Prekinitev: Ta licenca je večnamenska do prekinitve.Dajalec licence lahko to licenco kadar koli odpove, če licenci licence odpove, če imetnik licence krši kateri koli rok ali pogoj te licence.
 
 6.2 Učinek odpovedi: Po prenehanju te licence mora imetnik licence takoj prenehati s programsko opremo in uničiti vse kopije programske opreme, ki jih ima v lasti.
 

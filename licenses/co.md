@@ -1,5 +1,5 @@
 Licenza Generale di Kononicsoluzione (CSGL)
-Versione 1.0 Test
+Versione 1.0
 
 Data Efficiente: [2024 - 2028]
 

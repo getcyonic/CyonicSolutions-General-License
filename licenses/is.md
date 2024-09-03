@@ -1,5 +1,5 @@
 Cyonicsolutions Almennt leyfi (CSGL)
-Útgáfa 1.0 próf
+Útgáfa 1.0
 
 Gildisdagsetning: [2024 - 2028]
 

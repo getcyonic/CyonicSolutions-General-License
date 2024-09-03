@@ -1,5 +1,5 @@
 I-cynicans ilayisensi ngokubanzi (CSGL)
-Inguqulelo 1.0 Uvavanyo
+Inguqulelo 1.0
 
 Umhla ofanelekileyo: [2024 - 2028]
 

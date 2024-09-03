@@ -1,5 +1,5 @@
 Leseni ya Jumla ya Cyonicsulutions (CSGL)
-Toleo la 1.0 mtihani
+Toleo la 1.0
 
 Tarehe ya Ufanisi: [2024 - 2028]
 
