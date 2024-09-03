@@ -1,0 +1,25 @@
+name: Notify on PR Merge
+
+on:
+  pull_request:
+    types: [closed]  # Aciona o workflow quando um pull request é fechado
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true  # Verifica se o PR foi mesclado
+
+    steps:
+      - name: Comment on PR merge
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const pr = github.context.payload.pull_request;
+            const message = `Thank you @${pr.user.login} for your contribution! Your pull request has been successfully merged.`;
+
+            await github.rest.issues.createComment({
+              issue_number: pr.number,
+              owner: github.context.repo.owner,
+              repo: github.context.repo.repo,
+              body: message
+            });
