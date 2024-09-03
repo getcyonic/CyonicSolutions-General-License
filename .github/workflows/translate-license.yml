@@ -54,25 +54,3 @@ jobs:
         body: 'This PR updates the translated license files. Please review and merge.'
         base: main
         branch: update-translations
-
-    - name: Lock PR comments
-      uses: actions/github-script@v6
-      with:
-        script: |
-          const pullRequestNumber = '${{ steps.create_pr.outputs.pull-request-number }}'; // Obtém o número da PR do passo anterior
-          const repo = context.repo.repo;
-          const owner = context.repo.owner;
-
-          if (!pullRequestNumber) {
-            throw new Error('Pull Request number is undefined');
-          }
-
-          // Lock comments on the PR (note: locking comments is not directly supported, this will only close the PR as an example)
-          await github.rest.pulls.update({
-            owner: owner,
-            repo: repo,
-            pull_number: pullRequestNumber,
-            state: 'closed'
-          });
-
-          console.log(`PR #${pullRequestNumber} is now closed`);
