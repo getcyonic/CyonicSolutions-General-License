@@ -1,5 +1,5 @@
 Licencia general de Cyonicsolutions (CSGL)
-Versión 1.0
+Prueba de la versión 1.0
 
 Fecha de vigencia: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Nota: Para los propósitos de esta licencia, el "repositorio oficial del softwar
 8.3 Specabilidad: si se considera que alguna disposición de esta licencia es inválida o inaplicable por un tribunal de jurisdicción competente, las disposiciones restantes permanecerán en plena vigencia y efecto.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

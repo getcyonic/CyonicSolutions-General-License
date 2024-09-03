@@ -1,5 +1,5 @@
 Cyonicsolutions Lizentzia Orokorra (CSGL)
-1.0 bertsioa
+1.0 bertsioa proba
 
 Data eraginkorra: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Oharra: "Softwarearen biltegi ofizialak" __URL_0__ ostatatutako biltegiari egite
 8.3 Zaintasuna: lizentzia honen xedapenak jurisdikzio eskudunaren auzitegi batek baliogabea edo berrezargarria bada, gainerako xedapenak indar eta efektu osoz geratuko dira.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

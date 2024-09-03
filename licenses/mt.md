@@ -1,5 +1,5 @@
 Cyonicsolutions License License (CSGL)
-Verżjoni 1.0
+Test tal-verżjoni 1.0
 
 Data effettiva: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Nota: Għall-finijiet ta 'din il-liċenzja, ir- "repożitorju uffiċjali għas-s
 8.3 Severabilità: Jekk xi dispożizzjoni ta 'din il-liċenzja tinstab li hija invalida jew li ma tistax tiġi infurzata minn qorti ta' ġurisdizzjoni kompetenti, id-dispożizzjonijiet li jifdal jibqgħu fis-seħħ u l-effett kollu.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

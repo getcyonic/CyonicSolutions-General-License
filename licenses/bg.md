@@ -1,5 +1,5 @@
 Cyonicsolutions Общ лиценз (CSGL)
-Версия 1.0
+Версия 1.0 тест
 
 Дата на влизане в сила: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Cyonicsolutions Общ лиценз (CSGL)
 8.3 Разрязване: Ако се установи, че някаква разпоредба на този лиценз е невалидна или неприложима от съд на компетентната юрисдикция, останалите разпоредби ще останат в пълна сила и следствие.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

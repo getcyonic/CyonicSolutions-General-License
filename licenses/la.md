@@ -1,5 +1,5 @@
 Cyonicsolutions Generalis License (CSGL)
-Version 1.0
+Poema 1.0 test
 
 Efficens Date: [MMXXIV - MMXXVIII]
 
@@ -60,4 +60,4 @@ Nota: nam proposita huius licentia, in "officialis repositum pro software" refer
 8,3 Severability: Si quis de hoc licentia inventum esse invalidum aut unenforceable per atrium competentis iurisdictionem, reliqua praescripta in plena vis et effectus.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

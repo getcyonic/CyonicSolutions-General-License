@@ -1,5 +1,5 @@
 ਸਿਓਨਸੋਲਿ .ਸ਼ਨ ਜਨਰਲ ਲਾਇਸੈਂਸ (CSGL)
-ਸੰਸਕਰਣ 1.0
+ਸੰਸਕਰਣ 1.0 ਟੈਸਟ
 
 ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਤਾਰੀਖ: [2024 - 2028]
 
@@ -60,4 +60,4 @@
 8.3 ਤਣਾਅਪੂਰਨਤਾ: ਜੇ ਇਸ ਲਾਇਸੈਂਸ ਦਾ ਕੋਈ ਵੀ ਵਿਵਸਥਾ ਯੋਗ ਅਧਿਕਾਰ ਖੇਤਰ ਦੀ ਅਦਾਲਤ ਦੁਆਰਾ ਅਵੈਧ ਜਾਂ ਅਸੁਰੱਖਿਅਤ ਪਾਇਆ ਜਾਂਦਾ ਹੈ, ਬਾਕੀ ਪ੍ਰਬੰਧ ਪੂਰੀ ਤਾਕਤ ਅਤੇ ਪ੍ਰਭਾਵ ਵਿੱਚ ਰਹਿਣਗੇ.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

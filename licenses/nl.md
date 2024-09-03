@@ -1,5 +1,5 @@
 Cyonicsolutions Algemene licentie (CSGL)
-Versie 1.0
+Versie 1.0 -test
 
 Ingangsdatum: [2024 - 2028]
 
@@ -55,9 +55,9 @@ OPMERKING: Voor de toepassing van deze licentie verwijst de "officiële reposito
 
 8.1 volledige overeenkomst: deze licentie vormt de volledige overeenkomst tussen de partijen met betrekking tot de software en vervangt alle eerdere of gelijktijdige overeenkomsten, schriftelijk of mondeling, met betrekking tot de software.
 
-8.2 Wijzigingen: Elke wijziging of wijziging van deze licentie moet door beide partijen schriftelijk zijn en ondertekend.
+8.2 Wijzigingen: Elke wijziging of wijziging van deze licentie moet door beide partijen worden geschreven en ondertekend.
 
 8.3 SEERBAARHEID: Als een bepaling van deze licentie ongeldig of niet afdwingbaar is door een rechtbank van bevoegde jurisdictie, blijven de resterende bepalingen volledig van kracht en effect.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

@@ -1,5 +1,5 @@
 Splošna licenca CyonicSolutions (CSGL)
-Različica 1.0
+Različica 1.0 test
 
 Datum veljavnosti: [2024 - 2028]
 
@@ -29,7 +29,7 @@ Datum veljavnosti: [2024 - 2028]
 
 3.2.4 Brez lokalnih sprememb: Lokalne spremembe, ki jih opravi imetnik licence, ki niso predložene in sprejete prek GitHuba, niso dovoljene in se bodo štele za kršitev pogojev te licence.
 
-OPOMBA: Za namene te licence se "uradno skladišče programske opreme" nanaša na skladišče, ki ga gosti na __URL_0__, je odgovoren za pregledovanje in upoštevanje smernic in postopkov, ki jih zagotavlja Cyonicsolutions za prispevek.
+OPOMBA: Za namene te licence se "uradno skladišče programske opreme" nanaša na skladišče, ki ga gostijo __url_0__, je odgovoren za pregledovanje in upoštevanje smernic in postopkov, ki jih zagotavlja Cyonicsolutions za prispevek.
 
 4. Lastništvo
 
@@ -43,7 +43,7 @@ OPOMBA: Za namene te licence se "uradno skladišče programske opreme" nanaša n
 
 6. Prenehanje
 
-6.1 Prekinitev: Ta licenca je večnamenska do prekinitve.Dajalec licence lahko to licenco kadar koli odpove, če licenci licence odpove, če imetnik licence krši kateri koli rok ali pogoj te licence.
+6.1 Prekinitev: Ta licenca je večnamenska do prekinitve.Dajatelj licence lahko to licenco kadar koli odpove, če imetnik licence odpove, če imetnik licence krši kateri koli rok ali pogoj te licence.
 
 6.2 Učinek odpovedi: Po prenehanju te licence mora imetnik licence takoj prenehati s programsko opremo in uničiti vse kopije programske opreme, ki jih ima v lasti.
 
@@ -55,9 +55,9 @@ OPOMBA: Za namene te licence se "uradno skladišče programske opreme" nanaša n
 
 8.1 Celoten sporazum: Ta licenca predstavlja celoten sporazum med strankami v zvezi s programsko opremo in nadomešča vse predhodne ali sodobne sporazume, napisane ali ustne, ki se nanašajo na programsko opremo.
 
-8.2 Spremembe: Vsaka sprememba ali sprememba te licence morata biti v pisni obliki in podpisana s strani obeh strani.
+8.2 Spremembe: Vsaka sprememba ali sprememba te licence morata biti v pisni obliki in podpisovala obe strani.
 
 8.3 Odstranjevanje: Če je za katero koli določbo te licence Sodišče pristojno pristojnost neveljavno ali neizvršljivo, bodo preostale določbe ostale v celoti in učinku.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

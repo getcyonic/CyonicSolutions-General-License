@@ -1,5 +1,5 @@
 Cyonicsolutions Lisans Jeneral (CSGL)
-Version 1.0
+Version 1.0 tès
 
 Dat efikas: [2024 - 2028]
 
@@ -29,7 +29,7 @@ Dat efikas: [2024 - 2028]
 
 3.2.4 Pa gen okenn chanjman lokal: modifikasyon lokal ki fèt pa lisansye ki pa soumèt ak aksepte nan GitHub yo pa pèmèt epi yo pral konsidere kòm yon vyolasyon kondisyon ki nan lisans sa a.
 
-Remak: Pou rezon nan lisans sa a, "Repository ofisyèl la pou lojisyèl an" refere a repozitwa a akomode nan __URL_0__ li se responsablite moun ki gen lisans lan yo revize epi swiv direktiv yo ak pwosedi yo bay nan Cyonicsolutions pou kontribiye.
+Remak: Pou rezon nan lisans sa a, "Repository ofisyèl la pou lojisyèl an" refere a repozitwa a akomode nan __URL_0__ li se responsablite moun ki gen lisans lan yo revize epi swiv direktiv yo ak pwosedi ki ofri pa Cyonicsolutions pou kontribiye.
 
 4. Pwopriyetè
 
@@ -60,4 +60,4 @@ Remak: Pou rezon nan lisans sa a, "Repository ofisyèl la pou lojisyèl an" refe
 8.3 Sevabilite: Si yo jwenn nenpòt ki dispozisyon nan lisans sa a yo dwe valab oswa ki pa ka ranfòse pa yon tribinal ki gen jiridiksyon konpetan, dispozisyon ki rete yo ap rete nan tout fòs ak efè.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

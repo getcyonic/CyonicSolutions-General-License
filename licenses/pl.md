@@ -1,5 +1,5 @@
 Ogólna licencja Cyonicsolutions (CSGL)
-Wersja 1.0
+Wersja 1.0 Test
 
 Data wejścia w życie: [2024 - 2028]
 
@@ -29,7 +29,7 @@ Data wejścia w życie: [2024 - 2028]
 
 3.2.4 Brak zmian lokalnych: Modyfikacje lokalne dokonane przez licencjobiorcę, które nie są przesłane i akceptowane za pośrednictwem GitHub, nie są dozwolone i będą uważane za naruszenie warunków niniejszej Licencji.
 
-Uwaga: Do celów niniejszej licencji „oficjalne repozytorium oprogramowania” odnosi się do repozytorium hostowanego na __URL_0__ Odpowiedzialność Licencjobiorca jest sprawdzanie i przestrzeganie wytycznych i procedur dostarczonych przez Cyonicsolutions do wniesienia wkładu.
+Uwaga: Do celów niniejszej licencji „oficjalne repozytorium oprogramowania” odnosi się do repozytorium hostowanego na __URL_0__ Odpowiedzialność Licencjobiorca jest sprawdzanie i postępowanie zgodnie z wytycznymi i procedurami dostarczonymi przez Cyonicsolutions do wniesienia wkładu.
 
 4. Własność
 
@@ -60,4 +60,4 @@ Uwaga: Do celów niniejszej licencji „oficjalne repozytorium oprogramowania”
 8.3 Oddzielność: Jeżeli jakikolwiek postanowienie niniejszej Licencji okaże się nieważne lub niewykonalne przez sąd właściwej jurysdykcji, pozostałe przepisy pozostaną w pełni siły i skutki.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

@@ -1,5 +1,5 @@
 Cead Coitcheann Coicich (CSGL)
-Tionndadh 1.0
+Tionndadh 1.0 Deuchainn
 
 Ceann-latha èifeachdach: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Nota: Airson adhbharan a 'cheadachais seo, tha an "Repoitidhce Oifigeil airson B
 8.3 Cìs Ionnsachaidh Gheibhear a-steach gu bheil solar a 'cheadachais seo neo-dhligheach no neo-dhligheach le cùirt USurisictionity Comasach, fuirichidh na h-ullachaidhean a tha air fhàgail ann an làn chumhachd agus làn bhuaidh.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

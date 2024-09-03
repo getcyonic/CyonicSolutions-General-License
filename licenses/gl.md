@@ -1,5 +1,5 @@
 Licencia xeral de Cyonicsolutions (CSGL)
-Versión 1.0
+Proba da versión 1.0
 
 Data de entrada en vigor: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Nota: Para os efectos desta licenza, o "repositorio oficial do software" refíre
 8.3 Severabilidade: Se algunha disposición desta licenza é inválida ou inaplicable por un tribunal de xurisdición competente, as disposicións restantes permanecerán en vigor e efecto.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

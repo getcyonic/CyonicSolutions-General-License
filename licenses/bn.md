@@ -1,5 +1,5 @@
 সাইনিকিকসোলিউশনস জেনারেল লাইসেন্স (সিএসজিএল)
-সংস্করণ 1.0
+সংস্করণ 1.0 পরীক্ষা
 
 কার্যকর তারিখ: [2024 - 2028]
 
@@ -25,7 +25,7 @@
 
 ৩.২.২ পর্যালোচনা এবং গ্রহণযোগ্যতা: সাইনোনিকসোলিউশনগুলি কোনও জমা দেওয়া পরিবর্তন পর্যালোচনা, গ্রহণ বা প্রত্যাখ্যান করার অধিকার সংরক্ষণ করে।আনুষ্ঠানিকভাবে গৃহীত এবং সরকারী ভাণ্ডারগুলিতে সাদৃশ্য দ্বারা সংহত না হওয়া পর্যন্ত কোনও পরিবর্তনকে সফ্টওয়্যারটিতে অন্তর্ভুক্ত বলে গণ্য করা হবে না।
 
-৩.২.৩ ডকুমেন্টেশন এবং স্বীকৃতি: লাইসেন্সদাতাকে অবশ্যই যে কোনও জমা দেওয়া পরিবর্তনের জন্য পর্যাপ্ত ডকুমেন্টেশন সরবরাহ করতে হবে এবং সংশোধন সম্পর্কিত উপযুক্ত স্বীকৃতি সরবরাহ করতে হবে।
+৩.২.৩ ডকুমেন্টেশন এবং স্বীকৃতি: লাইসেন্সদাতাকে অবশ্যই যে কোনও জমা দেওয়া পরিবর্তনের জন্য পর্যাপ্ত ডকুমেন্টেশন সরবরাহ করতে হবে এবং সংশোধন সম্পর্কিত উপযুক্ত স্বীকৃতি প্রদানের প্রয়োজন হতে পারে।
 
 ৩.২.৪ কোনও স্থানীয় পরিবর্তন নয়: গিটহাবের মাধ্যমে জমা দেওয়া এবং গ্রহণযোগ্য লাইসেন্সদাতাদের দ্বারা স্থানীয় পরিবর্তনগুলি অনুমোদিত নয় এবং এই লাইসেন্সের শর্তাদি লঙ্ঘন হিসাবে বিবেচিত হবে।
 
@@ -60,4 +60,4 @@
 ৮.৩ বিচ্ছিন্নতা: যদি এই লাইসেন্সের কোনও বিধানটি উপযুক্ত এখতিয়ারের আদালত দ্বারা অবৈধ বা অযোগ্য প্রয়োগযোগ্য বলে মনে হয় তবে বাকী বিধানগুলি পুরোপুরি কার্যকর এবং কার্যকর থাকবে।
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

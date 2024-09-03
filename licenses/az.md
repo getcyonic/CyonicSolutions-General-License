@@ -1,5 +1,5 @@
 Smoniksolutions Ümumi Lisenziyası (CSGL)
-Version 1.0
+Version 1.0 testi
 
 Effektiv Tarix: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Qeyd: Bu lisenziyanın məqsədləri üçün "Proqram üçün rəsmi depo" __URL
 8.3 ŞƏRHLƏR: Bu lisenziyanın hər hansı bir müddəası, səlahiyyətli yurisdiksiya məhkəməsi tərəfindən etibarsız və ya məcburi olduğu aşkar edilərsə, qalan müddəalar tam güc və təsirdə qalacaqdır.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

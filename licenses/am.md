@@ -1,5 +1,5 @@
 ቂዮፊያዊ ፍቃድ (CSGL)
-ስሪት 1.0
+ስሪት 1.0 ሙከራ
 
 ውጤታማ ቀን: - [2024 - 2028]
 
@@ -60,4 +60,4 @@
 8.3 ከባድ: ማንኛውም የዚህ ፈቃድ አቅርቦት ደህንነቱ በተጠበቀ ሁኔታ በተሰጠበት ፍርድ ቤት ልክ ያልሆነ ወይም ያልተጠበቁ ከሆነ ቀሪዎቹ ድንጋጌዎች በሙሉ ኃይል እና ውጤት ይቀራሉ.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

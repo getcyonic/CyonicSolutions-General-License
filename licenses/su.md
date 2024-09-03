@@ -1,5 +1,5 @@
 Lisénsi Umum Umum (CSGG)
-Versi 1.0
+Versi 1.0 tés
 
 Tanggal anu efektif: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Catetan: pikeun tujuan lisénsi ieu, repositama bersalik resmi kanggo parangkat 
 8.3 Pesesan: Upami aya panyediaan lisénsi ieu kapanggih janten henteu leres atanapi henteu leres-leres ku pangadilan yurisdiksi anu kompetén, sasadiaan.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

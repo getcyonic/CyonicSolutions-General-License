@@ -60,4 +60,4 @@ Cyonicsolutions ընդհանուր լիցենզիա (CSGL)
 8.3 Խստություն. Եթե այս լիցենզիայի որեւէ դրույթ գտնվի իրավասու իրավասության դատարանի կողմից անվավեր կամ չկիրառելի, մնացած դրույթները կմնան ամբողջ ուժով եւ էֆեկտով:
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

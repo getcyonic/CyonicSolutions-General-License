@@ -1,5 +1,5 @@
 CyonicsLolutions üldine litsents (CSGL)
-Versioon 1.0
+Versioon 1.0 test
 
 Jõustumiskuupäev: [2024 - 2028]
 
@@ -43,9 +43,9 @@ MÄRKUS. Selle litsentsi kohaldamisel viitab "Tarkvara ametlik hoidla" hoidlale,
 
 6. Lõpetamine
 
-6.1 Lõpetamine: see litsents jõustub kuni lõppemiseni.Litsentsiandja võib selle litsentsi igal ajal lõpetada, kui litsentsisaaja teatis, kui litsentsisaaja rikub selle litsentsi mis tahes ametiaega või tingimusi.
+6.1 Lõpetamine: see litsents jõustub kuni lõppemiseni.Litsentsiandja võib selle litsentsi igal ajal lõpetada, kui litsentsisaaja teatab, kui litsentsisaaja rikub selle litsentsi mis tahes ametiaega või tingimusi.
 
-6.2 Lõpetamise mõju: Selle litsentsi lõpetamisel peab litsentsisaaja viivitamatult lõpetama tarkvara kasutamise ja hävitama kõik tema valduses oleva tarkvara koopiad.
+6.2 Lõpetamise mõju: selle litsentsi lõpetamisel peab litsentsisaaja viivitamatult lõpetama tarkvara kasutamise ja hävitama kõik tema valduses oleva tarkvara koopiad.
 
 7. Kohaldatav seadus
 
@@ -57,7 +57,7 @@ MÄRKUS. Selle litsentsi kohaldamisel viitab "Tarkvara ametlik hoidla" hoidlale,
 
 8.2 Muudatused: selle litsentsi muutmine või muudatused peavad olema kirjalikult ja allkirjastatud mõlemad pooled.
 
-8.3 Eraldatavus: kui pädeva kohtu jurisdiktsiooni kohus leitakse, et selle litsentsi säte on kehtetu või jõustamatu, jäävad ülejäänud sätted täies jõusse ja mõju.
+8.3 Eraldatavus: kui pädeva kohtu jurisdiktsiooni kohus on selle litsentsi mis tahes sätet kehtetuks või jõustamatu, jäävad ülejäänud sätted täielikult jõu ja mõjuga.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

@@ -1,5 +1,5 @@
 സൈനോണിപ്പിക്പാരുകൾ പൊതു ലൈസൻസ് (സിഎസ്എൽ)
-പതിപ്പ് 1.0
+പതിപ്പ് 1.0 ടെസ്റ്റ്
 
 പ്രാബല്യത്തിലുള്ള തീയതി: [2024 - 2028]
 
@@ -60,4 +60,4 @@
 8.3 വേർതിരിക്കൽ: ഈ ലൈസൻസിലെ ഏതെങ്കിലും വ്യവസ്ഥ അസാധുവായ യോഗ്യതയുള്ള അധികാരപരിധിയിൽ അസാധുവാണ് അല്ലെങ്കിൽ അൺഫോം ചെയ്യാനാകുമെങ്കിൽ, ശേഷിക്കുന്ന വ്യവസ്ഥകൾ പൂർണ്ണ ശക്തിയിലും ഫലത്തിലും തുടരും.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

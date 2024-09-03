@@ -1,5 +1,5 @@
 சியோனிக்சோலூஷன்ஸ் பொது உரிமம் (சி.எஸ்.ஜி.எல்)
-பதிப்பு 1.0
+பதிப்பு 1.0 சோதனை
 
 பயனுள்ள தேதி: [2024 - 2028]
 
@@ -55,9 +55,9 @@
 
 8.1 முழு ஒப்பந்தம்: இந்த உரிமம் மென்பொருளைப் பொறுத்தவரை கட்சிகளுக்கிடையேயான முழு ஒப்பந்தத்தையும் உருவாக்குகிறது மற்றும் மென்பொருள் தொடர்பான அனைத்து முன் அல்லது சமகால ஒப்பந்தங்களையும் எழுதப்பட்ட அல்லது வாய்வழி.
 
-8.2 மாற்றங்கள்: இந்த உரிமத்தின் எந்தவொரு மாற்றமும் அல்லது திருத்தமும் இரு தரப்பினரும் எழுத்துப்பூர்வமாக இருக்க வேண்டும் மற்றும் கையொப்பமிட வேண்டும்.
+8.2 மாற்றங்கள்: இந்த உரிமத்திற்கான எந்த மாற்றமும் அல்லது திருத்தமும் இரு தரப்பினரும் எழுத்துப்பூர்வமாக இருக்க வேண்டும் மற்றும் கையொப்பமிட வேண்டும்.
 
 8.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

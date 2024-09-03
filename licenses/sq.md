@@ -1,5 +1,5 @@
 Licenca e përgjithshme e Citonicsolutions (CSGL)
-Versioni 1.0
+Testi i Versionit 1.0
 
 Data e efektshme: [2024 - 2028]
 
@@ -29,7 +29,7 @@ Data e efektshme: [2024 - 2028]
 
 3.2.4 Asnjë ndryshim lokal: Modifikimet lokale të bëra nga i licencuari që nuk dorëzohen dhe pranohen përmes GitHub nuk lejohen dhe do të konsiderohen një shkelje e kushteve të kësaj licence.
 
-Shënim: Për qëllime të kësaj licence, "depoja zyrtare për softuerin" i referohet depove të organizuar në __URL_0__ është përgjegjësi e të licencuarit të rishikojë dhe ndjekë udhëzimet dhe procedurat e dhëna nga Cyonicsolutions për kontributin.
+Shënim: Për qëllime të kësaj licence, "depoja zyrtare për softuerin" i referohet depo të organizuar në __URL_0__ është përgjegjësi e të licencuarit të rishikojë dhe ndjekë udhëzimet dhe procedurat e dhëna nga Cyonicsolutions për kontributin.
 
 4. Pronësia
 
@@ -60,4 +60,4 @@ Shënim: Për qëllime të kësaj licence, "depoja zyrtare për softuerin" i ref
 8.3 Ndarshmëria: Nëse ndonjë dispozitë e kësaj licence konstatohet të jetë e pavlefshme ose e pazbatueshme nga një gjykatë e juridiksionit kompetent, dispozitat e mbetura do të mbeten në forcë dhe efekt të plotë.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

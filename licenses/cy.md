@@ -1,5 +1,5 @@
 Cyonicsolutions Trwydded Gyffredinol (CSGL)
-Fersiwn 1.0
+Prawf Fersiwn 1.0
 
 Dyddiad effeithiol: [2024 - 2028]
 
@@ -49,7 +49,7 @@ Nodyn: At ddibenion y drwydded hon, mae'r "ystorfa swyddogol ar gyfer y feddalwe
 
 7. Cyfraith berthnasol
 
-7.1 Llywodraethu Cyfraith: Bydd y drwydded hon yn cael ei llywodraethu a'i dehongli yn unol â deddfau Brasil, heb ystyried ei egwyddorion gwrthdaro deddfau.Bydd unrhyw anghydfod sy'n codi o dan y drwydded hon yn ddarostyngedig i awdurdodaeth unigryw'r llysoedd sydd wedi'u lleoli yn São Paulo.
+7.1 Cyfraith Llywodraethu: Bydd y drwydded hon yn cael ei llywodraethu a'i dehongli yn unol â deddfau Brasil, heb ystyried ei egwyddorion gwrthdaro deddfau.Bydd unrhyw anghydfod sy'n codi o dan y drwydded hon yn ddarostyngedig i awdurdodaeth unigryw'r llysoedd sydd wedi'u lleoli yn São Paulo.
 
 8. Darpariaethau Cyffredinol
 
@@ -60,4 +60,4 @@ Nodyn: At ddibenion y drwydded hon, mae'r "ystorfa swyddogol ar gyfer y feddalwe
 8.3 Diferoldeb: Os canfyddir bod unrhyw ddarpariaeth yn y drwydded hon yn annilys neu'n anorfodadwy gan lys awdurdodaeth gymwys, bydd y darpariaethau sy'n weddill yn parhau i fod mewn grym ac effaith lawn.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

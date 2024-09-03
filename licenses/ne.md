@@ -1,5 +1,5 @@
 साइलोनिक्सर्थहरू सामान्य इजाजतपत्रहरू (CSGL)
-संस्करण 1.0
+संस्करण 1.0 परीक्षण
 
 प्रभावकारी मिति: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Illy। सामान्य प्रावधान
 .3..3 विवेक: यदि यस इजाजतपत्रको व्यवस्था अमान्य वा अस्टन योग्य हुन सकेन अमान्य वा असुरक्षित रूपमा, बाँकी प्रावधानहरू पूर्ण शक्ति र प्रभावमा रहनेछन्।
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

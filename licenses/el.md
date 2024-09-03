@@ -1,5 +1,5 @@
 Cyonicsolutions General License (CSGL)
-Έκδοση 1.0
+Δοκιμή έκδοσης 1.0
 
 Ημερομηνία έναρξης ισχύος: [2024 - 2028]
 
@@ -57,7 +57,7 @@ Cyonicsolutions General License (CSGL)
 
 8.2 Τροποποιήσεις: Οποιαδήποτε τροποποίηση ή τροποποίηση αυτής της άδειας πρέπει να είναι γραπτή και να υπογραφεί και από τα δύο μέρη.
 
-8.3 Διακανητικότητα: Εάν οποιαδήποτε διάταξη αυτής της άδειας διαπιστωθεί ότι είναι άκυρη ή μη εκτελεστή από την αρμόδια δικαιοδοσία, οι υπόλοιπες διατάξεις θα παραμείνουν σε πλήρη ισχύ και αποτέλεσμα.
+8.3 Διακανητικότητα: Εάν οποιαδήποτε διάταξη αυτής της άδειας διαπιστωθεί ότι είναι άκυρη ή ανεφάρμοστη από την αρμόδια δικαιοδοσία, οι υπόλοιπες διατάξεις θα παραμείνουν σε πλήρη ισχύ και αποτέλεσμα.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

@@ -1,5 +1,5 @@
 Llicència general de Cyonicsolutions (CSGL)
-Versió 1.0
+Versió 1.0 Prova
 
 Data d’efectivitat: [2024 - 2028]
 
@@ -25,7 +25,7 @@ Data d’efectivitat: [2024 - 2028]
 
 3.2.2 Revisió i acceptació: Cyonicsolutions es reserva el dret a revisar, acceptar o rebutjar qualsevol modificació enviada.No es considerarà cap modificació incorporada al programari fins que Cyonicsolutions sigui acceptada i integrada formalment al dipòsit oficial.
 
-3.2.3 Documentació i reconeixement: el concessionari ha de proporcionar una documentació adequada per a qualsevol modificació presentada i pot ser que es requereixi per proporcionar un reconeixement adequat sobre la modificació.
+3.2.
 
 3.2.
 
@@ -60,4 +60,4 @@ Nota: A efectes d'aquesta llicència, el "dipòsit oficial del programari" fa re
 8.3 Severabilitat: Si una disposició d'aquesta llicència no és vàlida o no es pot aplicar per un tribunal de jurisdicció competent, les disposicions restants es mantindran en plena força i efecte.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

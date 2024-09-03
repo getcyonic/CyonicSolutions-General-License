@@ -1,5 +1,5 @@
 Cyonicsolutions Lisensi Umum (CSGL)
-Versi 1.0
+Tes 1.0
 
 Tanggal efektif: [2024 - 2028]
 
@@ -60,4 +60,4 @@ CATETAN: Kanggo tujuan lisensi iki, "gudang resmi kanggo piranti lunak" nuduhake
 8,3 levatabilitas: Yen ana panentu lisensi iki ditemokake ora bener utawa ora bisa dikendhaleni dening pengadilan hak ukum, syarat isih tetep ana ing kekuwatan lan efek.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

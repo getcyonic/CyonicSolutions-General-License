@@ -1,5 +1,5 @@
 Cyonicutions General Raihana (CSGL)
-Putanga 1.0
+Putanga 1.0 Whakamatau
 
 Te ra whai hua: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Te Whakamutunga: Ka whai hua tenei raihana tae noa ki te mutunga.Ka whakamutua e
 8.3 Vertabile: Mena ka kitea he tikanga kaore e kitea, kaore ranei e taea e te Kooti o te Kooti Hauora, ka noho tonu nga toenga.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

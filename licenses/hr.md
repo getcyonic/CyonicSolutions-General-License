@@ -1,5 +1,5 @@
 CyonicsOlutions Opća licenca (CSGL)
-Verzija 1.0
+Verzija 1.0 test
 
 Datum stupanja na snagu: [2024 - 2028]
 
@@ -29,7 +29,7 @@ Datum stupanja na snagu: [2024 - 2028]
 
 3.2.4 Nisu lokalne promjene: Lokalne izmjene koje je izvršio korisnik licence koje se ne dostavljaju i prihvaćaju putem GitHub -a nisu dopuštene i smatrat će se kršenjem uvjeta ove licence.
 
-Napomena: Za potrebe ove licence, "Službeno spremište softvera" odnosi se na spremište koje se nalazi na __URL_0__, odgovornost je da preispita i slijedi smjernice i postupke koje su dali CyonicsOlutions za doprinos.
+Napomena: Za potrebe ove licence, "Službeno spremište softvera" odnosi se na spremište koje se nalazi na __URL_0__, odgovornost je da preispita i slijedi smjernice i postupke koje je CyonicsOlutions dao za doprinos.
 
 4. Vlasništvo
 
@@ -60,4 +60,4 @@ Napomena: Za potrebe ove licence, "Službeno spremište softvera" odnosi se na s
 8.3 Skidavost: Ako se utvrdi da je bilo kakva odredba ove licence nevažeće ili neprovedive od strane Suda nadležnog nadležnosti, preostale odredbe ostat će u punoj snazi ​​i utjecaju.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

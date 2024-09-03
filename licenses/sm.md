@@ -1,5 +1,5 @@
 Cloonicaliction General Solitulafono (CSGL)
-Fasioti 1.0
+Version 1.0 Suʻega
 
 Aso aoga: [2024 - 2028]
 
@@ -60,4 +60,4 @@ FAAMATALAGA: Mo faamoemoega o lenei laisene, o le "ofisa autu mo le polokalama" 
 8.3 Le vaega: A iai se aiaiga o lenei laisene e maua e le aoga pe le fautuaina e se faamasinoga o le faʻamasinoga faʻaaloalo, o le a tumau pea le malosi.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

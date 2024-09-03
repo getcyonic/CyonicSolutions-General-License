@@ -1,5 +1,5 @@
 Агульная ліцэнзія Cyonicsolutions (CSGL)
-Версія 1.0
+Версія 1.0 Тэст
 
 Дата ўступлення ў сілу: [2024 - 2028]
 
@@ -29,7 +29,7 @@
 
 3.2.4 Няма мясцовых змяненняў: Мясцовыя мадыфікацыі, зробленыя ліцэнзіятам, якія не падаюцца і прымаюцца праз GitHub, не дапускаюцца і будуць лічыцца парушэннем умоў гэтай ліцэнзіі.
 
-УВАГА: У мэтах гэтай ліцэнзіі "Афіцыйнае сховішча для праграмнага забеспячэння" ставіцца да рэпазітара, размешчанага ў __URL_0__, гэта адказнасць ліцэнзія па разглядзе і прытрымліванні рэкамендацый і працэдур, якія прадстаўляюцца CYONICSOLUTUSIONS для ўдзелу.
+УВАГА: У мэтах гэтай ліцэнзіі "Афіцыйнае сховішча для праграмнага забеспячэння" ставіцца да рэпазітара, размешчанага ў __URL_0__, гэта адказнасць ліцэнзія па разглядзе і прытрымліванні рэкамендацый і працэдур, якія прадстаўляюцца Cyonicsolutions для ўдзелу.
 
 4. Уласнасць
 
@@ -60,4 +60,4 @@
 8.3 Супрацьстаянасць: Калі судом кампетэнтнай юрысдыкцыі будзе прызнана несапраўдным або невыканальным судом, астатнія палажэнні застануцца ў поўнай сіле і дзейнічаць.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

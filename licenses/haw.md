@@ -1,5 +1,5 @@
 Cynicsical Firl Tracere (CSGL)
-Manual 60
+Kākau inoa 1.0
 
 Ka lā kūpono: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Kahakaha: No nā kumu o kēia laikini,ʻo ka waihona kālā no ka polokalamu e m
 8.3 ISRABANITILS: Inā loaʻa kekahi haʻawina o kēia laikini e pono ai a kūponoʻole paha e kahi pā o ka hoʻokūkū a me nā koena i koe i ka ikaika piha a me ka hopena.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

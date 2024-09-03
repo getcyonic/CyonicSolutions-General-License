@@ -1,5 +1,5 @@
 Cyonicsolutions General License (CSGL)
-Version 1.0
+Version 1.0 Test
 
 Effektiv dato: [2024 - 2028]
 
@@ -57,7 +57,7 @@ Bemærk: Med henblik på denne licens henviser "Official Repository for the Soft
 
 8.2 Ændringer: Enhver ændring eller ændring af denne licens skal være skriftligt og underskrevet af begge parter.
 
-8.3 Sjørbarhed: Hvis det viser sig, at en bestemmelse i denne licens er ugyldig eller ikke kan håndhæves af en domstol med kompetent jurisdiktion, forbliver de resterende bestemmelser i fuld styrke og virkning.
+8.3 Sjørbarhed: Hvis det viser sig, at en bestemmelse i denne licens er ugyldig eller ikke kan håndhæves af en kompetent domstol, vil de resterende bestemmelser forblive i fuld styrke og virkning.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

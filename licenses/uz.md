@@ -1,5 +1,5 @@
 Conšolisoliyalar Bosh litsenziyasi (CSGL)
-Versiya 1.0 versiyasi
+1.0 versiyasi sinovi
 
 Samarali sana: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Eslatma: Ushbu litsenziyaning maqsadlari uchun "Dasturiy ta'minot uchun rasmiy o
 8.3. Agar ushbu litsenziyaning amal qilish muddati yaroqsiz yoki ma'qul deb topilsa, qolgan qoidalar to'liq kuch va ta'sirda qoladi.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

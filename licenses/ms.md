@@ -1,5 +1,5 @@
 Lesen Umum Cyonicsolutions (CSGL)
-Versi 1.0
+Ujian Versi 1.0
 
 Tarikh Berkuatkuasa: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Nota: Untuk tujuan lesen ini, "repositori rasmi untuk perisian" merujuk kepada r
 8.3 KETERANGAN: Jika mana -mana peruntukan lesen ini didapati tidak sah atau tidak boleh dikuatkuasakan oleh mahkamah yang mempunyai bidang kuasa yang kompeten, peruntukan yang selebihnya akan tetap berkuatkuasa dan berkuatkuasa sepenuhnya.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

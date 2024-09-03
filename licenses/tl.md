@@ -1,5 +1,5 @@
 Pangkalahatang Lisensya ng Cyonicsolutions (CSGL)
-Bersyon 1.0
+Bersyon 1.0 Pagsubok
 
 Epektibong Petsa: [2024 - 2028]
 
@@ -60,4 +60,4 @@ TANDAAN: Para sa mga layunin ng lisensya na ito, ang "opisyal na imbakan para sa
 8.3 Pagkakasakit: Kung ang anumang pagkakaloob ng lisensya na ito ay natagpuan na hindi wasto o hindi maipapatupad ng isang korte ng karampatang hurisdiksyon, ang natitirang mga probisyon ay mananatili nang buong lakas at epekto.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

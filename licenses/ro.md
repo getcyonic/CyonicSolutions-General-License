@@ -1,5 +1,5 @@
 Licență generală Cyonicsolutions (CSGL)
-Versiunea 1.0
+Versiunea 1.0 Test
 
 Data intrării în vigoare: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Notă: În scopul acestei licențe, „Depozitul oficial pentru software” se r
 8.3 Severibilitate: În cazul în care se constată că o prevedere a acestei licențe este invalidă sau neaplicabilă de o instanță de jurisdicție competentă, dispozițiile rămase vor rămâne în vigoare și efect.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

@@ -1,5 +1,5 @@
 الترخيص العام للسير (CSGL)
-الإصدار 1.0
+الإصدار 1.0 اختبار
 
 التاريخ السريان: [2024 - 2028]
 
@@ -60,4 +60,4 @@
 8.3 قابلية الفصل: إذا تم العثور على أي بند من هذا الترخيص ليكون غير صالح أو غير قابل للتنفيذ من قبل محكمة من الاختصاص المختصة ، فستظل الأحكام المتبقية سارية المفعول.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.
