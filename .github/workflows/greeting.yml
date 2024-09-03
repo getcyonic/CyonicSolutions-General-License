@@ -1,17 +1,1 @@
-name: Welcome new contributors
 
-on:
-  issues:
-    types: [opened]
-  pull_request:
-    types: [opened]
-
-jobs:
-  welcome:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Welcome Message
-        uses: repo-sync/welcome-action@v2
-        with:
-          message: |
-            Hello @{{ github.actor }}! Thanks for opening this {{ github.event.issue ? 'issue' : 'pull request' }}. We appreciate your contribution and will review it soon!
