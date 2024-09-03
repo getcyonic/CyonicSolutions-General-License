@@ -1,5 +1,5 @@
 ಸೈನಿಕ್ಸೊಲ್ಯೂಷನ್ಸ್ ಸಾಮಾನ್ಯ ಪರವಾನಗಿ (ಸಿಎಸ್ಜಿಎಲ್)
-ಆವೃತ್ತಿ 1.0
+ಆವೃತ್ತಿ 1.0 ಪರೀಕ್ಷೆ
 
 ಪರಿಣಾಮಕಾರಿ ದಿನಾಂಕ: [2024 - 2028]
 
@@ -60,4 +60,4 @@
 8.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

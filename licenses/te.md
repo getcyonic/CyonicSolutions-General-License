@@ -1,5 +1,5 @@
 సైనికోల్యూషన్స్ జనరల్ లైసెన్స్ (సిఎస్జిఎల్)
-వెర్షన్ 1.0
+వెర్షన్ 1.0 పరీక్ష
 
 ప్రభావవంతమైన తేదీ: [2024 - 2028]
 
@@ -23,7 +23,7 @@
 
 3.2.లైసెన్స్‌దారు తప్పనిసరిగా స్థాపించబడిన సహకార ప్రక్రియను అనుసరించాలి, ఇందులో గితుబ్ ఖాతాను సృష్టించడం, రిపోజిటరీని ఫోర్ చేయడం మరియు అందించిన మార్గదర్శకాలకు అనుగుణంగా పుల్ అభ్యర్థనను సమర్పించడం వంటివి ఉండాలి.
 
-3.2.2 సమీక్ష మరియు అంగీకారం: సమర్పించిన ఏదైనా మార్పును సమీక్షించడానికి, అంగీకరించడానికి లేదా తిరస్కరించే హక్కు సైనోల్యూషన్స్‌కు ఉంది.అధికారిక రిపోజిటరీలో సైనోనికోల్యూషన్స్ ద్వారా అధికారికంగా అంగీకరించబడిన మరియు విలీనం అయ్యే వరకు ఎటువంటి మార్పు సాఫ్ట్‌వేర్‌లో చేర్చబడదు.
+3.2.2 సమీక్ష మరియు అంగీకారం: సమర్పించిన ఏదైనా సవరణను సమీక్షించడానికి, అంగీకరించడానికి లేదా తిరస్కరించే హక్కు సైనోల్యూషన్స్‌కు ఉంది.అధికారిక రిపోజిటరీలో సైనోనికోల్యూషన్స్ ద్వారా అధికారికంగా అంగీకరించబడిన మరియు విలీనం అయ్యే వరకు ఎటువంటి మార్పు సాఫ్ట్‌వేర్‌లో చేర్చబడదు.
 
 3.2.
 
@@ -60,4 +60,4 @@
 8.3 విడదీయడం: ఈ లైసెన్స్ యొక్క ఏదైనా నిబంధన సమర్థ అధికార పరిధి యొక్క న్యాయస్థానం చెల్లని లేదా అమలు చేయలేనిదిగా గుర్తించినట్లయితే, మిగిలిన నిబంధనలు పూర్తి శక్తి మరియు ప్రభావంలో ఉంటాయి.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

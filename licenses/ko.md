@@ -1,5 +1,5 @@
 CSGL (Cyonicsolutions General License)
-버전 1.0
+버전 1.0 테스트
 
 발효 일 : [2024-2028]
 
@@ -60,4 +60,4 @@ CSGL (Cyonicsolutions General License)
 8.3 분리 성 :이 라이센스의 조항이 유능한 관할 법원에서 무효 또는 시행 할 수없는 것으로 밝혀지면 나머지 조항은 완전한 힘과 효과를 유지합니다.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

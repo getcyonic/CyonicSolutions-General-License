@@ -1,5 +1,5 @@
 Cyonicsolutions Babban lasisin (CSGL)
-Version 1.0
+Sha'awa 1.0
 
 Kwanan Wata: [2024 - 2028]
 
@@ -33,7 +33,7 @@ SAURARA: Don dalilai wannan lasisi, "a cikin" Ajiyayyen software na software "ya
 
 4. mallaka
 
-4.1 Kayan aiki na hankali: Daidai ne, taken, da sha'awa a ciki da software ya kasance tare da lasisi.Lasisi yana riƙe da haƙƙin mallaki na ilimi a cikin software kuma ba a canza shi zuwa software ɗin don lasisi ba sai kamar yadda aka ba da izini musamman a cikin wannan lasisin.
+4.1 Kayan aiki na hankali: Daidai ne, taken, da sha'awa a ciki da software ya kasance tare da lasisin.Lasisi yana riƙe da haƙƙin mallaki na ilimi a cikin software kuma ba a canza shi zuwa software ɗin don lasisi ba sai kamar yadda aka ba da izini musamman a cikin wannan lasisin.
 
 5. Garanti da Discimer
 
@@ -60,4 +60,4 @@ SAURARA: Don dalilai wannan lasisi, "a cikin" Ajiyayyen software na software "ya
 Zane 8.3 Alle: Idan wani samar da wannan lasisin zai samu damar zama mara inganci ko kuma kotun mai iko mai mahimmanci, sauran abubuwan da suka tanada zasu kasance cikin karfi da sakamako.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

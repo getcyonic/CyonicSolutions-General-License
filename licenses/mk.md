@@ -1,5 +1,5 @@
 Општа лиценца CyonicsOsolutions (CSGL)
-Верзија 1.0
+Тест на верзијата 1.0
 
 Датум на ефективно: [2024 - 2028]
 
@@ -29,7 +29,7 @@
 
 3.2.4 Без локални промени: Локалните измени направени од лиценцата кои не се доставени и прифатени преку Github не се дозволени и ќе се сметаат за повреда на условите на оваа лиценца.
 
-Забелешка: За целите на оваа лиценца, „официјалното складиште за софтверот“ се однесува на складиштето хостирано на __URL_0__, одговорноста на лиценцата е да ги разгледа и следи упатствата и процедурите обезбедени од Cyonicsolutions за придонес.
+Забелешка: За целите на оваа лиценца, „официјалното складиште за софтверот“ се однесува на складиштето хостирано на __URL_0__, одговорноста на лиценцата е да ги разгледа и следи упатствата и процедурите дадени од CyonicsoLutions за придонес.
 
 4. Сопственост
 
@@ -57,7 +57,7 @@
 
 8.2 Измени: Секоја измена или измена на оваа лиценца мора да биде во писмена форма и потпишана од обете страни.
 
-8.3 Сериозност: Доколку се утврди дека одредбата од оваа лиценца е невалидна или неизвршна од надлежната суд, преостанатите одредби ќе останат во целосна сила и ефект.
+8.3 Севедливост: Доколку се утврди дека одредбата од оваа лиценца е невалидна или неизвршна од надлежната суд, преостанатите одредби ќе останат во целосна сила и ефект.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

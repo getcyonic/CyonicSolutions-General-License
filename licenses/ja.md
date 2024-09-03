@@ -1,5 +1,5 @@
 Cyonicsolutions General License（CSGL）
-バージョン1.0
+バージョン1.0テスト
 
 発効日：[2024-2028]
 
@@ -29,7 +29,7 @@ Cyonicsolutions General License（CSGL）
 
 3.2.4ローカル変更なし：GitHubを通じて提出され、受け入れられていないライセンシーによるローカル変更は許可されておらず、このライセンスの条件の違反と見なされます。
 
-注：このライセンスの目的のために、「ソフトウェアの公式リポジトリ」とは、__url_0__でホストされているリポジトリを指します。これは、貢献のためにCyonicsolutionsが提供するガイドラインと手順を確認し、手順に従うことがライセンシーの責任です。
+注：このライセンスの目的のために、「ソフトウェアの公式リポジトリ」とは、__url_0__でホストされているリポジトリを指します。これは、Chyonicsolutionsが提供するために提供されるガイドラインと手順を確認し、手順に従うことがライセンシーの責任です。
 
 4.所有権
 
@@ -60,4 +60,4 @@ Cyonicsolutions General License（CSGL）
 8.3障害：このライセンスの任意の規定が、有能な管轄裁判所によって無効または執行不能であることが判明した場合、残りの規定は完全に有効になります。
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

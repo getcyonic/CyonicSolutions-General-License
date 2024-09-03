@@ -60,4 +60,4 @@ Cyonicsolutes Башкы лицензия (CSGL)
 8.3 Бөлүм: эгерде бул лицензиянын ар бир жобосу жараксыз же ыйгарым укуктуу юрисдикция соту тарабынан күчүн жоготту деп табылса, калган жоболор толук күч жана натыйжалуу болот.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

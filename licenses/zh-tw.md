@@ -1,5 +1,5 @@
 Cyonicsolutions一般許可證（CSGL）
-1.0版
+版本1.0測試
 
 生效日期：[2024-2028]
 
@@ -17,7 +17,7 @@ Cyonicsolutions一般許可證（CSGL）
 
 3.限制
 
-3.1修改：被許可人不得整個或部分地修改軟件的衍生作品，除非本節中允許，否則本節的全部或部分都不會進行修改，改編，翻譯或創建該軟件的衍生作品。
+3.1修改：被許可人不得整個或部分地修改，改編，翻譯或創建軟件的衍生作品，除非本節中允許。
 
 3.2修改的許可：僅在通過GITHUB上的官方Cyonicsolutions存儲庫提交和批准軟件的修改時，才允許它們進行修改，如下所述：
 
@@ -29,7 +29,7 @@ Cyonicsolutions一般許可證（CSGL）
 
 3.2.4沒有本地更改：不允許通過GitHub提交和接受的被許可人進行的本地修改，並且將被視為違反本許可條款。
 
-注意：出於本許可的目的，“軟件的官方存儲庫”是指在__URL_0__託管的存儲庫中，被許可人有責任審查並遵守CyonicSolutions提供的指南和程序。
+注意：出於本許可的目的，“軟件的官方存儲庫”是指__URL_0__託管的存儲庫，是被許可人有責任審查並遵守CyonicSolutions提供的指導方針和程序。
 
 4.所有權
 
@@ -53,11 +53,11 @@ Cyonicsolutions一般許可證（CSGL）
 
 8.一般規定
 
-8.1整個協議：此許可構成當事方與軟件之間的全部協議，並取代所有與軟件有關的書面或同時協議，與軟件有關。
+8.1整個協議：此許可構成當事方與軟件的全部協議，並取代與軟件有關的所有事先或同時的協議，即書面或口頭。
 
-8.2修改：對本許可證的任何修改或修改都必須以書面形式和雙方簽署。
+8.2修改：對本許可證的任何修改或修改都必須以書面形式進行，並由雙方簽署。
 
 8.3可嚴重性：如果有效管轄權法院發現本許可的任何規定被認為是無效或無法執行的，則其餘規定將保持全部效力和效力。
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

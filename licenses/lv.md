@@ -1,5 +1,5 @@
 Cyonicsolutions vispārējā licence (CSGL)
-1.0 versija
+1.0 versijas pārbaude
 
 Stāšanās datums: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Piezīme: Šīs licences vajadzībām "oficiālais programmatūras krātuve" att
 8.3. Deveramība: Ja šīs licences noteikums tiek atzīts par nederīgu vai neizpildāmu kompetentās jurisdikcijas tiesā, atlikušie noteikumi paliks pilnā spēkā un spēkā.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

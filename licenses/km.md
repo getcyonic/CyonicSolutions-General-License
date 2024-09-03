@@ -1,5 +1,5 @@
 អាជ្ញាប័ណ្ណទូទៅស៊ីនធូល (ស៊ីអេសអេសអិល)
-កំណែ 1.0
+ការធ្វើតេស្ត 1.0 ជំនាន់ 1.0
 
 កាលបរិច្ឆេទមានប្រសិទ្ធិភាព: [2024 - 2028]
 
@@ -60,4 +60,4 @@
 8.3 ការផលិតភាពធ្ងន់ធ្ងរ: ប្រសិនបើការផ្តល់អាជ្ញាប័ណ្ណនេះត្រូវបានគេរកឃើញថាមិនមានសុពលភាពឬមិនអាចប្រតិបត្តិបានដោយតុលាការនៃតុលាការដែលមានសមត្ថកិច្ចសំវិធានភាពនឹងនៅតែមានកម្លាំងពេញលេញនិងមានប្រសិទ្ធិភាព។
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

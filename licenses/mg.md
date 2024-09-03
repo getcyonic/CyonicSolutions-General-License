@@ -1,5 +1,5 @@
 CyonicSolutions Generation (CSGL)
-Version 1.0
+Fandikan-teny 1.0
 
 Daty mahomby: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Fanamarihana: Ho an'ity fahazoan-dàlana ity, ny "famerenam-bola ofisialy ho an'
 8.3 Faharatsiana: Raha misy ny fanomezana an'ity fahazoan-dàlana ity dia tsy manan-kery na tsy azo tanterahina amin'ny alàlan'ny fitsarana mahay, ny sakafo sisa dia hitoetra amin'ny hery sy ny vokatra sisa.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

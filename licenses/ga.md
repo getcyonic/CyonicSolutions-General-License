@@ -1,5 +1,5 @@
 Ceadúnas Ginearálta Cyonicsolutions (CSGL)
-Leagan 1.0
+Tástáil leagan 1.0
 
 Dáta Éifeachtach: [2024 - 2028]
 
@@ -29,7 +29,7 @@ Dáta Éifeachtach: [2024 - 2028]
 
 3.2.4 Gan aon athruithe áitiúla: Ní cheadaítear modhnuithe áitiúla a dhéanann ceadúnaí nach gcuirtear isteach agus a nglactar leo trí GitHub agus meastar iad a shárú ar théarmaí an cheadúnais seo.
 
-Tabhair faoi deara: Chun críocha an cheadúnais seo, tagraíonn an "stór oifigiúil do na bogearraí" don stór a óstáiltear ag __URL_0__ Is é an freagracht atá ag ceadúnaí na treoirlínte agus na nósanna imeachta a sholáthraíonn cyonicsolutions a athbhreithniú agus a leanúint.
+Tabhair faoi deara: Chun críocha an cheadúnais seo, tagraíonn an "stór oifigiúil do na bogearraí" don stór a óstáiltear ag __URL_0__ Is é freagracht an Cheadúnaí na treoirlínte agus na nósanna imeachta a sholáthraíonn cyonicsolutions a athbhreithniú agus a leanúint.
 
 4. Úinéireacht
 
@@ -37,7 +37,7 @@ Tabhair faoi deara: Chun críocha an cheadúnais seo, tagraíonn an "stór oifig
 
 5. Barántais agus Séanadh
 
-5.1 Gan aon bharántas: Cuirtear na bogearraí ar fáil "mar atá" gan bharántas de chineál ar bith, sainráite nó intuigthe, lena n-áirítear, ach gan a bheith teoranta dóibh, na barántais intuigthe maidir le hinfhaighteacht, aclaíocht chun críche áirithe, nó neamh-shárú.
+5.1 Gan aon bharántas: Cuirtear na bogearraí ar fáil "mar atá" gan bharántas de chineál ar bith, sainráite nó intuigthe, lena n-áirítear, ach gan a bheith teoranta dóibh, na barántais intuigthe maidir le hinrochtaineacht, aclaíocht chun críche áirithe, nó neamh-shárú.
 
 5.2 Séanadh: Ní bheidh ceadúnaí faoi dhliteanas i leith aon damáistí díreacha, indíreacha, teagmhasacha, speisialta nó iarmhartacha a eascraíonn as úsáid nó neamhábaltacht na mbogearraí a úsáid.
 
@@ -60,4 +60,4 @@ Tabhair faoi deara: Chun críocha an cheadúnais seo, tagraíonn an "stór oifig
 8.3 Suaimhneas: Má fhaightear amach go bhfuil aon fhoráil den cheadúnas seo neamhbhailí nó neamh -infheidhmithe ag cúirt dlínse inniúil, fanfaidh na forálacha eile i bhfeidhm go hiomlán agus i bhfeidhm.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

@@ -1,5 +1,5 @@
 Cyonicsolutions Lîsansa Giştî (CSGL)
-Guhertoya 1.0
+Testa 1.0 ya guhertoyê
 
 Dîroka bandor: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Guhertinên 8.2: Divê her guhartin an guherîn ji bo vê lîsansê divê bi niv
 8.3 Dermankirin: Heke her dabînkirina vê lîsansê ji hêla dadgehek dadrêsiyeta dadperwerî ve nederbasdar an bêhempa tê dîtin, bendên mayî dê bi tevahî hêz û bandora xwe bimînin.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

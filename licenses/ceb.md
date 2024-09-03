@@ -1,5 +1,5 @@
 CYONICOLUVIONS SA KINABUHI NGA LICKENSYON (CSGL)
-Bersyon 1.0
+Bersyon 1.0 pagsulay
 
 Epektibo nga Petsa: [2024 - 2028]
 
@@ -60,4 +60,4 @@ HINUMDOMI: Alang sa mga katuyoan sa kini nga lisensya, ang opisyal nga repositor
 8.3 Pagkabahin: Kung ang bisan unsang probisyon sa kini nga lisensya nakit-an nga dili husto o dili masaligan sa usa ka korte sa takus nga hurisdiksyon, ang nahabilin nga mga probisyon magpabilin sa tibuuk nga kusog ug epekto.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

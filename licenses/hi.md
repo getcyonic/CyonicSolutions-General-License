@@ -1,5 +1,5 @@
 सामान्य लाइसेंस (CSGL)
-संस्करण 1.0
+संस्करण 1.0 परीक्षण
 
 प्रभावी तिथि: [2024 - 2028]
 
@@ -33,7 +33,7 @@
 
 4. स्वामित्व
 
-4.1 बौद्धिक संपदा: सभी सही, शीर्षक, और ब्याज में और सॉफ्टवेयर में रुचि लाइसेंसकर्ता के साथ बनी हुई है।लाइसेंसकर्ता सॉफ्टवेयर में सभी बौद्धिक संपदा अधिकारों को बरकरार रखता है और सॉफ्टवेयर को कोई शीर्षक लाइसेंसधारी को स्थानांतरित नहीं किया जाता है, सिवाय इस लाइसेंस में अनुमति दी गई है।
+4.1 बौद्धिक संपदा: सभी सही, शीर्षक, और ब्याज में और सॉफ्टवेयर में रुचि लाइसेंसकर्ता के साथ बनी हुई है।लाइसेंसकर्ता सॉफ्टवेयर में सभी बौद्धिक संपदा अधिकारों को बरकरार रखता है और सॉफ्टवेयर में कोई शीर्षक लाइसेंसधारी को इस लाइसेंस में विशेष रूप से अनुमति के अलावा स्थानांतरित नहीं किया जाता है।
 
 5. वारंटी और अस्वीकरण
 
@@ -60,4 +60,4 @@
 8.3 गंभीरता: यदि इस लाइसेंस का कोई प्रावधान सक्षम क्षेत्राधिकार की अदालत द्वारा अमान्य या अप्राप्य पाया जाता है, तो शेष प्रावधान पूरी ताकत और प्रभाव में रहेंगे।
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

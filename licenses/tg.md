@@ -1,5 +1,5 @@
 Cyonicsolution Литсензия (CSGL)
-Версияи 1.0
+Версияи 1.0 санҷиш
 
 Санаи таъсирбахш: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Cyonicsolution Литсензия (CSGL)
 8.3 Санад надодани: Агар ягон таъминоти ин литсензия аз ҷониби суд беэътибор ё номатлуб бошад, муқаррароти боқимондаҳо дар ҳолати пурра ва натиҷа хоҳад монд.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

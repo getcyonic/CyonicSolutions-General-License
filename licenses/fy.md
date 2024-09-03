@@ -1,5 +1,5 @@
 Cyonicsolutions Geman talen (CSGL)
-Ferzje 1.0
+Ferzje 1.0 test
 
 Effektive datum: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Opmerking: foar doelen fan dizze lisinsje, de software "ferwiist nei de software
 8.3 SEVERABIAAL: As jo ​​foarsjenning fan dizze lisinsje unjildich is of ûnjildich as ûnûntkomber wurde troch in rjochtbank fan foechhawwende jurisdiksje, sille de oerbleaune bepalingen yn folle krêft en effekt bliuwe.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

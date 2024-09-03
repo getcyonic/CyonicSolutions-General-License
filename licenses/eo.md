@@ -1,5 +1,5 @@
 Ĝenerala Permesilo de Cyonicsolutions (CSGL)
-Versio 1.0
+Versio 1.0 -testo
 
 Efika dato: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Noto: Por celoj de ĉi tiu permesilo, la "oficiala deponejo por la programaro" r
 8.3 Sevebleco: Se iu dispozicio de ĉi tiu permesilo estas nevalida aŭ nepravigebla de tribunalo de kompetenta jurisdikcio, la ceteraj dispozicioj restos en plena forto kaj efiko.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

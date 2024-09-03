@@ -1,5 +1,5 @@
 Giấy phép chung của Cyonicsolutions (CSGL)
-Phiên bản 1.0
+Phiên bản 1.0 Kiểm tra
 
 Ngày có hiệu lực: [2024 - 2028]
 
@@ -27,9 +27,9 @@ Ngày có hiệu lực: [2024 - 2028]
 
 3.2.3 Tài liệu và xác nhận: Người được cấp phép phải cung cấp tài liệu đầy đủ cho bất kỳ sửa đổi nào được gửi và có thể được yêu cầu để cung cấp xác nhận phù hợp về việc sửa đổi.
 
-3.2.
+3.2.4 Không có thay đổi địa phương: Sửa đổi địa phương được thực hiện bởi người được cấp phép không được nộp và chấp nhận thông qua GitHub không được phép và sẽ bị coi là vi phạm các điều khoản của giấy phép này.
 
-Lưu ý: Đối với các mục đích của giấy phép này, "Kho lưu trữ chính thức cho phần mềm" đề cập đến kho lưu trữ tại __URL_0__ Có trách nhiệm xem xét và tuân theo các hướng dẫn và thủ tục do Cyonicsolutions cung cấp để đóng góp.
+Lưu ý: Đối với các mục đích của giấy phép này, "Kho lưu trữ chính thức cho phần mềm" đề cập đến kho lưu trữ tại __URL_0__, trách nhiệm của người được cấp phép là xem xét và tuân theo các hướng dẫn và quy trình do Cyonicsolutions cung cấp để đóng góp.
 
 4. Quyền sở hữu
 
@@ -57,7 +57,7 @@ Lưu ý: Đối với các mục đích của giấy phép này, "Kho lưu trữ
 
 8.2 Sửa đổi: Bất kỳ sửa đổi hoặc sửa đổi cho giấy phép này phải được viết và ký bởi cả hai bên.
 
-8.3 Khả năng nghiêm trọng: Nếu có bất kỳ điều khoản nào của giấy phép này được phát hiện là không hợp lệ hoặc không thể thực thi được bởi một tòa án có thẩm quyền, các điều khoản còn lại sẽ vẫn có hiệu lực đầy đủ.
+8.3 Khả năng nghiêm trọng: Nếu có bất kỳ điều khoản nào của giấy phép này được phát hiện là không hợp lệ hoặc không thể thực thi được bởi một tòa án có thẩm quyền, các điều khoản còn lại sẽ vẫn có hiệu lực và hiệu lực đầy đủ.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

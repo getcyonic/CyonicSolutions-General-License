@@ -1,5 +1,5 @@
 Leseni ya Jumla ya Cyonicsulutions (CSGL)
-Toleo la 1.0
+Toleo la 1.0 mtihani
 
 Tarehe ya Ufanisi: [2024 - 2028]
 
@@ -49,7 +49,7 @@ KUMBUKA: Kwa madhumuni ya leseni hii, "hazina rasmi ya programu" inahusu hazina 
 
 7. Sheria inayotumika
 
-7.1 Sheria ya Uongozi: Leseni hii itasimamiwa na kusemwa kulingana na sheria za Brazil, bila kuzingatia migogoro yake ya kanuni za sheria.Mzozo wowote unaotokana na leseni hii utakuwa chini ya mamlaka ya kipekee ya korti ziko São Paulo.
+7.1 Sheria ya Uongozi: Leseni hii itasimamiwa na kufanywa kulingana na sheria za Brazil, bila kuzingatia migogoro yake ya kanuni za sheria.Mzozo wowote unaotokana na leseni hii utakuwa chini ya mamlaka ya kipekee ya korti ziko São Paulo.
 
 8. Masharti ya Jumla
 
@@ -60,4 +60,4 @@ KUMBUKA: Kwa madhumuni ya leseni hii, "hazina rasmi ya programu" inahusu hazina 
 8.3 Uwezo: Ikiwa kifungu chochote cha leseni hii kinapatikana kuwa batili au kisichoweza kutekelezwa na korti ya mamlaka yenye uwezo, vifungu vilivyobaki vitabaki kwa nguvu kamili na athari.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

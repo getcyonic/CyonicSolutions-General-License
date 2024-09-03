@@ -1,5 +1,5 @@
 Li-complys tsa li-complense tsa Collena (CSGL)
-Mofuta oa 1.0
+Phepelo ea 1.0 Teko ea 1.0
 
 Letsatsi le sebetsang: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Likhatiso tsa 8.2: Phetoho efe kapa efe ea laesense ena e lokela ho ba ka ho ngo
 8.3 Oversion: Haeba tokisetso efe kapa efe ea laesense ena e fumaneha e sa sebetse kapa e sa sebetse ke Lekhotla la Mokokotlo oa bokhoni, Litokisetso tse setseng li tla lula li le matla le phello e felletseng.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

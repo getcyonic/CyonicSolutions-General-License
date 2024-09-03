@@ -1,5 +1,5 @@
 مجوز عمومی Cyonicsolutions (CSGL)
-نسخه 1.0
+نسخه 1.0 تست
 
 تاریخ مؤثر: [2024 - 2028]
 
@@ -35,7 +35,7 @@
 
 4.1 مالکیت معنوی: همه حق ، عنوان و علاقه به نرم افزار با مجوز باقی مانده است.مجوز تمام حقوق مالکیت معنوی را در نرم افزار حفظ می کند و هیچ عنوانی به نرم افزار به مجوز منتقل نمی شود ، مگر اینکه به طور خاص در این مجوز مجاز باشد.
 
-5. ضمانت نامه و سلب مسئولیت
+5. ضمانت نامه ها و سلب مسئولیت
 
 5.1 بدون ضمانت: این نرم افزار بدون ضمانت از هر نوع ضمانت نامه ای ، از جمله ضمانت های ضمنی قابلیت فروش ، تناسب اندام برای یک هدف خاص یا عدم نقض ، "مانند" ارائه می شود.
 
@@ -60,4 +60,4 @@
 8.3 افزایش پذیری: در صورتی که هرگونه مقررات این مجوز توسط دادگاه صلاحیت صالحیت نامعتبر یا غیرقابل اجرا باشد ، مقررات باقیمانده در تمام توان و تأثیر آن باقی خواهد ماند.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

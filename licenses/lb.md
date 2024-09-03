@@ -1,5 +1,5 @@
 Cyponicsolutioun Allgemeng Lizenz (CSGL)
-Versioun 1.0
+Versioun 1.0 Test
 
 Effektiv Datum: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Notiz: Fir Zwecker vun dëser Lizenz, den "offiziellen Repository fir d'Software
 8.3 Pensionabilitéit: Wann eng Dispositioun vun dëser Lizenz net ongülteg oder onsécher oder net vum Geriicht vu nähegem Juridictiounsstécker ginn, déi déi resseg Persounen a Kraaft bleiwen.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

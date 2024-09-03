@@ -1,5 +1,5 @@
 Cyonicsolutions General License (CSGL)
-Versjon 1.0
+Versjon 1.0 Test
 
 Effektiv dato: [2024 - 2028]
 
@@ -37,7 +37,7 @@ Merk: For formålene med denne lisensen refererer det "offisielle depotet for pr
 
 5. Garantier og ansvarsfraskrivelse
 
-5.1 Ingen garanti: Programvaren leveres "som den er" uten garanti av noe slag, verken uttrykk eller underforstått, inkludert, men ikke begrenset til, de underforståtte garantiene for salgbarhet, egnethet til et bestemt formål eller ikke-krenkelse.
+5.1 Ingen garanti: Programvaren leveres "som den er" uten garanti av noe slag, enten uttrykkelig eller underforstått, inkludert, men ikke begrenset til, de underforståtte garantiene for salgbarhet, egnethet til et bestemt formål eller ikke-krenkelse.
 
 5.2 Ansvarsfraskrivelse: Lisensgiver er ikke ansvarlig for noen direkte, indirekte, tilfeldige, spesielle eller følgeskader som følge av bruk av eller manglende evne til å bruke programvaren.
 
@@ -55,9 +55,9 @@ Merk: For formålene med denne lisensen refererer det "offisielle depotet for pr
 
 8.1 Hele avtalen: Denne lisensen utgjør hele avtalen mellom partene med hensyn til programvaren og erstatter alle tidligere eller samtidige avtaler, skriftlige eller muntlige, relatert til programvaren.
 
-8.2 Endringer: Eventuell endring eller endring av denne lisensen må være skriftlig og signert av begge parter.
+8.2 Endringer: Eventuell modifisering eller endring av denne lisensen må være skriftlig og signert av begge parter.
 
 8.3 Sjekkbarhet: Hvis noen bestemmelse i denne lisensen er funnet å være ugyldig eller ikke -håndheves av en domstol med kompetent jurisdiksjon, vil de gjenværende bestemmelsene forbli i full kraft og virkning.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

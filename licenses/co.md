@@ -1,5 +1,5 @@
 Licenza Generale di Kononicsoluzione (CSGL)
-Versione 1.0
+Versione 1.0 Test
 
 Data Efficiente: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Nota: Per scopi di questa licazione, u "repositariu ufficiale per u so prugrammu
 8.3 Separabilità: Se alcuna pruvisione di sta licenza hè stata invalidabile per un invalidu per una tribunale di a ghjuridizione cumpetente, e disposizione restante restanu in tutta forza è effettu.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

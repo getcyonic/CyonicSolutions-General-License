@@ -1,5 +1,5 @@
 سنوڪساساساس عام لائسنس (سي ايس جي ايل)
-نسخو 1.0
+نسخو 1.0 ٽيسٽ
 
 مؤثر تاريخ: [2024 - 2028]
 
@@ -60,4 +60,4 @@
 8.3 استحڪام: جيڪڏهن انهي لائسنس جو ڪو به رزق مليو آهي، قابل ذڪر دائمي جج جي عدالت ۾ غلط يا ناقابل عمل ثابت ٿيو، باقي رزق پوري طاقت ۽ اثر ۾ رهندي.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

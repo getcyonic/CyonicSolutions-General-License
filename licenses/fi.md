@@ -1,5 +1,5 @@
 Cyonicsolutions General License (CSGL)
-Versio 1.0
+Versio 1.0 -testi
 
 Voimapäivä: [2024 - 2028]
 
@@ -29,7 +29,7 @@ Voimapäivä: [2024 - 2028]
 
 3.2.4 Ei paikallisia muutoksia: Lisenssinsaajan tekemiä paikallisia muutoksia, joita ei toimiteta ja hyväksytty GitHubin kautta, ei ole sallittua, ja niitä pidetään tämän lisenssin ehtojen rikkomuksena.
 
-HUOMAUTUS: Tätä lisenssiä varten "ohjelmiston virallinen arkisto" viittaa __URL_0__ -tapahtumassa isännöidään arkistoon, joka on lisenssinsaajan vastuulla tarkistaa ja noudattaa Cyoniculations -ohjeiden antamia ohjeita ja -menettelyjä.
+HUOMAUTUS: Tätä lisenssiä varten "ohjelmiston virallinen arkisto" viittaa __URL_0__ -tapahtumassa isännöimään arkistoon. Lisenssinhaltijan vastuulla on tarkistaa ja noudattaa Cyonicsulations -ohjeiden antamia ohjeita ja -menettelyjä.
 
 4. Omistus
 
@@ -55,9 +55,9 @@ HUOMAUTUS: Tätä lisenssiä varten "ohjelmiston virallinen arkisto" viittaa __U
 
 8.1 Koko sopimus: Tämä lisenssi muodostaa koko osapuolten välisen sopimuksen ohjelmiston suhteen ja korvaa kaikki ohjelmistoon liittyvät aikaisemmat tai samanaikaiset sopimukset, jotka ovat kirjallisia tai suullisia.
 
-8.2 Muutokset: Kaikkien tämän lisenssin muutoksen on oltava kirjallisesti ja allekirjoittaneet molemmat osapuolet.
+8.2 Muutokset: Kaikkien tämän lisenssin muutoksen on oltava kirjallisesti ja allekirjoittaneet molempien osapuolten.
 
 8.3 VAIKUTTAVAT: Jos tämän lisenssin määräys on pätevä tai täytäntöönpanokelpoinen toimivaltainen tuomioistuin, jäljellä olevat säännökset pysyvät täydessä voimassa ja voimassa.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

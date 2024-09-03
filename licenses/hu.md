@@ -1,5 +1,5 @@
 Cyonicolutions Általános engedély (CSGL)
-1.0 verzió
+1.0 verzió teszt
 
 Hatálybalépés dátuma: [2024 - 2028]
 
@@ -39,7 +39,7 @@ Megjegyzés: A licenc alkalmazásában a "Hivatalos tároló a szoftverhez" a __
 
 5.1 Nincs garancia: A szoftvert "As" -es garancia nélkül, sem kifejezett, akár hallgatólagos garancia nélkül adják meg, ideértve, de nem kizárólag, a forgalmazhatóság, az adott célra való alkalmasság vagy a jogsértés nem kizárólagos garanciái.
 
-5.2 Jogi nyilatkozat: Az engedélyező nem vállal felelősséget semmilyen közvetlen, közvetett, véletlenszerű, speciális vagy következményes károkért, amelyek a szoftver használatának vagy képtelenségének felhasználásából vagy képtelenségéből származnak.
+5.2 Jogi nyilatkozat: Az engedélyező nem vállal felelősséget semmilyen közvetlen, közvetett, véletlenszerű, különleges vagy következményes kárért, amely a szoftver használatának vagy képtelenségének felhasználásából vagy képtelenségéből származik.
 
 6. Felszállítás
 
@@ -60,4 +60,4 @@ Megjegyzés: A licenc alkalmazásában a "Hivatalos tároló a szoftverhez" a __
 8.3 Setilabilitás: Ha az engedély bármely rendelkezése érvénytelennek vagy végrehajthatatlannak bizonyul az illetékes joghatósággal rendelkező bíróság által, a fennmaradó rendelkezések teljes erővel és hatással maradnak.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

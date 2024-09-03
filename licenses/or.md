@@ -1,5 +1,5 @@
 ସାଇନିକ୍ ଉପଯୋଗକର୍ତ୍ତାୀବାଦଗୁଡିକ (CSGL)
-ସଂସ୍କରଣ 1.0
+ସଂସ୍କରଣ 1.0 ପରୀକ୍ଷା |
 
 ପ୍ରଭାବଶାଳୀ ତାରିଖ: [2024 - 2028]
 
@@ -60,4 +60,4 @@
 8.3 ବିଂଶ୍ୟତା: ଯଦି ଏହି ଲାଇସେନ୍ସର କ off ଣସି ବ୍ୟବସ୍ଥା ଦକ୍ଷ ଅଧିକାର ଦ୍ୱାରା ଅବ alid ଧ କିମ୍ବା ଅନାବଶ୍ୟକ, ଅବଶିଷ୍ଟ ବ୍ୟବସ୍ଥାଗୁଡ଼ିକ ପୂର୍ଣ୍ଣ ବଳ ଏବଂ ପ୍ରଭାବରେ ରହିବ |
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

@@ -1,5 +1,5 @@
 רישיון כללי של Cyonicsolutions (CSGL)
-גרסה 1.0
+מבחן גרסה 1.0
 
 תאריך תוקף: [2024 - 2028]
 
@@ -29,7 +29,7 @@
 
 3.2.4 אין שינויים מקומיים: שינויים מקומיים שנעשו על ידי בעל הרישיון שאינם מוגשים ומתקבלים באמצעות GitHub אינם מורשים וייראו כפגיעה בתנאי רישיון זה.
 
-הערה: לצורך רישיון זה, "המאגר הרשמי לתוכנה" מתייחס למאגר המתארח ב- __URL_0__ באחריותו של בעל הרישיון לבדוק ולעקוב אחר ההנחיות והנהלים המסופקים על ידי Cyonicsolutions לתרומה.
+הערה: לצורך רישיון זה, "המאגר הרשמי לתוכנה" מתייחס למאגר המתארח ב- __URL_0__, באחריותו של בעל הרישיון לבחון ולעקוב אחר ההנחיות והנהלים המסופקים על ידי Cyonicsolutions לתרומה.
 
 4. בעלות
 
@@ -60,4 +60,4 @@
 8.3 ניתוק: אם יתגלה כי הוראה כלשהי של רישיון זה אינה תקפה או בלתי ניתנת לאכיפה על ידי בית משפט בעל סמכות שיפוט מוסמכת, ההוראות שנותרו יישארו במלוא העוצמה והשפעה.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

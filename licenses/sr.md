@@ -1,5 +1,5 @@
 ЦионицОлутионс Генерал Лиценсе (ЦСГЛ)
-Верзија 1.0
+Верзија 1.0 тест
 
 Датум ступа на снагу: [2024 - 2028]
 
@@ -60,4 +60,4 @@
 8.3 Одредивост: Ако се утврди да је свака одредба ове дозволе неважећа или несигурна од стране надлежне надлежности, преостале одредбе остаће у пуној снази и ефекту.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

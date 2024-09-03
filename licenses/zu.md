@@ -1,5 +1,5 @@
 Ilayisense Jikelele Ye-CynonicOLints (CSGL)
-Inguqulo 1.0
+Ukuhlolwa kwenguqulo 1.0
 
 Usuku Olusebenzayo: [2024 - 2028]
 
@@ -60,4 +60,4 @@ I-4.1 Impahla Yengqondo: Kulungile, isihloko, kanye nentshisekelo ku-software ku
 8.3 Ukuqina: Uma noma yikuphi ukuhlinzekelwa kwale layisense kutholakala kungavumelekile noma kungabina nenkantolo yamandla afanelekile, izinhlinzeko ezisele zizohlala zisebenza ngokugcwele kanye nomphumela.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

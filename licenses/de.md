@@ -1,5 +1,5 @@
 Cyonicolutions Allgemeine Lizenz (CSGL)
-Version 1.0
+Version 1.0 Test
 
 Datum des Inkrafttretens: [2024 - 2028]
 
@@ -29,7 +29,7 @@ Datum des Inkrafttretens: [2024 - 2028]
 
 3.2.4 Keine lokalen Änderungen: Lokale Änderungen des Lizenznehmers, die nicht über Github eingereicht und akzeptiert werden, sind nicht zulässig und werden als Verstoß gegen die Bedingungen dieser Lizenz angesehen.
 
-Hinweis: Für die Zwecke dieser Lizenz bezieht sich das "offizielle Repository für die Software" auf das Repository, das bei __url_0__ gehostet wird, die Verantwortung des Lizenznehmers, die von Cyonicolutions für den Beitrag zur Verfügung gestellten Richtlinien und Verfahren zu überprüfen und zu befolgen.
+Hinweis: Für die Zwecke dieser Lizenz bezieht sich das "Offizielle Repository für die Software" auf das Repository, das bei __url_0__ gehostet wird, die Verantwortung des Lizenznehmers, die von Cyonicolutions bereitgestellten Richtlinien und Verfahren für den Beitrag zu überprüfen und zu befolgen.
 
 4. Besitz
 
@@ -37,7 +37,7 @@ Hinweis: Für die Zwecke dieser Lizenz bezieht sich das "offizielle Repository f
 
 5. Garantien und Haftungsausschluss
 
-5.1 Keine Garantie: Die Software wird "wie ist" ohne Garantie jeglicher Art, entweder ausdrücklich oder impliziert, einschließlich, aber nicht beschränkt auf die impliziten Garantien für Handelsfähigkeit, Fitness für einen bestimmten Zweck oder Nichtverletzung bereitgestellt.
+5.1 Keine Garantie: Die Software wird "wie" ohne Garantie jeglicher Art, entweder ausdrücklich noch impliziert, einschließlich, aber nicht beschränkt auf die impliziten Garantien für Handelsfähigkeit, Fitness für einen bestimmten Zweck oder Nichtverletzung bereitgestellt.
 
 5.2 Haftungsausschluss: Der Lizenzgeber haftet nicht für direkte, indirekte, zufällige, besondere oder Folgeschäden, die sich aus der Verwendung oder Unfähigkeit zur Verwendung der Software ergeben.
 
@@ -60,4 +60,4 @@ Hinweis: Für die Zwecke dieser Lizenz bezieht sich das "offizielle Repository f
 8.3 VERTRÄNDIGKEIT: Wenn eine Bestimmung dieser Lizenz von einem Gerichtshof für zuständige Gerichtsbarkeit als ungültig oder nicht durchsetzbar ist, bleiben die verbleibenden Bestimmungen in voller Kraft und Wirkung.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

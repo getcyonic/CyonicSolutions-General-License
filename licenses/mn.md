@@ -1,5 +1,5 @@
 Цайварчид ерөнхий лиценз (CSGL)
-Хувилбар 1.0
+Хувилбар 1.0 тест
 
 Үр дүнтэй огноо: [2024 - 2028]
 
@@ -60,4 +60,4 @@
 8.3 Ноцтой байдал: Хэрэв энэ лицензийн аливаа хуулийг эрх мэдэл буруу, эсхүл хүчин төгөлдөр бус эсвэл хүчин төгөлдөр бус гэж үзвэл үлдсэн заалт нь бүрэн хүчин төгөлдөр, үр дагавартай байх болно.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

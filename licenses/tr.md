@@ -1,5 +1,5 @@
 Cyonicsolutions Genel Lisansı (CSGL)
-Sürüm 1.0
+Sürüm 1.0 Test
 
 Etkili Tarih: [2024 - 2028]
 
@@ -29,7 +29,7 @@ Etkili Tarih: [2024 - 2028]
 
 3.2.4 Yerel değişiklik yok: GitHub aracılığıyla gönderilmeyen ve kabul edilmeyen lisans sahibi tarafından yapılan yerel değişikliklere izin verilmez ve bu lisansın şartlarının ihlali olarak kabul edilecektir.
 
-Not: Bu lisansın amaçları doğrultusunda, "yazılım için resmi depo" __URL_0__ adresinde barındırılan depoyu ifade eder.
+Not: Bu lisansın amaçları doğrultusunda, "Yazılım için Resmi Depo" __URL_0__ adresinde barındırılan depoyu ifade eder.
 
 4. Mülkiyet
 
@@ -60,4 +60,4 @@ Not: Bu lisansın amaçları doğrultusunda, "yazılım için resmi depo" __URL_
 8.3 Kesilebilirlik: Bu lisansın herhangi bir hükmünün yetkili bir yargı mahkemesi tarafından geçersiz veya uygulanamadığı tespit edilirse, geri kalan hükümler tam olarak yürürlükte kalacaktır.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

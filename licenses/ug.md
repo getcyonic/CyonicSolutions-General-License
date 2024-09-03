@@ -1,5 +1,5 @@
 Cyonicolicings unders underment officle (CSGL)
-1.0 نەشرى
+نەشرى 1.0 سىناق
 
 كۈچكە ئىگە ۋاقىت: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Cyonicolicings unders underment officle (CSGL)
 8.3 خىللغىنىشچانلىقى: ئەگەر بۇ ئىجازەتنامىنىڭ ئەركىن باشقۇرۇش تەۋەلىكى مەھكىمىسىنىڭ قەرزى ئىناۋەتسىز ياكى ئاچقىراپ قالغان بولسا, قالغان بەلگىلىمە تولۇق كۈچ ۋە كۈچكە ئىگە بولىدۇ.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

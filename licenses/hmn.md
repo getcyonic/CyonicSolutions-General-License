@@ -1,5 +1,5 @@
 Cynicsolutions General Daim Ntawv Tso Cai (CSGL)
-Version 1.0
+Version 1.0 xeem ntawv
 
 Hnub Pib: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Nco tseg: Rau cov hom cai ntawm daim ntawv tso cai no, "cov ntaub ntawv raug cai
 8.3 Kev muab cov ntawv tso cai ntawm daim ntawv tso cai tsis raug lossis tsis muaj peev xwm los ntawm lub tsev hais plaub muaj kev txiav txim siab, cov cai tseem yuav nyob ruaj khov thiab nyhuv.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

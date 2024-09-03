@@ -1,5 +1,5 @@
 Cyonictolutions General Concer (CSGL)
-Ụdị 1.0
+Ụdị 1.0 ule
 
 Bọchị dị mma: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Iwu nke isi a ga-achịkwa ikike a, na-achịkwa iwu Brazil, na-enweghị nsogbu
 8.3 Ohere: Ọ bụrụ na achọpụtara inye onyinye ọ bụla nke ikikere a na-abaghị uru ma ọ bụ na-enweghị nsogbu site na ụlọ ikpe ikike, ihe ndị fọdụrụ ga-adịgide n'ike na mmetụta.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

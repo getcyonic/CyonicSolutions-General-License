@@ -1,5 +1,5 @@
 Ruqsadda Guud ee Synonitics (CSL)
-Nooca 1.0
+Nooca 1.0 Tijaabada
 
 Taariikhda dhaqangalka: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Dib-u-habeyn: wax ka beddel ah: wax ka beddel ama wax ka beddel shatigan waa inu
 8.3 Leedbitaanka: Haddii wax kasta oo ku saabsan laysankan lagu helo inuusan ansax ahayn ama aan la jaan qaadi karin maxkamad awood leh, qodobbada harsan waxay ku sii jiri doonaan awood buuxda iyo saameyn.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

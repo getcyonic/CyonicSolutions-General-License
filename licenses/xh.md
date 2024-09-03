@@ -1,5 +1,5 @@
 I-cynicans ilayisensi ngokubanzi (CSGL)
-Inguqulelo 1.0
+Inguqulelo 1.0 Uvavanyo
 
 Umhla ofanelekileyo: [2024 - 2028]
 
@@ -60,4 +60,4 @@ QAPHELA: Ngeenjongo zalo mdlelo, "ugcino lwaseburhulumenteni lwesoftware" lubhek
 8.3 Ukuziqhelanisa: Ukuba kukho naluphi na ulungiselelo lwelayisensi kufumaneka ukuba kungasebenzi okanye kunganyanzelekanga yinkundla yolawulo olunobuchule, amalungiselelo aseleyo aya kuhlala esengqiqweni kwaye wenzani.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

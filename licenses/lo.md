@@ -1,5 +1,5 @@
 ໃບອະນຸຍາດທົ່ວໄປ (CSGL)
-ຮຸ່ນ 1.0
+ຮຸ່ນ 1.0 ທົດສອບ
 
 ວັນທີມີຜົນບັງຄັບໃຊ້: [2024 - 2028]
 
@@ -60,4 +60,4 @@
 8.3 ຄວາມເປັນໄປໄດ້: ຖ້າມີການຈັດຫາໃບອະນຸຍາດນີ້ບໍ່ຖືກຕ້ອງຫຼືບໍ່ມີຄວາມຫມາຍໂດຍສານແຫ່ງຄວາມບັງຄັບໃຊ້, ຂໍ້ກໍານົດທີ່ຍັງເຫຼືອຈະຍັງຄົງຢູ່ໃນຜົນບັງຄັບໃຊ້ແລະຜົນບັງຄັບໃຊ້.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

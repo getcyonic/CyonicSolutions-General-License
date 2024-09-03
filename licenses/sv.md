@@ -1,5 +1,5 @@
 Cyonicsolutions General License (CSGL)
-Version 1.0
+Version 1.0 -test
 
 Effektiv datum: [2024 - 2028]
 
@@ -53,11 +53,11 @@ Obs: För denna licens, hänvisar det "officiella förvaret för programvaran" t
 
 8. Allmänna bestämmelser
 
-8.1 Hela avtal: Denna licens utgör hela avtalet mellan parterna med avseende på programvaran och ersätter alla tidigare eller samtidiga avtal, skriftliga eller muntliga, relaterade till programvaran.
+8.1 Hela avtalet: Denna licens utgör hela avtalet mellan parterna med avseende på programvaran och ersätter alla tidigare eller samtidiga avtal, skriftliga eller muntliga, relaterade till programvaran.
 
 8.2 Ändringar: Alla ändringar eller ändringar av denna licens måste vara skriftligt och undertecknat av båda parter.
 
 8.3 Severbarhet: Om någon bestämmelse av denna licens har visat sig vara ogiltig eller inte verkställbar av en domstol med behörig jurisdiktion, kommer de återstående bestämmelserna att förbli i full kraft och verkan.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

@@ -1,5 +1,5 @@
 Iwe-aṣẹ gigun kẹkẹ Gbogbogbo (CSG)
-Ẹya 1.0
+Ẹya 1.0 idanwo
 
 Ọjọ ti o munadoko: [2024 - 2028]
 
@@ -60,4 +60,4 @@ Awọn iyipada 8.2: Iyipada eyikeyi tabi Atunse si Iwe-aṣẹ yii gbọdọ wa 
 8.3 Darapọ: ti eyikeyi ipese ti iwe-aṣẹ yii ni a rii pe o ko wulo tabi aisedeede nipasẹ ile-ẹjọ ti agbara to lagbara, awọn ipese ti o ku yoo wa ni agbara ni kikun ati ipa.
 
 ---
-Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/cyonicsolutions/license.md. Please refer to the original version for the valid license.
+Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.
