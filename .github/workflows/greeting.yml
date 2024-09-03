@@ -1,4 +1,4 @@
-name: Greeting Bot
+name: Welcome new contributors
 
 on:
   issues:
@@ -7,26 +7,11 @@ on:
     types: [opened]
 
 jobs:
-  greet:
+  welcome:
     runs-on: ubuntu-latest
     steps:
-      - name: Greet
-        uses: actions/github-script@v6
+      - name: Welcome Message
+        uses: repo-sync/welcome-action@v2
         with:
-          script: |
-            const greetingMessage = "Hi there! Thanks for your contribution. We'll review it soon.";
-            if (github.context.issue) {
-              await github.rest.issues.createComment({
-                issue_number: github.context.issue.number,
-                owner: github.context.repo.owner,
-                repo: github.context.repo.repo,
-                body: greetingMessage
-              });
-            } else if (github.context.payload.pull_request) {
-              await github.rest.issues.createComment({
-                issue_number: github.context.payload.pull_request.number,
-                owner: github.context.repo.owner,
-                repo: github.context.repo.repo,
-                body: greetingMessage
-              });
-            }
+          message: |
+            Hello @{{ github.actor }}! Thanks for opening this {{ github.event.issue ? 'issue' : 'pull request' }}. We appreciate your contribution and will review it soon!
