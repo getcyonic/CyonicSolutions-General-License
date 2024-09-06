@@ -29,7 +29,7 @@ Stāšanās datums: [2024 - 2028]
 
 3.2.4. Vietējās izmaiņas: Licenciāta veiktās vietējās modifikācijas, kuras netiek iesniegtas un pieņemtas caur GitHub, nav atļautas, un tās tiks uzskatītas par šīs licences noteikumu pārkāpumu.
 
-Piezīme: Šīs licences vajadzībām "oficiālais programmatūras krātuve" attiecas uz repozitoriju, kas mitināts __URL_0__, licenciāta pienākums ir pārskatīt un ievērot vadlīnijas un procedūras, ko Cyonicsolutions sniedz ieguldījumiem.
+Piezīme: Šīs licences vajadzībām "oficiālais programmatūras krātuve" attiecas uz repozitoriju, kas atrodas __URL_REMOVED__, licenciāta pienākums ir pārskatīt un ievērot vadlīnijas un procedūras, ko Cyonicsolutions sniedz ieguldījumiem.
 
 4. Īpašumtiesības
 
@@ -45,11 +45,11 @@ Piezīme: Šīs licences vajadzībām "oficiālais programmatūras krātuve" att
 
 6.1. Bezbūšana: šī licence ir spēkā līdz izbeigšanai.Licences devējs var jebkurā laikā izbeigt šo licenci, ja tiek paziņots par licenciātu, ja licenciāts pārkāpj jebkuru šīs licences termiņu vai nosacījumu.
 
-6.2. Izbeigšanas ietekme: Pēc šīs licences izbeigšanas licenciācijai nekavējoties jāpārtrauc izmantot programmatūru un jāiznīcina visas tās rīcībā esošās programmatūras kopijas.
+6.2. Izbeigšanas ietekme: Pēc šīs licences izbeigšanas licenciātam nekavējoties jāpārtrauc izmantot programmatūru un jāiznīcina visas tās rīcībā esošās programmatūras kopijas.
 
 7. piemērojamie likumi
 
-7.1. Likuma pārvaldes likums: šo licenci regulē un interpretē saskaņā ar Brazīlijas likumiem, neņemot vērā tā likumu konfliktu principus.Jebkuram strīdam, kas rodas saskaņā ar šo licenci, attiecas ekskluzīvā tiesu jurisdikcija, kas atrodas Sanpaulu.
+7.1. Likums: šo licenci regulē un interpretē saskaņā ar Brazīlijas likumiem, neņemot vērā tā likumu konfliktu principus.Jebkuram strīdam, kas rodas saskaņā ar šo licenci, attiecas ekskluzīvā tiesu jurisdikcija, kas atrodas Sanpaulu.
 
 8. Vispārīgi noteikumi
 

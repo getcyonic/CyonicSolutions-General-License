@@ -29,7 +29,7 @@ Taariikhda dhaqangalka: [2024 - 2028]
 
 3.2.4 Ma jiro isbadal maxalli ah: wax ka beddelka maxalliga ah ee laga sameeyo shatiga shatiga aan la soo gudbin oo laga aqbalo GitHub lama oggola oo loo tixgelin doono ku xadgudubka shuruudaha shahaadada.
 
-FIIRO GAAR AH: Ujeeddooyinka shatigaas, "keydka rasmiga ah ee softiweerka" waxaa loola jeedaa kaydka lagu hayo __-ka-shati-u-dhigistu inuu dib u eego oo uu raaco tilmaamaha iyo habraacyada ay bixiso qalabka ay ku tabarucdo.
+FIIRO GAAR AH: Ujeeddooyinka shatigaas, "kaydka rasmiga ah ee softiweerka" waxaa loola jeedaa kaydka lagu hayo __ waxaa loogu talagalay mas'uuliyadda shatiga inuu dib u eego oo uu raaco tilmaamaha iyo nidaamka ay bixiyaan qalabka wax lagu biiro.
 
 4. lahaanshaha
 

@@ -29,7 +29,7 @@ Effektiv Datum: [2024 - 2028]
 
 3.2,4 Keng lokal Ännerungen: lokal Ännerungen déi net ofgematt sinn, déi net duerch d'Lagus, ugeholl ginn, gëtt net erlaabt dëser Rezeude vun der Bedéngungen ze ugeholl.
 
-Notiz: Fir Zwecker vun dëser Lizenz, den "offiziellen Repository fir d'Software" bezitt sech op d'Repository Hosted am __url_0__. Et ass d'Verantwortung a Verantwortung a Verantwortung ze kontrolléieren a Missiounslieden fir d'Verdeedeger ze bidden.
+Notiz: Fir Zwecker vun dëser Lizenz, den "offiziellen Repository fir d'Software" bezitt sech op d'Repository, déi op __url_remedifte gëtt a verfollegt a kontrolléiert d'Verantwortung.
 
 4. Proprietär
 

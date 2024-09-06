@@ -21,7 +21,7 @@ Gildisdagsetning: [2024 - 2028]
 
 3.2 Leyfi breytinga: Breytingar á hugbúnaðinum eru aðeins leyfðar ef þær eru lagðar fram og samþykktar í gegnum opinbera Cyonicsolutions geymslu á GitHub, eins og lýst er hér að neðan:
 
-3.2.1 Framlagning breytinga: Laga verður um allar breytingar eða afleiddar vinnu sem framlag (draga beiðni) til opinberra cyonicsolutions geymslu á Github.Leyfishafi verður að fylgja staðfestu framlagsferlinu, sem felur í sér að búa til GitHub reikning, framleiða geymsluna og leggja fram PUG -beiðni í samræmi við leiðbeiningarnar sem gefnar eru.
+3.2.1 Framlagning breytinga: Leggja þarf fram allar breytingar eða afleiddar vinnu sem framlag (draga beiðni) til opinberra cyonicsolutions geymslu á GitHub.Leyfishafi verður að fylgja staðfestu framlagsferlinu, sem felur í sér að búa til GitHub reikning, framleiða geymsluna og leggja fram PUG -beiðni í samræmi við leiðbeiningarnar sem gefnar eru.
 
 3.2.2 Endurskoðun og staðfesting: Cyonicsolutions áskilur sér rétt til að endurskoða, samþykkja eða hafna öllum framlagðri breytingu.Engin breyting skal teljast felld inn í hugbúnaðinn þar til formlega samþykkt og samþætt með cyonicsolutions í opinberu geymsluna.
 
@@ -29,7 +29,7 @@ Gildisdagsetning: [2024 - 2028]
 
 3.2.4 Engar staðbundnar breytingar: Staðbundnar breytingar sem gerðar eru af leyfishafa sem ekki eru lagðar fram og samþykktar í gegnum Github eru ekki leyfðar og verða talnar brot á skilmálum þessa leyfis.
 
-Athugasemd: Að því er varðar þetta leyfi vísar „opinbera geymsla hugbúnaðarins“ til geymslunnar sem haldin er á __url_0__ Það er ábyrgð leyfishafa að endurskoða og fylgja leiðbeiningum og verklagsreglum sem Cyonicsolutions veitir til að leggja fram.
+Athugasemd: Að því er varðar þetta leyfi vísar „opinbera geymsla hugbúnaðarins“ til geymslunnar sem hýst er á __url_removed__ Það er á ábyrgð leyfishafa að endurskoða og fylgja leiðbeiningunum og verklagsreglum sem Cyonicsolutions veitir til að leggja sitt af mörkum.
 
 4. Eignarhald
 
@@ -57,7 +57,7 @@ Athugasemd: Að því er varðar þetta leyfi vísar „opinbera geymsla hugbún
 
 8.2 Breytingar: Allar breytingar eða breytingar á þessu leyfi verða að vera skriflegar og undirritaðar af báðum aðilum.
 
-8.3 Alvaranleiki: Ef einhver ákvæði þessa leyfis reynist vera ógilt eða óframfylgjanlegt af dómstóli með lögsögu lögsögu verða ákvæðin sem eftir eru í fullu gildi og gildi.
+8.3 Alvaranleiki: Ef einhver ákvæði þessa leyfis reynist ógilt eða óframfylgjanlegt af dómstóli með lögsögu lögsögu verða ákvæðin sem eftir eru í fullu gildi og gildi.
 
 ---
 Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

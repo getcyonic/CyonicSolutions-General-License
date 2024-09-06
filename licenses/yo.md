@@ -29,7 +29,7 @@ Iyipada 3.1
 
 3.2.4 Ko si awọn ayipada agbegbe: Awọn iyipada agbegbe ti a ṣe nipasẹ Iwe-aṣẹ ti a ko gbekalẹ ati gba nipasẹ Github Ko gba laaye ati pe ao ka Riru fun awọn ofin ti iwe-aṣẹ ti iwe-aṣẹ yii.
 
-AKIYESI: Fun awọn idi ti iwe-aṣẹ yii, "ibi ipamọ osi fun sọfitiwia" tọka si ibi ipamọ ti a gbalejo ati awọn ilana ti a pese nipasẹ awọn coonsolpolations fun ṣiṣe alabapin.
+Akiyesi: Fun awọn idi ti iwe-aṣẹ yii, "ibi ipamọ osi fun sọfitiwia" tọka si ibi ipamọ ti a gbalejo ati tẹle awọn itọsọna ati awọn ilana ti a pese nipasẹ awọn ile-ẹkọ giga fun ṣiṣe.
 
 4. Onigbagbọ
 

@@ -29,7 +29,7 @@ Ka lā kūpono: [2024 - 2028]
 
 3.2.4ʻAʻole hoʻololi nā loli kūloko: nā hoʻololi kūloko i hanaʻia e ka laikiniʻaʻole i hoʻounaʻia aʻaeʻia i kahiʻaeʻia o GitHub.
 
-Kahakaha: No nā kumu o kēia laikini,ʻo ka waihona kālā no ka polokalamu e mālama ai i ke kuleana a me nā kaʻina hana.
+Kuhi: No nā kumu o kēia laikini,ʻo ka waihona kālā no ka polokalamu "e pili ana i ke kuleana a me nā kaʻina hana.
 
 4. ka mea nona
 

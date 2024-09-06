@@ -29,7 +29,7 @@ Tsiku Lothandiza: [2024 - 2028]
 
 3.2.4 Palibe zosintha zakomweko: Zosintha zakomweko zomwe zidapangidwa ndi laumulungu zomwe sizinatumizidwe ndikuvomerezedwa kudzera mu Gitab siziloledwa ndipo zidzawonedwa kuti ndikuphwanya lamuloli.
 
-Dziwani: Zolinga za layisensi iyi, yosungirako nyumbayo "imatanthawuza kuti pulogalamuyi" ikutanthauza kuti ndi udindo wa layisiti yowunikiranso ndikutsatira malangizo a Croonictions omwe amapereka.
+Dziwani: Zolinga za layisensi iyi, yosungirako malowa kwa pulogalamuyo "ikutanthauza kuti malo osungirako ku __rurl_moused__ ndi udindo wa lasensi kuti awunikenso ndikutsatira njira zopangira.
 
 4. Umwini
 

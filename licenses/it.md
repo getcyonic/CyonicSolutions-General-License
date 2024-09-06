@@ -5,7 +5,7 @@ Data di efficacia: [2024 - 2028]
 
 1. Concesso di licenza
 
-1.1 Concessione dei diritti: ai sensi della presente licenza, il licenziatario concede un licenziatario un diritto non esclusivo, non trasferibile, non sostituibile di accedere, visualizzare e utilizzare il software (come definito di seguito) esclusivamente per scopi personali e non commerciali, soggetti aI termini e le condizioni qui stabiliti.
+1.1 Concessione dei diritti: ai sensi della presente licenza, il licenziatario concede un licenziatario un diritto non esclusivo, non trasferibile, non pubblicensibile di accedere, visualizzare e utilizzare il software (come definito di seguito) esclusivamente per scopi personali e non commerciali, soggetti aI termini e le condizioni qui stabiliti.
 
 2. Definizioni
 
@@ -29,7 +29,7 @@ Data di efficacia: [2024 - 2028]
 
 3.2.4 Nessuna modifica locale: modifiche locali apportate dal licenziatario che non sono state presentate e accettate tramite GitHub non sono consentite e saranno considerate una violazione dei termini di questa licenza.
 
-Nota: ai fini della presente licenza, il "repository ufficiale per il software" si riferisce al repository ospitato a __URL_0__ È responsabilità del licenziatario di rivedere e seguire le linee guida e le procedure fornite dalle CyonicSolutions per aver contribuito.
+Nota: ai fini della presente licenza, il "repository ufficiale per il software" si riferisce al repository ospitato a __url_removed__ È responsabilità del licenziatario di rivedere e seguire le linee guida e le procedure fornite da CyonicSolutions per aver contribuito.
 
 4. Proprietà
 
@@ -37,7 +37,7 @@ Nota: ai fini della presente licenza, il "repository ufficiale per il software" 
 
 5. Garanzie e disclaimer
 
-5.1 Nessuna garanzia: il software è fornito "così come è" senza garanzia di alcun tipo, né espresso né implicito, incluso, ma non limitato a, le garanzie implicite di commerciabilità, idoneità per uno scopo particolare o non violazione.
+5.1 Nessuna garanzia: il software è fornito "così com'è" senza garanzia di alcun tipo, né espresso né implicito, incluso, ma non limitato a, le garanzie implicite di commerciabilità, idoneità per uno scopo particolare o non violazione.
 
 5.2 Disclaimer: il licenziatario non sarà responsabile per eventuali danni diretti, indiretti, accidentali, speciali o consequenziali derivanti dall'uso o dall'incapacità di utilizzare il software.
 

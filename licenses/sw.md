@@ -29,7 +29,7 @@ Programu ya 2.1: inamaanisha programu ya programu, pamoja na nambari ya chanzo, 
 
 3.2.4 Hakuna Mabadiliko ya Mitaa: Marekebisho ya ndani yaliyotolewa na Leseni ambayo hayajawasilishwa na kukubaliwa kupitia GitHub hayaruhusiwi na yatazingatiwa kama ukiukaji wa masharti ya leseni hii.
 
-KUMBUKA: Kwa madhumuni ya leseni hii, "hazina rasmi ya programu" inahusu hazina iliyohudhuriwa kwa __URL_0__ ni jukumu la Leseni kukagua na kufuata miongozo na taratibu zilizotolewa na Cyonicssolutions kwa kuchangia.
+KUMBUKA: Kwa madhumuni ya leseni hii, "hazina rasmi ya programu" inahusu kumbukumbu iliyohudhuriwa kwa __URL_REMOVED__ ni jukumu la Leseni kukagua na kufuata miongozo na taratibu zilizotolewa na CyoniSolutions kwa kuchangia.
 
 4. Umiliki
 

@@ -29,7 +29,7 @@ Zvinobudirira Zuva: [2024 - 2028]
 
 3.2.4 Hapana shanduko yenzvimbo: Nzvimbo dzekushandurwa dzaiitwa neChiziyamu iyo isingatenderwa uye inogamuchirwa kuburikidza neGithubhu haibvumirwe uye ichakurukurwa nekutyorwa kwezinesi rezinesi rezinesi.
 
-Ongorora: Nechinangwa cheiyi rezinesi, iyo "repamutemo repository ye software" inoreva nzvimbo inogashirwa ku __url_0
+Ongorora: Zvikonzero zveiyi rezinesi, iyo "Official repository ye software" inoreva iyo inopihwa basa rakawanikwa
 
 4. Uridzi
 

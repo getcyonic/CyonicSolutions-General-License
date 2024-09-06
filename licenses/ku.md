@@ -29,7 +29,7 @@ Dîroka bandor: [2024 - 2028]
 
 3.2.4 Guhertinên herêmî tune: Guhertinên herêmî yên ku ji hêla lîsansê ve hatine şandin û bi navgîniya Github nayê pejirandin û dê binpêkirina şertên vê lîsansê werin hesibandin.
 
-Nîşe: Ji bo armancên vê lîsansê, "depoya fermî ya ji bo nermalavê" vedigire ku li __URL_0__ berpirsiyariya lîsansê ye û rêwerz û pêkanînên ku ji hêla cyonicsyonan ve têne pêşkêş kirin.
+Nîşe: Ji bo armancên vê lîsansê, "depoya fermî ya ji bo nermalavê" vedigire ku li __url_removed__ berpirsiyariya lîsansê ye û rêwerz û pêkanînên ku ji hêla cyonicsolutions ve têne pêşkêş kirin.
 
 4. Xwedîtiyê
 

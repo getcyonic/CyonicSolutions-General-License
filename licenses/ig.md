@@ -29,7 +29,7 @@ Ikikere 2.2: Ngwongwo ma ọ bụ onye na-enye ikike a.N'okwu a, ọ na-ezo aka 
 
 3.2.4 Enweghị mgbanwe mpaghara: Mgbanwe ndị a na-etinyeghị ma nabata site na Gitub anaghị anabata ya, ọ ga-ahụtakwa iwu nke ikikere a.
 
-IHE: Maka ebumnuche nke ikikere a, "repositolọ ọrụ" maka sọftụwia "na-ezo aka na nchedo na-eso ntuziaka nke usoro ntuziaka na usoro enyere maka inye aka.
+IHE: Maka ebumnuche nke ikikere a, "Remelọ Ọrụ Nchekwa Maka Software" na-ezo aka na nchekwa nke akpọrọ na __url_removed__ ọ bụ ọrụ na-enye usoro ntuziaka na usoro enyere maka inye aka.
 
 4. Ikike
 

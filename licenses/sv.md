@@ -29,7 +29,7 @@ Effektiv datum: [2024 - 2028]
 
 3.2.4 Inga lokala ändringar: Lokala ändringar gjorda av licensinnehavaren som inte lämnas in och accepteras via GitHub är inte tillåtna och kommer att betraktas som ett brott mot villkoren för denna licens.
 
-Obs: För denna licens, hänvisar det "officiella förvaret för programvaran" till det arkiv som är värd på __url_0__, det är licensinnehavarens ansvar att granska och följa riktlinjerna och procedurerna som tillhandahålls av Cyonicsolutions för att bidra.
+Obs: För denna licens, hänvisar det "officiella förvaret för programvaran" till det arkiv som är värd på __url_removed__, det är licensinnehavarens ansvar att granska och följa riktlinjerna och förfarandena som tillhandahålls av cyonicsolutions för att bidra.
 
 4. ägande
 

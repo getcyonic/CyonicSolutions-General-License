@@ -5,7 +5,7 @@ Etkili Tarih: [2024 - 2028]
 
 1. Lisans Hibe
 
-1.1 Hakların Hibe: Bu lisans kapsamında, lisans veren hibe, lisans sahibine, yazılıma (aşağıda tanımlandığı gibi) erişme, görüntüleme ve kullanma hakkı (yalnızca aşağıda tanımlandığı gibi), kişisel, ticari olmayan amaçlar için lisans alan kişiye,Burada belirtilen hüküm ve koşullar.
+1.1 Hakların Hibe: Bu lisans kapsamında, lisans veren hibe, lisans sahibine, yazılıma (aşağıda tanımlandığı gibi) erişme, görüntüleme ve kullanma hakkı (yalnızca aşağıda tanımlandığı gibi) lisans alan kişi, kişisel, ticari olmayan amaçlar için,Burada belirtilen hüküm ve koşullar.
 
 2. Tanımlar
 
@@ -23,13 +23,13 @@ Etkili Tarih: [2024 - 2028]
 
 3.2.1 Modifikasyonların Gönderilmesi: Herhangi bir değişiklik veya türev çalışma, GitHub'daki resmi Cyonicsolutions deposuna katkı olarak (çekme isteği) sunulmalıdır.Lisans Alan, GitHub hesabı oluşturmayı, depoyu zorlamayı ve sağlanan yönergelere uygun olarak bir çekme talebi göndermeyi içeren belirlenmiş katkı sürecini izlemelidir.
 
-3.2.2 İnceleme ve Kabul: Cyonicsolutions, gönderilen değişiklikleri inceleme, kabul etme veya reddetme hakkını saklı tutar.Cyonicsolutions tarafından resmi depoya resmi olarak kabul edilene ve entegre edilene kadar yazılıma herhangi bir değişiklik kabul edilmeyecektir.
+3.2.2 İnceleme ve Kabul: Cyonicsolutions, gönderilen değişiklikleri inceleme, kabul etme veya reddetme hakkını saklı tutar.Cyonicsolutions tarafından resmi depoya resmi olarak kabul edilen ve entegre edilene kadar yazılıma herhangi bir değişiklik kabul edilmeyecektir.
 
-3.2.3 Dokümantasyon ve Teşekkür: Lisans Alan, gönderilen herhangi bir değişiklik için yeterli belgeler sağlamalı ve değişiklik ile ilgili uygun onay vermesi gerekebilir.
+3.2.3 Dokümantasyon ve Onay: Lisans Alan, gönderilen herhangi bir değişiklik için yeterli belgeler sağlamalı ve değişiklik ile ilgili uygun onay vermesi gerekebilir.
 
 3.2.4 Yerel değişiklik yok: GitHub aracılığıyla gönderilmeyen ve kabul edilmeyen lisans sahibi tarafından yapılan yerel değişikliklere izin verilmez ve bu lisansın şartlarının ihlali olarak kabul edilecektir.
 
-Not: Bu lisansın amaçları doğrultusunda, "Yazılım için Resmi Depo" __URL_0__ adresinde barındırılan depoyu ifade eder.
+Not: Bu lisansın amaçları doğrultusunda, "Yazılım Resmi Deposu", __URL_REMOVIED__ adresinde barındırılan depoya atıfta bulunur.
 
 4. Mülkiyet
 
@@ -57,7 +57,7 @@ Not: Bu lisansın amaçları doğrultusunda, "Yazılım için Resmi Depo" __URL_
 
 8.2 Değişiklikler: Bu lisansda yapılan herhangi bir değişiklik veya değişiklik yazılı olmalı ve her iki taraf tarafından imzalanmalıdır.
 
-8.3 Kesilebilirlik: Bu lisansın herhangi bir hükmünün, yetkili bir yargı mahkemesi tarafından geçersiz veya uygulanamadığı tespit edilirse, geri kalan hükümler tam olarak yürürlükte kalacaktır.
+8.3 Kesilebilirlik: Bu lisansın herhangi bir hükmünün yetkili bir yargı mahkemesi tarafından geçersiz veya uygulanamadığı tespit edilirse, geri kalan hükümler tam olarak yürürlükte kalacaktır.
 
 ---
 Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

@@ -29,7 +29,7 @@ Tanggal Efektif: [2024 - 2028]
 
 3.2.4 Tidak ada perubahan lokal: Modifikasi lokal yang dilakukan oleh penerima lisensi yang tidak diserahkan dan diterima melalui GitHub tidak diizinkan dan akan dianggap sebagai pelanggaran terhadap ketentuan lisensi ini.
 
-Catatan: Untuk keperluan lisensi ini, "repositori resmi untuk perangkat lunak" mengacu pada repositori yang di -host di __URL_0__ adalah tanggung jawab penerima lisensi untuk meninjau dan mengikuti pedoman dan prosedur yang disediakan oleh Cyonicsolutions untuk berkontribusi.
+CATATAN: Untuk keperluan lisensi ini, "repositori resmi untuk perangkat lunak" mengacu pada repositori yang di -host di __Url_removed__ adalah tanggung jawab penerima lisensi untuk meninjau dan mengikuti pedoman dan prosedur yang disediakan oleh Cyonicsolutions untuk berkontribusi.
 
 4. Kepemilikan
 

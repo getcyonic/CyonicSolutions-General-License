@@ -27,9 +27,9 @@ Hatálybalépés dátuma: [2024 - 2028]
 
 3.2.3 Dokumentáció és nyugtázás: Az engedélyesnek megfelelő dokumentációt kell adnia a benyújtott módosításokhoz, és szükség lehet a módosítással kapcsolatos megfelelő nyugtázás biztosításához.
 
-3.2.4 Nincs helyi változás: Az Engedélyes által a GitHub -en keresztül nem benyújtott és elfogadott helyi módosítások nem megengedettek, és az engedély feltételeinek megsértésének tekintik.
+3.2.4 Nincs helyi változás: Az Engedélyes által a GitHub -en keresztül nem benyújtott és elfogadott helyi módosítások nem engedélyezettek, és az engedély feltételeinek megsértésének tekintik.
 
-Megjegyzés: A licenc alkalmazásában a "Hivatalos tároló a szoftverhez" a __url_0__ értékben tárolt tárolóra utal
+Megjegyzés: E licenc alkalmazásában a "Hivatalos tároló a szoftverhez" a __url_removed__ -nál tárolt tárolóra utal
 
 4. Tulajdonos
 

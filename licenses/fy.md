@@ -29,7 +29,7 @@ Effektive datum: [2024 - 2028]
 
 3.2.4 Gjin lokale feroarings: Lokale oanpassen makke troch Lisinsje By dat wurdt net yntsjinne en aksepteare fia Github binne net tastien en sille wurde beskôge as in oertreding fan 'e betingsten fan dizze lisinsje.
 
-Opmerking: foar doelen fan dizze lisinsje, de software "ferwiist nei de software" nei it repository host by __url_0__ it is de ferantwurdlikens fan lisinsje om te kontrolearjen en te folgjen fan 'e rjochtlinen en prosedueres levere troch Cyonicsolutions foar it bydragen fan bydrage.
+Opmerking: foar doelen fan dizze lisinsje, ferwiist it "Offisjele repository 'ferwiist nei de repository by __URL_Removed__, it kin de ferantwurdlikens fan lisinsje- en prosedueres levere troch Cyonicsolutions foar it bydragen fan bydrage.
 
 4. eigendom
 
@@ -39,7 +39,7 @@ Opmerking: foar doelen fan dizze lisinsje, de software "ferwiist nei de software
 
 5.1 Gjin garânsje: De software wurdt levere "lykas" sûnder garânsje fan elke soarte, of ymplisyt of ymplisearre, mar net beheind ta, de ymplisyt garânsjes, fitness foar in bepaald doel, as net-ynbreuk.
 
-5.2 Disclaimer: Licensor sil net oanspraaklik wêze foar alle direkte, yndirekte, ynsidintele, spesjale as gefolchyske skea dy't gefolch út it gebrûk fan of ûnfermogen om de software te brûken.
+5.2 Disclaimer: Licensor sil net oanspraaklik wêze foar alle direkte, yndirekte, ynsidintele, spesjale as gefolchyske skea dy't gefolch fan it gebrûk fan of ûnfermogen om de software te brûken.
 
 6. Beëiniging
 

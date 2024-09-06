@@ -25,11 +25,11 @@ Fecha de vigencia: [2024 - 2028]
 
 3.2.2 Revisión y aceptación: Cyonicsolutions se reserva el derecho de revisar, aceptar o rechazar cualquier modificación enviada.Ninguna modificación se considerará incorporada en el software hasta que CyonicSolutions no se acepte formalmente e integre formalmente en el repositorio oficial.
 
-3.2.3 Documentación y reconocimiento: El licenciatario debe proporcionar documentación adecuada para cualquier modificación enviada y puede ser obligado a proporcionar el reconocimiento apropiado con respecto a la modificación.
+3.2.3 Documentación y reconocimiento: El Licenciatario debe proporcionar documentación adecuada para cualquier modificación enviada y puede ser obligado a proporcionar el reconocimiento apropiado con respecto a la modificación.
 
 3.2.4 No hay cambios locales: las modificaciones locales realizadas por el licenciatario que no se presentan y aceptan a través de GitHub no están permitidas y se considerarán una violación de los términos de esta licencia.
 
-Nota: Para los propósitos de esta licencia, el "repositorio oficial del software" se refiere al repositorio alojado en __URL_0__ Es responsabilidad del licenciatario revisar y seguir las pautas y procedimientos proporcionados por Cyonicsolutions para contribuir.
+Nota: Para los propósitos de esta licencia, el "repositorio oficial del software" se refiere al repositorio alojado en __URL_REMOVED__ Es responsabilidad del licenciatario revisar y seguir las pautas y procedimientos proporcionados por Cyonicsolutions para contribuir.
 
 4. Propiedad
 

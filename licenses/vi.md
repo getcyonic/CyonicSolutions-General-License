@@ -17,19 +17,19 @@ Ngày có hiệu lực: [2024 - 2028]
 
 3. Hạn chế
 
-3.1 Sửa đổi: Bên được cấp phép không được sửa đổi, điều chỉnh, dịch hoặc tạo các tác phẩm phái sinh của phần mềm, toàn bộ hoặc một phần, trừ khi được phép trong phần này.
+3.1 Sửa đổi: Người được cấp phép không được sửa đổi, điều chỉnh, dịch hoặc tạo các tác phẩm phái sinh của phần mềm, toàn bộ hoặc một phần, trừ khi được phép trong phần này.
 
 3.2 Quyền sửa đổi: Sửa đổi đối với phần mềm chỉ được phép nếu chúng được gửi và phê duyệt thông qua kho lưu trữ chính thức của Cyonicsolutions trên GitHub, như được mô tả dưới đây:
 
-3.2.Người được cấp phép phải tuân theo quy trình đóng góp đã được thiết lập, bao gồm tạo tài khoản GitHub, nhận kho lưu trữ và gửi yêu cầu kéo theo các hướng dẫn được cung cấp.
+3.2.Bên được cấp phép phải tuân theo quy trình đóng góp đã được thiết lập, bao gồm tạo tài khoản GitHub, nhận kho lưu trữ và gửi yêu cầu kéo theo các hướng dẫn được cung cấp.
 
 3.2.2 Đánh giá và chấp nhận: Cyonicsolutions có quyền xem xét, chấp nhận hoặc từ chối mọi sửa đổi đã gửi.Không có sửa đổi nào được coi là tích hợp vào phần mềm cho đến khi chính thức chấp nhận và tích hợp bởi các phân giải Cyonicsolution vào kho lưu trữ chính thức.
 
 3.2.3 Tài liệu và xác nhận: Người được cấp phép phải cung cấp tài liệu đầy đủ cho bất kỳ sửa đổi nào được gửi và có thể được yêu cầu để cung cấp xác nhận phù hợp về việc sửa đổi.
 
-3.2.4 Không có thay đổi địa phương: Sửa đổi địa phương được thực hiện bởi người được cấp phép không được nộp và chấp nhận thông qua GitHub không được phép và sẽ bị coi là vi phạm các điều khoản của giấy phép này.
+3.2.
 
-Lưu ý: Đối với các mục đích của giấy phép này, "Kho lưu trữ chính thức cho phần mềm" đề cập đến kho lưu trữ tại __URL_0__, trách nhiệm của người được cấp phép là xem xét và tuân theo các hướng dẫn và quy trình do Cyonicsolutions cung cấp để đóng góp.
+Lưu ý: Đối với mục đích của giấy phép này, "Kho lưu trữ chính thức cho phần mềm" đề cập đến kho lưu trữ tại __url_removeD__, trách nhiệm của người được cấp phép là xem xét và tuân theo các hướng dẫn và quy trình do Cyonicsolutions cung cấp để đóng góp.
 
 4. Quyền sở hữu
 

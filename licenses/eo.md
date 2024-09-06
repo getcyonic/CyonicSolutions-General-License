@@ -29,7 +29,7 @@ Efika dato: [2024 - 2028]
 
 3.2.4 Neniuj lokaj ŝanĝoj: Lokaj modifoj faritaj de licencito, kiuj ne estas senditaj kaj akceptitaj per GitHub, ne rajtas kaj estos konsiderata malobservo de la terminoj de ĉi tiu permesilo.
 
-Noto: Por celoj de ĉi tiu permesilo, la "oficiala deponejo por la programaro" rilatas al la deponejo gastigita ĉe __URL_0__ estas la respondeco de licencito revizii kaj sekvi la gvidliniojn kaj procedojn donitajn de Cyonicsolutions por kontribuado.
+Noto: Por celoj de ĉi tiu permesilo, la "Oficiala Deponejo por la Programaro" rilatas al la deponejo gastigita ĉe __URL_REMOVED__ Estas la respondeco de licencito revizii kaj sekvi la gvidliniojn kaj procedojn donitajn de CyonicSolutions por kontribuado.
 
 4. Posedado
 
@@ -39,7 +39,7 @@ Noto: Por celoj de ĉi tiu permesilo, la "oficiala deponejo por la programaro" r
 
 5.1 Neniu garantio: La programaro estas provizita "kiel estas" sen garantio de ia speco, ĉu esprima aŭ implicita, inkluzive, sed ne limigita al, la implicaj garantioj pri komercebleco, taŭgeco por aparta celo, aŭ neperfortado.
 
-5.2 Malgarantio: Licencinto ne respondecos pri iuj rektaj, nerektaj, incidentaj, specialaj aŭ konsekvencaj damaĝoj rezultantaj de la uzo aŭ nekapablo uzi la programon.
+5.2 Malgarantio: Licencinto ne respondecos pri iuj rektaj, nerektaj, hazardaj, specialaj aŭ konsekvencaj damaĝoj rezultantaj de la uzo aŭ nekapablo uzi la programon.
 
 6. Finiĝo
 

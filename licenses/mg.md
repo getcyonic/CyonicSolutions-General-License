@@ -29,7 +29,7 @@ Daty mahomby: [2024 - 2028]
 
 3.2.4 Tsy misy fiovana eo an-toerana: fanovana eo an-toerana amin'ny alàlan'ny fahazoan-dàlana izay tsy alefa ary ekena amin'ny alàlan'ny GITHUB dia tsy avela ary heverina ho fanitsakitsahana ny fepetra amin'ity fahazoan-dàlana ity.
 
-Fanamarihana: Ho an'ity fahazoan-dàlana ity, ny "famerenam-bola ofisialy ho an'ny rindrambaiko" dia manondro ny tahiry fitahirizana ao amin'ny __url_0__ Andraikitra fahazoan-dàlana hojerena sy manaraka ny torolàlana nomen'ny cyonicsolutions.
+Fanamarihana: Ho an'ity fahazoan-dàlana ity, ny "famerenam-bola ofisialy ho an'ny rindrambaiko" dia manondro ny tahiry tahiry ao amin'ny __url_removed__ Ny andraikitry ny fahazoan-dàlana hojerena sy ny fomba fiasa nomen'ny cyonicsolutions.
 
 4. Ny fananana
 

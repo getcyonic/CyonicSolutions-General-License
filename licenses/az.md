@@ -29,7 +29,7 @@ Effektiv Tarix: [2024 - 2028]
 
 3.2.4 Yerli dəyişiklik yoxdur: Github vasitəsilə təqdim olunmayan və qəbul edilməyən lisenziyonun verdiyi yerli dəyişikliklər icazə verilmir və bu lisenziyanın şərtlərinin pozulması hesab ediləcəkdir.
 
-Qeyd: Bu lisenziyanın məqsədləri üçün "Proqram üçün rəsmi depo" __URL_0__ ev sahibliyi etdiyi depozitariyə aiddir.
+Qeyd: Bu lisenziyanın məqsədləri üçün "Proqram üçün rəsmi depo" __URL_REMEVEDE-də ev sahibliyi edən depozitariyanı ifadə edir.
 
 4. mülkiyyət
 

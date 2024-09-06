@@ -29,7 +29,7 @@ Effektiv dato: [2024 - 2028]
 
 3.2.4 Ingen lokale ændringer: Lokale ændringer foretaget af licenshaver, der ikke indsendes og accepteres gennem GitHub, er ikke tilladt og vil blive betragtet som en overtrædelse af betingelserne for denne licens.
 
-Bemærk: Med henblik på denne licens henviser "Official Repository for the Software" til depotet, der er vært på __url_0__, det er licenshaverens ansvar for at gennemgå og følge retningslinjerne og procedurerne leveret af Cyonicsolutions for at bidrage.
+Bemærk: Med henblik på denne licens henviser "officielle depot for softwaren" til depotet, der er vært på __url_removed__, det er licenshaverens ansvar for at gennemgå og følge retningslinjerne og procedurerne leveret af Cyonicsolutions for at bidrage.
 
 4. Ejerskab
 
@@ -49,7 +49,7 @@ Bemærk: Med henblik på denne licens henviser "Official Repository for the Soft
 
 7. gældende lov
 
-7.1 Gældende lov: Denne licens styres af og fortolkes i overensstemmelse med lovgivningen i Brasilien uden hensyntagen til dens konflikter med lovprincipper.Enhver tvist, der opstår i henhold til denne licens, er underlagt den eksklusive jurisdiktion for domstolene, der er beliggende i São Paulo.
+7.1 Regeringslov: Denne licens skal styres af og fortolkes i overensstemmelse med lovene i Brasilien uden hensyntagen til dens konflikter i lovprincipper.Enhver tvist, der opstår i henhold til denne licens, er underlagt den eksklusive jurisdiktion for domstolene, der er beliggende i São Paulo.
 
 8. Generelle bestemmelser
 

@@ -5,7 +5,7 @@ Data efetiva: [2024 - 2028]
 
 1. concessão de licença
 
-1.1 concessão de direitos: De acordo com esta licença, o Licenciante concede ao licenciado um direito não exclusivo, não transferível e não publicável de acessar, ver e usar o software (conforme definido abaixo) apenas para fins pessoais e não comerciais, sujeitos aos termos e condições estabelecidos aqui.
+1.1 concessão de direitos: De acordo com esta licença, o Licenciante concede ao licenciado um direito não exclusivo, não transferível e não publicável de acessar, visualizar e usar o software (conforme definido abaixo) apenas para fins pessoais e não comerciais, sujeitos aos termos e condições estabelecidos aqui.
 
 2. Definições
 
@@ -29,7 +29,7 @@ Data efetiva: [2024 - 2028]
 
 3.2.4 Nenhuma alteração local: As modificações locais feitas pelo licenciado que não são enviadas e aceitas pelo GitHub não são permitidas e serão consideradas uma violação dos termos desta licença.
 
-Nota: Para os fins desta licença, o "Repositório Oficial do Software" refere -se ao repositório hospedado em __url_0__, é responsabilidade do licenciado revisar e seguir as diretrizes e procedimentos fornecidos pela Cyonicsolutions para contribuir.
+Nota: Para os fins desta licença, o "Repositório Oficial do Software" refere -se ao repositório hospedado em __url_REMOVED__, é responsabilidade do licenciado revisar e seguir as diretrizes e procedimentos fornecidos pela Cyonicsolutions para contribuir.
 
 4. Propriedade
 

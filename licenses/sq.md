@@ -29,7 +29,7 @@ Data e efektshme: [2024 - 2028]
 
 3.2.4 Asnjë ndryshim lokal: Modifikimet lokale të bëra nga i licencuari që nuk dorëzohen dhe pranohen përmes GitHub nuk lejohen dhe do të konsiderohen një shkelje e kushteve të kësaj licence.
 
-Shënim: Për qëllime të kësaj licence, "depoja zyrtare për softuerin" i referohet depo të organizuar në __URL_0__ është përgjegjësi e të licencuarit të rishikojë dhe ndjekë udhëzimet dhe procedurat e dhëna nga Cyonicsolutions për kontributin.
+Shënim: Për qëllime të kësaj licence, "depoja zyrtare për softuerin" i referohet depo të organizuar në __url_removed__ isshtë përgjegjësi e të licencuarit të rishikojë dhe ndjekë udhëzimet dhe procedurat e dhëna nga Cyonicsolutions për kontributin.
 
 4. Pronësia
 

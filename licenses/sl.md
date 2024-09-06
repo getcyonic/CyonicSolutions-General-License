@@ -29,7 +29,7 @@ Datum veljavnosti: [2024 - 2028]
 
 3.2.4 Brez lokalnih sprememb: Lokalne spremembe, ki jih opravi imetnik licence, ki niso predložene in sprejete prek GitHuba, niso dovoljene in se bodo štele za kršitev pogojev te licence.
 
-OPOMBA: Za namene te licence se "uradno skladišče programske opreme" nanaša na skladišče, ki ga gostijo __url_0__, je odgovoren za pregledovanje in upoštevanje smernic in postopkov, ki jih zagotavlja Cyonicsolutions za prispevek.
+OPOMBA: Za namene te licence se "uradno skladišče programske opreme" nanaša na skladišče, ki ga gosti na __url_removed__ Odgovornost licence je za pregled in upoštevanje smernic in postopkov, ki jih zagotavlja Cyonicsolutions za prispevek.
 
 4. Lastništvo
 
@@ -49,7 +49,7 @@ OPOMBA: Za namene te licence se "uradno skladišče programske opreme" nanaša n
 
 7. Veljavna zakon
 
-7.1 Upravljanje zakona: To licenco ureja in razlaga v skladu z zakoni Brazilije, ne glede na svoje načela konfliktov zakonov.Vsak spor, ki izhaja iz te licence, velja izključna pristojnost sodišč, ki se nahajajo v São Paulu.
+7.1 UPRAVLJANJE ZAKONA: To licenco ureja in razlaga v skladu z zakoni Brazilije, ne glede na svoje načela konfliktov zakonov.Vsak spor, ki izhaja iz te licence, velja izključna pristojnost sodišč, ki se nahajajo v São Paulu.
 
 8. Splošne določbe
 

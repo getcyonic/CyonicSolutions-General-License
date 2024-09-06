@@ -29,7 +29,7 @@ Dat efikas: [2024 - 2028]
 
 3.2.4 Pa gen okenn chanjman lokal: modifikasyon lokal ki fèt pa lisansye ki pa soumèt ak aksepte nan GitHub yo pa pèmèt epi yo pral konsidere kòm yon vyolasyon kondisyon ki nan lisans sa a.
 
-Remak: Pou rezon nan lisans sa a, "Repository ofisyèl la pou lojisyèl an" refere a repozitwa a akomode nan __URL_0__ li se responsablite moun ki gen lisans lan yo revize epi swiv direktiv yo ak pwosedi ki ofri pa Cyonicsolutions pou kontribiye.
+Remak: Pou rezon nan lisans sa a, "Repository ofisyèl la pou lojisyèl an" refere a repozitwa a akomode nan __URL_REMOVED__ Li se responsablite lisansye a revize epi swiv direktiv yo ak pwosedi ki ofri pa Cyonicsolutions pou kontribiye.
 
 4. Pwopriyetè
 
@@ -53,7 +53,7 @@ Remak: Pou rezon nan lisans sa a, "Repository ofisyèl la pou lojisyèl an" refe
 
 8. Dispozisyon jeneral
 
-8.1 Tout akò: Lisans sa a konstitye tout akò ant pati yo ki gen rapò ak lojisyèl an ak ranplase tout akò anvan oswa kontanporen, ekri oswa oral, ki gen rapò ak lojisyèl an.
+8.1 Tout Akò: Lisans sa a konstitye tout akò ant pati yo ki gen rapò ak lojisyèl an ak ranplase tout akò anvan oswa kontanporen, ekri oswa oral, ki gen rapò ak lojisyèl an.
 
 8.2 Modifikasyon: Nenpòt modifikasyon oswa amannman nan lisans sa a dwe alekri ak siyen pa tou de pati yo.
 

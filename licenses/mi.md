@@ -29,7 +29,7 @@ Te ra whai hua: [2024 - 2028]
 
 3.2.4 Kaore he huringa o te rohe: Nga whakarereketanga a rohe i hangaia e te raihana kaore i tukuna, i whakaaetia kia whakaaetia kia whakaarohia nga tikanga o tenei Raihana.
 
-FAKATOKANGA: Mo nga kaupapa o tenei Raihana, ko te "Tohu mana mo te raupaparorohiko" e tohu ana i te kohinga a te kaipupuri i te __url_0__ ko ia te kawenga raihana ki te arotake me te whai i nga aratohu me nga tikanga e whakaratohia ana e nga Cyononicsolutions.
+FAKATOKANGA: Mo nga kaupapa o tenei Raihana, ko te "Kaiako whaimana mo te raupaparorohiko" e tohu ana i te kohinga me te whakahaere a te raihana ki te arotake me te whai i nga aratohu me nga tikanga e whakaratohia ana e te Cyononicsolutions.
 
 4. Te mana pupuri
 

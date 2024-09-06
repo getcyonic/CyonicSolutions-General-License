@@ -29,7 +29,7 @@ Dyddiad effeithiol: [2024 - 2028]
 
 3.2.4 Dim Newidiadau Lleol: Ni chaniateir addasiadau lleol a wneir gan Ddrwyddedai nad ydynt yn cael eu cyflwyno a'u derbyn trwy GitHub a byddant yn cael eu hystyried yn groes i delerau'r drwydded hon.
 
-Nodyn: At ddibenion y drwydded hon, mae'r "ystorfa swyddogol ar gyfer y feddalwedd" yn cyfeirio at yr ystorfa a gynhelir yn __URL_0__ Cyfrifoldeb y trwyddedai yw adolygu a dilyn y canllawiau a'r gweithdrefnau a ddarperir gan Cyonicsolutions ar gyfer cyfrannu.
+Nodyn: At ddibenion y drwydded hon, mae'r "ystorfa swyddogol ar gyfer y feddalwedd" yn cyfeirio at yr ystorfa a gynhelir yn __URL_REMOVED__ Cyfrifoldeb y trwyddedai yw adolygu a dilyn y canllawiau a'r gweithdrefnau a ddarperir gan Cyonicsolutions ar gyfer cyfrannu.
 
 4. Perchnogaeth
 
@@ -49,7 +49,7 @@ Nodyn: At ddibenion y drwydded hon, mae'r "ystorfa swyddogol ar gyfer y feddalwe
 
 7. Cyfraith berthnasol
 
-7.1 Cyfraith Llywodraethu: Bydd y drwydded hon yn cael ei llywodraethu a'i dehongli yn unol â deddfau Brasil, heb ystyried ei egwyddorion gwrthdaro deddfau.Bydd unrhyw anghydfod sy'n codi o dan y drwydded hon yn ddarostyngedig i awdurdodaeth unigryw'r llysoedd sydd wedi'u lleoli yn São Paulo.
+7.1 Llywodraethu Cyfraith: Bydd y drwydded hon yn cael ei llywodraethu a'i dehongli yn unol â deddfau Brasil, heb ystyried ei egwyddorion gwrthdaro deddfau.Bydd unrhyw anghydfod sy'n codi o dan y drwydded hon yn ddarostyngedig i awdurdodaeth unigryw'r llysoedd sydd wedi'u lleoli yn São Paulo.
 
 8. Darpariaethau Cyffredinol
 

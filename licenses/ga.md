@@ -29,7 +29,7 @@ Dáta Éifeachtach: [2024 - 2028]
 
 3.2.4 Gan aon athruithe áitiúla: Ní cheadaítear modhnuithe áitiúla a dhéanann ceadúnaí nach gcuirtear isteach agus a nglactar leo trí GitHub agus meastar iad a shárú ar théarmaí an cheadúnais seo.
 
-Tabhair faoi deara: Chun críocha an cheadúnais seo, tagraíonn an "stór oifigiúil do na bogearraí" don stór a óstáiltear ag __URL_0__ Is é freagracht an Cheadúnaí na treoirlínte agus na nósanna imeachta a sholáthraíonn cyonicsolutions a athbhreithniú agus a leanúint.
+Tabhair faoi deara: Chun críocha an cheadúnais seo, tagraíonn an "stór oifigiúil do na bogearraí" don stór a óstáiltear ag __url_removed__ is freagracht é an ceadúnaí a athbhreithniú agus a leanúint na treoirlínte agus na nósanna imeachta a sholáthraíonn cyonicsolutions chun cur leis.
 
 4. Úinéireacht
 

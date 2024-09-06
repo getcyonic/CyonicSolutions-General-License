@@ -29,7 +29,7 @@ Datum stupanja na snagu: [2024 - 2028]
 
 3.2.4 Nema lokalnih promjena: Lokalne izmjene koje su dali korisnik licence koji nisu dostavljeni i prihvaćeni putem GitHuB-a nisu dozvoljeni i smatrat će se kršenjem uvjeta ove dozvole.
 
-Napomena: Za potrebe ove licence, "službeno spremište softvera" odnosi se na skladište u __URL_0__, odgovornost je licence za pregled i praćenje smjernica i procedura koje pruža cioniktolozi za doprinos.
+Napomena: Za potrebe ove licence, "službeno spremište softvera" odnosi se na skladište u __url_removed__, odgovornost je licence i da se preispituje i slijedi smjernice i postupci koje pružaju cionici za doprinos.
 
 4. Vlasništvo
 

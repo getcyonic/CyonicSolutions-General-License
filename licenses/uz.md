@@ -29,7 +29,7 @@ Samarali sana: [2024 - 2028]
 
 3.2.4. Mahalliy o'zgarishlar yo'q: litsenziat tomonidan taqdim etilmagan va Github orqali qabul qilinmagan litsenziat tomonidan qabul qilingan mahalliy modifikatsiyalarga ruxsat berilmaydi va ushbu litsenziyaning shartlari buzilganligi hisobga olinmaydi.
 
-Eslatma: Ushbu litsenziyaning maqsadlari uchun "Dasturiy ta'minot uchun rasmiy ombor" rusumli omborxonada __mur_0__ da ko'rsatilgan "Rebosektiv" paromorni parvarish qilish uchun ko'rsatmalar va protseduralarni ko'rib chiqish va ularga rioya qilishning mas'uliyati cheklangan.
+Eslatma: Ushbu litsenziyaning maqsadlari uchun "Dasturiy ta'minot uchun" dasturiy ta'minotni "ATSEBSEDS __RL_REMODE @ da joylashgan" ABRICES "Cyonisolliklar tomonidan ko'rsatiladigan ko'rsatmalar va protseduralarni ko'rib chiqish va ularga rioya qilish uchun javob beradi.
 
 4. Mulkchilik
 
