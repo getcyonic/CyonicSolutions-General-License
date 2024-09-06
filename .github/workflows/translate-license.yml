@@ -35,6 +35,8 @@ jobs:
     - name: Create or Checkout Branch
       run: |
         git fetch origin
+        git push origin update-translations
+        git branch -r
         git checkout -B update-translations origin/update-translations || git checkout -b update-translations
 
     - name: Commit translations
