@@ -29,7 +29,7 @@ Effektiv dato: [2024 - 2028]
 
 3.2.4 Ingen lokale endringer: Lokale modifikasjoner gjort av lisenshaver som ikke er sendt inn og akseptert gjennom GitHub er ikke tillatt og vil bli betraktet som brudd på vilkårene i denne lisensen.
 
-Merk: For formålene med denne lisensen refererer det "offisielle depotet for programvaren" til depotet som er vert på __url_0__, det er lisenshaverens ansvar å gjennomgå og følge retningslinjene og prosedyrene levert av Cyonicsolutions for å bidra.
+Merk: For formålene med denne lisensen refererer det "offisielle depotet for programvaren" til depotet som er vert på __url_removed__, det er lisenshaverens ansvar å gjennomgå og følge retningslinjene og prosedyrene gitt av Cyonicsolutions for å bidra.
 
 4. Eierskap
 
@@ -45,7 +45,7 @@ Merk: For formålene med denne lisensen refererer det "offisielle depotet for pr
 
 6.1 Oppsigelse: Denne lisensen er effektiv inntil den er avsluttet.Lisensgiver kan avslutte denne lisensen når som helst etter varsel til rettighetshaver hvis rettighetshaver bryter noen begrep eller betingelse for denne lisensen.
 
-6.2 Effekt av oppsigelse: Ved oppsigelse av denne lisensen må rettighetshaver umiddelbart slutte å bruke programvaren og ødelegge alle kopier av programvaren i sin besittelse.
+6.2 Effekt av oppsigelse: Ved avslutning av denne lisensen må rettighetshaver umiddelbart slutte å bruke programvaren og ødelegge alle kopier av programvaren i sin besittelse.
 
 7. Gjeldende lov
 
@@ -55,7 +55,7 @@ Merk: For formålene med denne lisensen refererer det "offisielle depotet for pr
 
 8.1 Hele avtalen: Denne lisensen utgjør hele avtalen mellom partene med hensyn til programvaren og erstatter alle tidligere eller samtidige avtaler, skriftlige eller muntlige, relatert til programvaren.
 
-8.2 Endringer: Eventuell endring eller endring av denne lisensen må være skriftlig og signert av begge parter.
+8.2 Endringer: Eventuell modifisering eller endring av denne lisensen må være skriftlig og signert av begge parter.
 
 8.3 Sjekkbarhet: Hvis noen bestemmelse i denne lisensen er funnet å være ugyldig eller ikke -håndheves av en domstol med kompetent jurisdiksjon, vil de gjenværende bestemmelsene forbli i full kraft og virkning.
 

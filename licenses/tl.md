@@ -29,7 +29,7 @@ Epektibong Petsa: [2024 - 2028]
 
 3.2.4 Walang mga lokal na pagbabago: Ang mga lokal na pagbabago na ginawa ng lisensyado na hindi isinumite at tinanggap sa pamamagitan ng GitHub ay hindi pinahihintulutan at maituturing na paglabag sa mga tuntunin ng lisensya na ito.
 
-TANDAAN: Para sa mga layunin ng lisensya na ito, ang "opisyal na imbakan para sa software" ay tumutukoy sa imbakan na naka -host sa __url_0__ responsibilidad ng lisensyado na suriin at sundin ang mga alituntunin at pamamaraan na ibinigay ng mga cyonicsolutions para sa pag -ambag.
+Tandaan: Para sa mga layunin ng lisensya na ito, ang "opisyal na imbakan para sa software" ay tumutukoy sa imbakan na naka -host sa __url_removed__ na responsibilidad ng lisensyado na suriin at sundin ang mga alituntunin at pamamaraan na ibinigay ng mga cyonicsolutions para sa pag -ambag.
 
 4. Pagmamay -ari
 
@@ -53,7 +53,7 @@ TANDAAN: Para sa mga layunin ng lisensya na ito, ang "opisyal na imbakan para sa
 
 8. Pangkalahatang mga probisyon
 
-8.1 Buong Kasunduan: Ang lisensya na ito ay bumubuo ng buong kasunduan sa pagitan ng mga partido na may paggalang sa software at supersedes ang lahat ng nauna o kontemporaryo na mga kasunduan, nakasulat o pasalita, na may kaugnayan sa software.
+8.1 Buong Kasunduan: Ang lisensya na ito ay bumubuo ng buong kasunduan sa pagitan ng mga partido na may paggalang sa software at supersedes lahat ng nauna o kontemporaryo na mga kasunduan, nakasulat o pasalita, na may kaugnayan sa software.
 
 8.2 Mga Pagbabago: Ang anumang pagbabago o susog sa lisensya na ito ay dapat na nakasulat at nilagdaan ng parehong partido.
 

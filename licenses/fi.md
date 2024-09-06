@@ -5,7 +5,7 @@ Voimapäivä: [2024 - 2028]
 
 1. Lisenssin myöntäminen
 
-1.1 Oikeuksien myöntäminen: Tämän lisenssin mukaan lisenssinantaja myöntää lisenssinsaajan ei-yksinoikeudella, siirtämättömän, ei-julkisen määrittämättömän oikeuden käyttää, tarkastella ja käyttää ohjelmistoa (kuten alla määritelty) pelkästään henkilökohtaisiin, ei-kaupallisiin tarkoituksiin, jollei OikeTässä asetetut ehdot.
+1.1 Oikeuksien myöntäminen: Tämän lisenssin mukaan lisenssinantaja myöntää lisenssinsaajan ei-yksinoikeudella, siirtämättömäksi, ei-julkistamatonta oikeutta käyttää, tarkastella ja käyttää ohjelmistoa (kuten alla määritelty) pelkästään henkilökohtaisiin, ei-kaupallisiin tarkoituksiin, jollei OikeTässä asetetut ehdot.
 
 2. Määritelmät
 
@@ -29,7 +29,7 @@ Voimapäivä: [2024 - 2028]
 
 3.2.4 Ei paikallisia muutoksia: Lisenssinsaajan tekemiä paikallisia muutoksia, joita ei toimiteta ja hyväksytty GitHubin kautta, ei ole sallittua, ja niitä pidetään tämän lisenssin ehtojen rikkomuksena.
 
-HUOMAUTUS: Tätä lisenssiä varten "ohjelmiston virallinen arkisto" viittaa __URL_0__ -tapahtumassa isännöimään arkistoon. Lisenssinhaltijan vastuulla on tarkistaa ja noudattaa Cyonicsulations -ohjeiden antamia ohjeita ja -menettelyjä.
+Huomaa: Tätä lisenssiä varten "ohjelmiston virallinen arkisto" viittaa __URL_REMAVED__ -tapahtumassa isännöimään arkistoon. Lisenssinhaltijan vastuulla on tarkistaa ja noudattaa Cyoniculationsin osallistumista koskevia ohjeita ja menettelytapoja.
 
 4. Omistus
 
@@ -45,7 +45,7 @@ HUOMAUTUS: Tätä lisenssiä varten "ohjelmiston virallinen arkisto" viittaa __U
 
 6.1 Pääte: Tämä lisenssi on voimassa, kunnes lopetetaan.Lisenssinantaja voi lopettaa tämän lisenssin milloin tahansa ilmoituksen lisenssinsaajalle, jos lisenssinsaaja rikkoo tämän lisenssin ehtoa tai ehtoa.
 
-6.2 Päätettäessä: Tämän lisenssin lopettamisen yhteydessä lisenssinsaajan on välittömästi lopetettava ohjelmiston avulla ja tuhottava kaikki hallussaan olevan ohjelmiston kopiot.
+6.2 Päätösten vaikutus: Tämän lisenssin lopettamisen yhteydessä lisenssinsaajan on välittömästi lopetettava ohjelmiston avulla ja tuhottava kaikki hallussaan olevan ohjelmiston kopiot.
 
 7. Sovellettava laki
 
@@ -55,7 +55,7 @@ HUOMAUTUS: Tätä lisenssiä varten "ohjelmiston virallinen arkisto" viittaa __U
 
 8.1 Koko sopimus: Tämä lisenssi muodostaa koko osapuolten välisen sopimuksen ohjelmiston suhteen ja korvaa kaikki ohjelmistoon liittyvät aikaisemmat tai samanaikaiset sopimukset, jotka ovat kirjallisia tai suullisia.
 
-8.2 Muutokset: Kaikkien tämän lisenssin muutoksen on oltava kirjallisesti ja allekirjoittaneet molempien osapuolten.
+8.2 Muutokset: Kaikkien tämän lisenssin muutoksen on oltava kirjallisesti ja allekirjoittaneet molemmat osapuolet.
 
 8.3 VAIKUTTAVAT: Jos tämän lisenssin määräys on pätevä tai täytäntöönpanokelpoinen toimivaltainen tuomioistuin, jäljellä olevat säännökset pysyvät täydessä voimassa ja voimassa.
 

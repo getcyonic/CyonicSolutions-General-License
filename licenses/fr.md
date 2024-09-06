@@ -29,7 +29,7 @@ Date d'entrée en vigueur: [2024 - 2028]
 
 3.2.4 Aucune modification locale: les modifications locales apportées par le titulaire de licence qui ne sont pas soumises et acceptées via GitHub ne sont pas autorisées et seront considérées comme une violation des termes de cette licence.
 
-Remarque: Aux fins de cette licence, le "référentiel officiel du logiciel" fait référence au référentiel hébergé à __url_0__ Il est de la responsabilité du Licencié de revoir et de suivre les directives et les procédures fournies par Cyonicsolutions pour la contribution.
+Remarque: Aux fins de la présente licence, le "référentiel officiel du logiciel" fait référence au référentiel hébergé à __url_removed__ Il est de la responsabilité du Licencié de revoir et de suivre les directives et les procédures fournies par Cyonicsolutions pour contribution.
 
 4. Propriété
 
@@ -39,7 +39,7 @@ Remarque: Aux fins de cette licence, le "référentiel officiel du logiciel" fai
 
 5.1 Aucune garantie: le logiciel est fourni "tel quel" sans garantie d'aucune sorte, expressant ou implicites, y compris, mais sans s'y limiter, les garanties implicites de qualité marchande, d'adéquation à un usage particulier ou de non-contrefaçon.
 
-5.2 Avis de non-responsabilité: Le concédant ne doit pas être responsable des dommages directs, indirects, accessoires, spéciaux ou conséquents résultant de l'utilisation ou de l'incapacité d'utiliser le logiciel.
+5.2 Avis de non-responsabilité: Le concédant ne sera pas responsable des dommages directs, indirects, accessoires, spéciaux ou conséquents résultant de l'utilisation ou de l'incapacité d'utiliser le logiciel.
 
 6. résiliation
 
@@ -57,7 +57,7 @@ Remarque: Aux fins de cette licence, le "référentiel officiel du logiciel" fai
 
 8.2 Modifications: Toute modification ou modification de cette licence doit être écrit et signé par les deux parties.
 
-8.3 Securabilité: si une disposition de cette licence est invalide ou inapplicable par une cour de compétence compétente, les dispositions restantes resteront en vigueur et en effet.
+8.3 Securabilité: si une disposition de cette licence est invalide ou inapplicable par une cour de compétence compétente, les dispositions restantes resteront pleinement en vigueur et en effet.
 
 ---
 Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

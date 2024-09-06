@@ -5,11 +5,11 @@ Datum des Inkrafttretens: [2024 - 2028]
 
 1. Lizenz gewähren
 
-1.1 Gewährung von Rechten: Im Rahmen dieser Lizenz Grants-Lizenznehmer ein nicht exklusives, nicht übertragbares, nicht veröffentliches Recht, die Software (wie unten definiert) ausschließlich für persönliche, nichtkommerzielle Zwecke zuzugreifen, anzeigen und zu verwenden, vorbehaltlich derdie hierin festgelegten Bedingungen.
+1.1 Gewährung von Rechten: Im Rahmen dieser Lizenz Grants-Lizenznehmer Grantdie hierin festgelegten Bedingungen.
 
 2. Definitionen
 
-2.1 Software: bedeutet das Softwareprogramm, einschließlich Quellcode, Binärdokumentation, Dokumentation und anderen verwandten Materialien, die vom Lizenznehmer im Rahmen dieser Lizenz vom Lizenzgeber zur Verfügung gestellt wurden.
+2.1 Software: bedeutet das Softwareprogramm, einschließlich Quellcode, Binärdokumentation, Dokumentation und anderen verwandten Materialien, die vom Lizenzgeber im Rahmen dieser Lizenz vom Lizenzgeber zur Verfügung gestellt wurden.
 
 2.2 Lizenzgeber: Das Unternehmen oder die Person, die diese Lizenz gewährt.In diesem Fall bezieht es sich auf Cyonicolutionen, einschließlich seiner verbundenen Unternehmen und Vertreter.
 
@@ -29,7 +29,7 @@ Datum des Inkrafttretens: [2024 - 2028]
 
 3.2.4 Keine lokalen Änderungen: Lokale Änderungen des Lizenznehmers, die nicht über Github eingereicht und akzeptiert werden, sind nicht zulässig und werden als Verstoß gegen die Bedingungen dieser Lizenz angesehen.
 
-Hinweis: Für die Zwecke dieser Lizenz bezieht sich das "Offizielle Repository für die Software" auf das Repository, das bei __url_0__ gehostet wird, die Verantwortung des Lizenznehmers, die von Cyonicolutions bereitgestellten Richtlinien und Verfahren für den Beitrag zu überprüfen und zu befolgen.
+Hinweis: Für die Zwecke dieser Lizenz bezieht sich das "offizielle Repository für die Software" auf das Repository, das bei __url_Removed__ gehostet wird. Es liegt in der Verantwortung des Lizenznehmers, die Richtlinien und Verfahren von CyonicSolutionen für den Beitrag zu überprüfen und zu befolgen.
 
 4. Besitz
 

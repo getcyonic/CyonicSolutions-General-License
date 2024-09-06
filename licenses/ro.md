@@ -29,7 +29,7 @@ Data intrării în vigoare: [2024 - 2028]
 
 3.2.4 Fără modificări locale: Modificările locale făcute de licențiat care nu sunt depuse și acceptate prin GitHub nu sunt permise și vor fi considerate o încălcare a termenilor acestei licențe.
 
-Notă: În scopul acestei licențe, „Depozitul oficial pentru software” se referă la depozitul găzduit la __URL_0__ Este responsabilitatea licențiatului să revizuiască și să urmeze orientările și procedurile furnizate de Cyonicsolutions pentru contribuție.
+Notă: În scopul acestei licențe, „Depozitul oficial pentru software” se referă la depozitul găzduit la __url_removed__ Este responsabilitatea licențiatului să revizuiască și să urmeze orientările și procedurile furnizate de Cyonicsolutions pentru contribuție.
 
 4. Proprietatea
 
@@ -37,13 +37,13 @@ Notă: În scopul acestei licențe, „Depozitul oficial pentru software” se r
 
 5. Garanții și exonerare
 
-5.1 Fără garanție: software-ul este furnizat „așa cum este” fără garanție de niciun fel, fie expres, fie implicit, inclusiv, dar fără a se limita la, garanțiile implicite de comercializare, fitness pentru un anumit scop sau fără control.
+5.1 Fără garanție: software-ul este furnizat „așa cum este” fără garanție de niciun fel, fie expres, fie implicit, inclusiv, dar fără a se limita la, garanțiile implicite de comercializare, fitness pentru un anumit scop sau nerespectarea.
 
 5.2 Disclaimer: licențiatorul nu va fi responsabil pentru daune directe, indirecte, incidentale, speciale sau consecințe, rezultate din utilizarea sau incapacitatea de a utiliza software -ul.
 
 6. Încetare
 
-6.1 Încetare: Această licență este efectivă până la încetare.Licențierul poate înceta această licență în orice moment, după notificare pentru licențiat, dacă licențiatul încalcă orice termen sau condiție a acestei licențe.
+6.1 Încetare: Această licență este efectivă până la încetare.Licențierul poate înceta această licență în orice moment, la notificarea licențiatului, dacă licențiatul încalcă orice termen sau condiție a acestei licențe.
 
 6.2 Efectul încetării: La încetarea acestei licențe, licențiatul trebuie să înceteze imediat utilizarea software -ului și să distrugă toate copiile software -ului în posesia sa.
 

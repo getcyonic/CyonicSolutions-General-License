@@ -29,7 +29,7 @@ Effektiewe datum: [2024 - 2028]
 
 3.2.4 Geen plaaslike veranderinge nie: plaaslike wysigings aangebring deur die lisensiehouer wat nie deur GitHub ingedien en aanvaar word nie, word nie toegelaat nie en sal as 'n oortreding van die voorwaardes van hierdie lisensie beskou word.
 
-Opmerking: Vir die doeleindes van hierdie lisensie verwys die 'amptelike bewaarplek vir die sagteware' na die bewaarplek wat aangebied word by __url_0__.
+Opmerking: Vir die doeleindes van hierdie lisensie verwys die 'amptelike bewaarplek vir die sagteware' na die bewaarplek wat aangebied word by __url_removed__.
 
 4. Eienaarskap
 

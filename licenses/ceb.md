@@ -29,7 +29,7 @@ Epektibo nga Petsa: [2024 - 2028]
 
 3.2.4 Wala'y mga pagbag-o sa lokal: Ang mga lokal nga pagbag-o nga gihimo sa lisensya nga wala gisumite ug gidawat pinaagi sa Gitub wala gitugotan ug giisip nga usa ka paglapas sa mga termino sa kini nga lisensya.
 
-HINUMDOMI: Alang sa mga katuyoan sa kini nga lisensya, ang opisyal nga repository alang sa software "nagtumong sa responsibilidad sa eksepsyon nga pagribyu sa mga giya ug pamaagi nga gihatag sa mga cyonicsolutions alang sa pag-amot.
+HINUMDOMI: Alang sa mga katuyoan niini nga lisensya, ang opisyal nga repository alang sa software "nagtumong sa repository nga gi-host sa __url_Remede
 
 4. pagpanag-iya
 

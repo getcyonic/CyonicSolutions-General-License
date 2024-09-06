@@ -29,7 +29,7 @@ Kwanan Wata: [2024 - 2028]
 
 3.2.4 Babu canje-canje na gida: gyare-gyare na gida da aka yi ta hanyar lasisi waɗanda ba a ba da izini ba kuma ba a yarda da su Github Gith da keta dokokin wannan lasisin ba.
 
-SAURARA: Don dalilai wannan lasisi, "a cikin" Ajiyayyen software na software "yana nufin nauyin da aka shirya don yin bita da hanyoyin lasisi don bayar da gudummawa.
+SAURARA: Don dalilai wannan lasisi, "a kan" wurin da aka gabatar don yin bita da kuma hanyoyin lasisi don bayar da gudummawa.
 
 4. mallaka
 

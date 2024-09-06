@@ -29,7 +29,7 @@ Datum účinnosti: [2024 - 2028]
 
 3.2.4 Žádné místní změny: Místní úpravy provedené držitelem licence, které nejsou předloženy a přijímány prostřednictvím GitHubu, nejsou povoleny a budou považovány za porušení podmínek této licence.
 
-Poznámka: Pro účely této licence se „oficiální úložiště pro software“ odkazuje na úložiště hostované na __url_0__ je odpovědností licence přezkoumat a dodržovat pokyny a postupy poskytované cyonicsolutions pro přispívání.
+Poznámka: Pro účely této licence se „oficiální úložiště pro software“ odkazuje na úložiště hostované na __url_removed__ je odpovědností licence přezkoumat a dodržovat pokyny a postupy poskytované cyonicsolutions pro přispívání.
 
 4. Vlastnictví
 
@@ -43,7 +43,7 @@ Poznámka: Pro účely této licence se „oficiální úložiště pro software
 
 6. Ukončení
 
-6.1 Ukončení: Tato licence je účinná až do ukončení.Licence může tuto licenci kdykoli ukončit po oznámení licence, pokud licence poruší jakýkoli termín nebo podmínku této licence.
+6.1 Ukončení: Tato licence je účinná až do ukončení.Licence může tuto licenci kdykoli ukončit na základě oznámení licence, pokud licence poruší jakýkoli termín nebo podmínku této licence.
 
 6.2 Vliv ukončení: Po ukončení této licence musí držitel licence okamžitě přestat používat software a zničit všechny kopie softwaru, který má v držení.
 
@@ -57,7 +57,7 @@ Poznámka: Pro účely této licence se „oficiální úložiště pro software
 
 8.2 Úpravy: Jakákoli úprava nebo změna této licence musí být písemně a podepsána oběma stranami.
 
-8.3 Oddělení: Pokud je shledáno, že jakékoli ustanovení této licence je neplatné nebo nevynutitelné soudem příslušného jurisdikce, zbývající ustanovení zůstanou v plné síle a účinku.
+8.3 Oddělení: Pokud je shledáno, že jakékoli ustanovení této licence je neplatné nebo nevynutitelné soudem příslušné jurisdikce, zbývající ustanovení zůstanou v plné síle a účinku.
 
 ---
 Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

@@ -29,7 +29,7 @@ Data eraginkorra: [2024 - 2028]
 
 3.2.4 Ez da tokiko aldaketarik: ez dira onartzen GitHub-en bidez aurkeztu eta onartzen ez diren lizentziaren arabera. Ez dira baimen honen baldintzak urratu.
 
-Oharra: "Softwarearen biltegi ofizialak" __URL_0__ ostatatutako biltegiari egiten dio erreferentzia.
+Oharra: "Softwarearen biltegi ofiziala" helburuetarako, __url_removed-en ostatatutako biltegiari egiten zaio erreferentzia, lizentziadunaren erantzukizuna da Cyonicsolutions-ek emandako jarraibideak eta prozedurak berrikustea eta jarraitzea.
 
 4. Jabetza
 

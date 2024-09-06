@@ -29,7 +29,7 @@ Data Efficiente: [2024 - 2028]
 
 3.2.4 Nisuna cambia locale: mudificazioni lucali fatti da Licenziatu chì ùn sò micca sottumessi è accettati per github sò micca permessi è anu cunsideratu una violazione di e termini di sta licenza.
 
-Nota: Per scopi di questa licazione, u "repositariu ufficiale per u so prugrammu" hè stata a responsabilità di u repositoriu è seguite a cyonices di cuntribuisce.
+Nota: Per scopi di questa licazione, u "repositoriu di u so prugrammu" si riferisce à u reponitariu elevatu à l'__url_removeM__ È seguite e prucedure per cuntribuisce.
 
 4. pruprietà
 

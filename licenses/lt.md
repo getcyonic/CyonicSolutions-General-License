@@ -21,15 +21,15 @@ Veikslėlio data: [2024 - 2028]
 
 3.2 Modifikacijų leidimas: Programinės įrangos modifikacijos leidžiamos tik tuo atveju, jei jie pateikiami ir patvirtinami per oficialų „Cyonicsolutions“ saugyklą „GitHub“, kaip aprašyta toliau:
 
-3.2.1 Modifikacijų pateikimas: Bet koks modifikavimas ar išvestinis darbas turi būti pateiktas kaip įmoka („Pull užklausa“) į oficialią „Cyonicsolutions“ saugyklą „GitHub“.Licenciatas privalo laikytis nusistovėjusio įnašo proceso, kuris apima „GitHub“ sąskaitos sukūrimą, saugyklos sukūrimą ir pateikimo užklausą, pateiktą pagal pateiktas gaires.
+3.2.1 Modifikacijų pateikimas: Bet koks modifikavimas ar išvestinis darbas turi būti pateiktas kaip įmoka („Pull užklausa“) į oficialią „Cyonicsolutions“ saugyklą „GitHub“.Licenciatas privalo laikytis nusistovėjusio įnašo proceso, kuris apima „GitHub“ sąskaitos sukūrimą, saugyklos sukrėtimą ir pateikimo užklausą, pateiktą pagal pateiktas gaires.
 
 3.2.2 Peržiūra ir priėmimas: „Cyonicsolutions“ pasilieka teisę peržiūrėti, priimti ar atmesti bet kokius pateiktus pakeitimus.Jokie pakeitimai negali būti laikomi įtrauktais į programinę įrangą, kol oficialiai priimta ir integruota „Cyonicsolutions“ į oficialią saugyklą.
 
 3.2.3 Dokumentacija ir patvirtinimas: Licenciatas privalo pateikti tinkamus dokumentus bet kokiam pateiktam pakeitimui ir gali būti reikalaujama pateikti tinkamą patvirtinimą dėl pakeitimo.
 
-3.2.4 Vietiniai pakeitimai: Licenciato atliktos vietinės modifikacijos, kurios nėra pateiktos ir priimamos per „GitHub“, neleidžiami ir bus laikomi šios licencijos sąlygų pažeidimu.
+3.2.4 Vietiniai pakeitimai: Licenciato, padarytos Licenceee, kurie nėra pateikti ir priimti per „GitHub“, nėra leidžiamos ir bus laikomos šios licencijos sąlygų pažeidimu.
 
-PASTABA: Šios licencijos tikslais „oficialus programinės įrangos saugykla“ reiškia saugyklą, esančią __Url_0__, Licenciato pareiga yra peržiūrėti ir laikytis „Cyonicsolutions“ pateiktų gairių ir procedūrų.
+PASTABA: Šios licencijos tikslais „oficiali programinės įrangos saugykla“ reiškia saugyklą, esančią __Url_removed__
 
 4. Nuosavybė
 
@@ -37,9 +37,9 @@ PASTABA: Šios licencijos tikslais „oficialus programinės įrangos saugykla�
 
 5. Garantijos ir atsisakymas
 
-5.1 Nėra garantijos: Programinė įranga teikiama „tokia, kokia yra“, be jokios išreikštos ar numanomos garantijos, įskaitant, bet tuo neapsiribojant, numanomas pardavimo, tinkamumo tam tikram tikslui ar nepažeidimo garantijas.
+5.1 Nėra garantijos: Programinė įranga teikiama „tokia, kokia yra“ be jokių aiškių ar numanomų garantijos, įskaitant, bet neapsiribojant, numanomomis pardavimo garantijomis, tinkamumu tam tikram tikslui ar pažeidimui.
 
-5.2 Atsakomybės atsisakymas: Licencijos davėjas neatsako už jokią tiesioginę, netiesioginę, atsitiktinę, specialią ar pasekminę žalą, atsirandančią dėl programinės įrangos naudojimo ar nesugebėjimo naudoti.
+5.2 Atsakomybės atsisakymas: Licencijos davėjas neatsako už tiesioginę, netiesioginę, atsitiktinę, specialią ar iš to išplaukiančią žalą, atsirandančią dėl programinės įrangos naudojimo ar nesugebėjimo naudotis.
 
 6. Nutraukimas
 

@@ -5,7 +5,7 @@ Data wejścia w życie: [2024 - 2028]
 
 1. Gradzanie licencji
 
-1.1 Uznaczenie praw: Zgodnie z niniejszą licencją licencjodawca przyznaje licencjobiorcę niewyłączne, nie do przenoszenia, niepełnosprawne prawo do dostępu, przeglądania i korzystania z oprogramowania (zgodnie z definicją poniżej) wyłącznie do celów osobistych, niekomercyjnych, z zastrzeżeniemWarunki określone w niniejszym dokumencie.
+1.1 Uznaczenie praw: Zgodnie z niniejszą licencją licencjodawca przyznaje licencjobiorcę niewyłączne, nie do przeniesienia, niepełnosprawne prawo do dostępu, przeglądania i korzystania z oprogramowania (zgodnie z definicją poniżej) wyłącznie do celów osobistych, niekomercyjnych, z zastrzeżeniemWarunki określone w niniejszym dokumencie.
 
 2. Definicje
 
@@ -19,17 +19,17 @@ Data wejścia w życie: [2024 - 2028]
 
 3.1 Modyfikacja: Licencjobiorca nie może modyfikować, dostosowywać, tłumaczyć ani tworzyć dzieł pochodnych oprogramowania, w całości lub w części, z wyjątkiem przypadków dozwolonych w tej sekcji.
 
-3.2 Zezwolenie na modyfikacje: Modyfikacje oprogramowania są dozwolone tylko wtedy, gdy zostaną przesłane i zatwierdzone za pośrednictwem oficjalnego repozytorium Cyonicsolutions na GitHub, jak opisano poniżej:
+3.2 Zezwolenie na modyfikacje: Modyfikacje oprogramowania są dozwolone tylko wtedy, gdy są one przesłane i zatwierdzone za pośrednictwem oficjalnego repozytorium Cyonicsolutions na GitHub, jak opisano poniżej:
 
 3.2.1 Zgłoszenie modyfikacji: Wszelkie prace modyfikacyjne lub pochodne muszą być przedłożone jako wkład (żądanie Pull) do oficjalnego repozytorium Cyonicsolutions w GitHub.Licencjobiorca musi postępować zgodnie z ustalonym procesem składkowania, który obejmuje utworzenie konta GitHub, rozwidlenie repozytorium i przesłanie żądania Pull zgodnie z podanymi wytycznymi.
 
 3.2.2 Przegląd i akceptacja: Cyonicsolutions zastrzega sobie prawo do przeglądu, akceptowania lub odrzucania wszelkich przesłanych modyfikacji.Żadna modyfikacja nie należy uznać za włączoną do oprogramowania, dopóki nie zostanie formalnie zaakceptowana i zintegrowana przez cyoniksolutions z oficjalnym repozytorium.
 
-3.2.3 Dokumentacja i potwierdzenie: Licencjobiorca musi dostarczyć odpowiednią dokumentację do wszelkich przesłanych modyfikacji i może być zobowiązana do udzielenia odpowiedniego potwierdzenia dotyczącego modyfikacji.
+3.2.3 Dokumentacja i potwierdzenie: Licencjobiorca musi dostarczyć odpowiednią dokumentację do wszelkich przesłanych modyfikacji i może być zobowiązana do dostarczenia odpowiedniego potwierdzenia dotyczącego modyfikacji.
 
 3.2.4 Brak zmian lokalnych: Modyfikacje lokalne dokonane przez licencjobiorcę, które nie są przesłane i akceptowane za pośrednictwem GitHub, nie są dozwolone i będą uważane za naruszenie warunków niniejszej Licencji.
 
-Uwaga: Do celów niniejszej licencji „oficjalne repozytorium oprogramowania” odnosi się do repozytorium hostowanego na __URL_0__ Odpowiedzialność Licencjobiorca jest sprawdzanie i postępowanie zgodnie z wytycznymi i procedurami dostarczonymi przez Cyonicsolutions do wniesienia wkładu.
+Uwaga: Do celów niniejszej licencji „oficjalne repozytorium oprogramowania” odnosi się do repozytorium hostowanego na __URL_REMOVED__ odpowiedzialność licencjobiorca jest sprawdzanie i przestrzeganie wytycznych i procedur dostarczonych przez cyoniksolutions w celu przyczyniania się.
 
 4. Własność
 
@@ -43,7 +43,7 @@ Uwaga: Do celów niniejszej licencji „oficjalne repozytorium oprogramowania”
 
 6. Zakończenie
 
-6.1 Zakończenie: Niniejsza licencja jest skuteczna do czasu rozwiązania.Licencjodawca może rozwiązać niniejszą licencję w dowolnym momencie po powiadomieniu licencjobiorcy, jeżeli licencjobiorca naruszy jakikolwiek termin lub warunek niniejszej licencji.
+6.1 Zakończenie: Niniejsza licencja jest skuteczna do czasu rozwiązania.Licencjodawca może wypowiedzieć niniejszą licencję w dowolnym momencie po powiadomieniu licencjobiorcy, jeżeli licencjobiorca naruszy jakikolwiek termin lub warunek niniejszej licencji.
 
 6.2 Wpływ rozwiązania: Po rozwiązaniu niniejszej licencji Licencjobiorca musi natychmiast zaprzestać za pomocą oprogramowania i zniszczyć wszystkie kopie oprogramowania w jego posiadaniu.
 

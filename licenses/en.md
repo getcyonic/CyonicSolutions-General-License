@@ -29,7 +29,7 @@ Effective Date: [2024 - 2028]
 
 3.2.4 No Local Changes: Local modifications made by Licensee that are not submitted and accepted through GitHub are not permitted and will be considered a violation of the terms of this License.
 
-Note: For purposes of this License, the "official repository for the Software" refers to the repository hosted at __URL_0__ It is Licensee's responsibility to review and follow the guidelines and procedures provided by CyonicSolutions for contributing.
+Note: For purposes of this License, the "official repository for the Software" refers to the repository hosted at __URL_removed__ It is Licensee's responsibility to review and follow the guidelines and procedures provided by CyonicSolutions for contributing.
 
 4. OWNERSHIP
 

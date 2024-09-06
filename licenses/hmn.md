@@ -29,7 +29,7 @@ Hnub Pib: [2024 - 2028]
 
 3.2.4 Tsis muaj kev hloov hauv zos ua los ntawm cov neeg tso cai uas tsis tau lees paub thiab tau txais los ntawm Github tsis raug tso cai thiab yuav raug txiav txim siab ua txhaum cai ntawm cov nqe lus ntawm daim ntawv tso cai.
 
-Nco tseg: Rau cov hom cai ntawm daim ntawv tso cai no, "cov ntaub ntawv raug cai rau cov software" yog hais txog cov chaw muaj lais xees saib xyuas thiab cov txheej txheem muab los ntawm cyonsolutions rau kev pab.
+Nco tseg: Rau cov hom cai ntawm daim ntawv tso cai no, "cov chaw haujlwm" yog hais txog cov chaw muaj lais xee nyob rau __url_removed__ nws yog cov lus qhia thiab cov txheej txheem muab los ntawm cyonicsolutions.
 
 4. tswv cuab
 

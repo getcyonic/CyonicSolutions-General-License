@@ -29,7 +29,7 @@ Tarikh Berkuatkuasa: [2024 - 2028]
 
 3.2.4 Tiada Perubahan Tempatan: Pengubahsuaian Tempatan yang Dibuat oleh Pemegang Lesen yang tidak dikemukakan dan diterima melalui GitHub tidak dibenarkan dan akan dianggap sebagai pelanggaran terma lesen ini.
 
-Nota: Untuk tujuan lesen ini, "repositori rasmi untuk perisian" merujuk kepada repositori yang dihoskan di __url_0__ adalah tanggungjawab pemegang lesen untuk mengkaji dan mengikuti garis panduan dan prosedur yang disediakan oleh cyonicsolutions untuk menyumbang.
+Nota: Untuk tujuan lesen ini, "repositori rasmi untuk perisian" merujuk kepada repositori yang dihoskan di __url_removed__ ia adalah tanggungjawab pemegang lesen untuk mengkaji dan mengikuti garis panduan dan prosedur yang disediakan oleh cyonicsolutions untuk menyumbang.
 
 4. Pemilikan
 

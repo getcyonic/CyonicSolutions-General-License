@@ -29,7 +29,7 @@ Licensor 2,2: De entity et singula concessionem hanc licentiam.In hoc casu, refe
 
 3,22.4 Nemo loci mutationes: loci modifications factum per licensee, qui non sunt summitto et accepit per Github non licet et considerari contra termini huius licentiam.
 
-Nota: nam proposita huius licentia, in "officialis repositum pro software" refertur ad repository hosted ad __url_0__ est licensee scriptor responsibility ad recensionem et sequere guidelines et procedendi provisum est a Cyonicsolutions et sequere.
+Nota: nam proposita huius licentia, in "officialis repository ad software" refertur ad repositio hosted at __url_removed__ est Licensee scriptor responsibility ad recensionem et sequere guidelines et processee est a Cyonicsolutions et sequere ad dispositionem.
 
 4. dominium
 

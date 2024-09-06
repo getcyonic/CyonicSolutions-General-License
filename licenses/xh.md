@@ -29,7 +29,7 @@ Umhla ofanelekileyo: [2024 - 2028]
 
 3.2.4 Akukho lutshintsho lwasekhaya: Uhlengahlengiso lwasekhaya olwenziwe ngumnini layiseki olungangeniswanga kwaye lwamkelwa nge-github aluvunyelwanga kwaye luya kuthathwa lokophula umthetho welayisensi.
 
-QAPHELA: Ngeenjongo zalo mdlelo, "ugcino lwaseburhulumenteni lwesoftware" lubhekisa kwindawo yokugcina i-__rl_UCHE kuxanduva lwelayisenisi yokuphononongwa kwaye ulandele izikhokelo ze-cydonis.
+QAPHELA: Ngeenjongo zalo mdlelo, "ugcino lwaseburhulumenteni lwesoftware" lubhekisa kwindawo yokugcina i-__rl_remoed__ yimbopheleleko yelayisenisi yokuphononongwa kwaye ulandele izikhokelo ze-cydonis.
 
 4. Ubunini
 

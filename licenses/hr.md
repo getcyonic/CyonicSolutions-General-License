@@ -19,17 +19,17 @@ Datum stupanja na snagu: [2024 - 2028]
 
 3.1 Izmjena: Vlasnik licence ne može izmijeniti, prilagoditi, prevesti ili stvarati izvedena djela softvera, u cijelosti ili djelomično, osim ako je dopušteno u ovom odjeljku.
 
-3.2 Dozvola modifikacija: Izmjene softvera dopuštene su samo ako su predane i odobrene putem službenog spremišta CyonicsOlutions na GitHub -u, kao što je opisano u nastavku:
+3.2 Dozvola modifikacije: Izmjene softvera dopuštene su samo ako se predaju i odobre putem službenog spremišta CyonicsOlutions na GitHub -u, kao što je opisano u nastavku:
 
 3.2.1 Podnošenje modifikacija: Svaka modifikacija ili izvedenica mora se podnijeti kao doprinos (zahtjev za povlačenje) službenom spremištu CyonicsOlutions na GitHub -u.Vlasnik licence mora slijediti uspostavljeni postupak doprinosa, koji uključuje stvaranje GitHub računa, formiranje spremišta i podnošenje zahtjeva za povlačenje u skladu s pruženim smjernicama.
 
-3.2.2 Pregled i prihvaćanje: CyonicsOlutions zadržava pravo pregleda, prihvaćanja ili odbijanja bilo koje podnesene izmjene.Nijedna izmjena ne smije se smatrati ugrađenim u softver dok se CyonicsOlutions formalno prihvati i integrira u službeno spremište.
+3.2.2 Pregled i prihvaćanje: CyonicsOlutions zadržava pravo pregleda, prihvaćanja ili odbijanja bilo koje podnesene izmjene.Nijedna izmjena ne smije se smatrati ugrađenim u softver dok se formalno prihvati i integriraju CyonicsOlutions u službeno spremište.
 
 3.2.3 Dokumentacija i potvrda: Vlasnik licence mora navesti odgovarajuću dokumentaciju za bilo koju predanu izmjenu i može se zahtijevati odgovarajuće potvrde u vezi s izmjenom.
 
 3.2.4 Nisu lokalne promjene: Lokalne izmjene koje je izvršio korisnik licence koje se ne dostavljaju i prihvaćaju putem GitHub -a nisu dopuštene i smatrat će se kršenjem uvjeta ove licence.
 
-Napomena: Za potrebe ove licence, "Službeno spremište softvera" odnosi se na spremište koje se nalazi na __URL_0__, odgovornost je da preispita i slijedi smjernice i postupke koje je CyonicsOlutions dao za doprinos.
+Napomena: Za potrebe ove licence, "Službeno spremište softvera" odnosi se na spremište koje se nalazi na __URL_REMOVED__ ODGOVORNOST LICENCE -a je da pregleda i slijedi smjernice i postupke koje su dali CyonicsOlutions za doprinos.
 
 4. Vlasništvo
 
@@ -49,7 +49,7 @@ Napomena: Za potrebe ove licence, "Službeno spremište softvera" odnosi se na s
 
 7. primjenjivi zakon
 
-7.1 Zakon o upravljanju: Ovom licencom uređuje se i tumači u skladu sa zakonima Brazila, bez obzira na njegove načela sukoba zakona.Svaki spor koji proizlazi u skladu s ovom licencom podliježe isključivoj nadležnosti sudova koji se nalaze u São Paulu.
+7.1 Zakon o upravljanju: Ovom licencom uređuje se i tumači u skladu sa zakonima Brazila, bez obzira na njegove načela sukoba zakona.Svaki spor koji nastaje u skladu s ovom licencom podliježe ekskluzivnoj nadležnosti sudova smještenih u São Paulu.
 
 8. Opće odredbe
 

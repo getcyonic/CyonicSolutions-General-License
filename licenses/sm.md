@@ -29,7 +29,7 @@ Aso aoga: [2024 - 2028]
 
 3.2.4 Leai se suiga i le lotoifale: Faʻaleleia faʻalelei mai a le malo e le ua laiseneina e le faʻatagaina ma taliaina e ala i Gthub e le faʻatagaina ma o le a manatu o le a tuʻuina atu o le solia o tuutuuga o lenei laisene.
 
-FAAMATALAGA: Mo faamoemoega o lenei laisene, o le "ofisa autu mo le polokalama" faasino i le fale teu oloa na tali atu ma mulimuli i taʻiala e saunia e ala ile faitalia.
+FAAMATALAGA: Mo mafuaʻaga o lenei laisene, o le "ofisa autu mo le polokalama" e faʻasino i le fale teu oloa i le __url_relm_remo_ o loʻo i ai i taʻiala ma le faʻagasolo o loʻo tuʻuina atu e ala i sauniga.
 
 4. umiaina
 

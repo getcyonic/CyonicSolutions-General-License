@@ -21,7 +21,7 @@ Data effettiva: [2024 - 2028]
 
 3.2 Permess ta 'Modifiki: Modifiki għas-Softwer huma permessi biss jekk jiġu sottomessi u approvati permezz tar-repożitorju uffiċjali taċ-ċioniċi fuq github, kif deskritt hawn taħt:
 
-3.2.1 Sottomissjoni ta 'Modifiki: Kull modifika jew xogħol ta' derivattiv għandu jiġi sottomess bħala kontribuzzjoni (talba ta 'ġibda) għar-repożitorju uffiċjali taċ-ċioniċi fuq Github.Id-Detentur tal-Liċenzja għandu jsegwi l-proċess ta 'kontribuzzjoni stabbilit, li jinkludi l-ħolqien ta' kont Github, li jsaħħaħ ir-repożitorju, u jissottometti talba ta 'ġibda skont il-linji gwida pprovduti.
+3.2.1 Sottomissjoni ta 'Modifiki: Kull modifika jew xogħol ta' derivattiv għandu jiġi sottomess bħala kontribuzzjoni (talba ta 'ġibda) għar-repożitorju uffiċjali taċ-ċioniċi fuq Github.Id-Detentur tal-Liċenzja għandu jsegwi l-proċess ta 'kontribuzzjoni stabbilit, li jinkludi l-ħolqien ta' kont Github, li jsaħħaħ ir-repożitorju, u jissottometti talba ta 'ġibda skond il-linji gwida pprovduti.
 
 3.2.2 Reviżjoni u Aċċettazzjoni: Cyonicsolutions tirriżerva d-dritt li tirrevedi, taċċetta, jew tirrifjuta kwalunkwe modifika sottomessa.L-ebda modifika ma għandha titqies inkorporata fis-softwer sakemm tkun aċċettata u integrata formalment minn cyonicsolutions fir-repożitorju uffiċjali.
 
@@ -29,7 +29,7 @@ Data effettiva: [2024 - 2028]
 
 3.2.4 L-ebda tibdil lokali: Modifiki lokali magħmula minn liċenzjatur li ma jiġux sottomessi u aċċettati permezz ta 'github mhumiex permessi u se jitqiesu bħala ksur tat-termini ta' din il-liċenzja.
 
-Nota: Għall-finijiet ta 'din il-liċenzja, ir- "repożitorju uffiċjali għas-software" jirreferi għar-repożitorju ospitat fi __URL_0__ Huwa r-responsabbiltà tad-detentur tal-liċenzja li tirrevedi u ssegwi l-linji gwida u l-proċeduri pprovduti minn cyonicsolutions għall-kontribuzzjoni.
+Nota: Għall-finijiet ta 'din il-liċenzja, ir- "repożitorju uffiċjali għas-software" jirreferi għar-repożitorju ospitat fi __URL_REMOVED__ Huwa r-responsabbiltà tal-liċenzjat li tirrevedi u ssegwi l-linji gwida u l-proċeduri pprovduti minn cyonicsolutions għall-kontribuzzjoni.
 
 4. Sjieda
 
@@ -57,7 +57,7 @@ Nota: Għall-finijiet ta 'din il-liċenzja, ir- "repożitorju uffiċjali għas-s
 
 8.2 Modifiki: Kull modifika jew emenda għal din il-liċenzja għandha tkun bil-miktub u ffirmata miż-żewġ partijiet.
 
-8.3 Severabilità: Jekk xi dispożizzjoni ta 'din il-liċenzja tinstab li hija invalida jew li ma tistax tiġi infurzata minn qorti ta' ġurisdizzjoni kompetenti, id-dispożizzjonijiet li jifdal jibqgħu fis-seħħ u l-effett kollu.
+8.3 Severabilità: Jekk xi dispożizzjoni ta 'din il-liċenzja tinstab li hija invalida jew li ma tistax tiġi infurzata minn qorti ta' ġurisdizzjoni kompetenti, id-dispożizzjonijiet li jifdal jibqgħu fis-seħħ u l-effett sħiħ.
 
 ---
 Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

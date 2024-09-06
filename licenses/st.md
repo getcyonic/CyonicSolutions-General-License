@@ -29,7 +29,7 @@ Tlhaloso
 
 3.2.4 Ha ho liphetoho tsa lehae: Liphetoho tsa lehae tse entsoeng ke laesense tse sa lumelloeng 'me li tla nkuoa ho tlosoa ha lipehelo tsa laesense.
 
-Tlhokomeliso: Bakeng sa laesense ena, "pokello ea" setifi sa "
+Tlhokomeliso: Bakeng sa tumello ea laesense ena, "poloko ea" software "e bua ka boikarabello ba ho hlahloba
 
 4. beng
 

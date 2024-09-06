@@ -29,7 +29,7 @@ Tanggal efektif: [2024 - 2028]
 
 3.2.4 Ora ana owah-owahan lokal: modifikasi lokal sing digawe dening lisensi sing ora dikirim lan ditampa liwat Github ora diidini lan bakal dianggep nglanggar syarat lisensi iki.
 
-CATETAN: Kanggo tujuan lisensi iki, "gudang resmi kanggo piranti lunak" nuduhake gudang sing dianakake ing __url_0__ Iki tanggung jawab lisensi kanggo dideleng lan tindakake pedoman kanggo menehi kontribusi kanggo kontribusi.
+CATETAN: Kanggo tujuan lisensi iki, "gudang resmi kanggo piranti lunak" nuduhake gudang sing dianakake ing __url_removed__ minangka tanggung jawab lisensi kanggo dideleng lan tindakake pedoman kanggo menehi kontribusi kanggo kontribusi.
 
 4. Kepemilikan
 

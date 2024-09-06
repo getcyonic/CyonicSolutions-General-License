@@ -29,7 +29,7 @@ Data d’efectivitat: [2024 - 2028]
 
 3.2.
 
-Nota: A efectes d'aquesta llicència, el "dipòsit oficial del programari" fa referència al dipòsit allotjat a __url_0__ És responsabilitat del llicenciat revisar i seguir les directrius i els procediments proporcionats per Cyonicsolutions per a la seva contribució.
+Nota: A efectes d'aquesta llicència, el "dipòsit oficial per al programari" fa referència al dipòsit allotjat a __url_removed__ És responsabilitat del llicenciat revisar i seguir les directrius i els procediments proporcionats per Cyonicsolutions per a la seva contribució.
 
 4. Propietat
 
@@ -49,7 +49,7 @@ Nota: A efectes d'aquesta llicència, el "dipòsit oficial del programari" fa re
 
 7. Llei aplicable
 
-7.1 Llei de govern: aquesta llicència es regirà i es interpretarà d’acord amb les lleis del Brasil, sense tenir en compte els principis de conflictes de lleis.Qualsevol disputa derivada d'aquesta llicència serà subjecta a la jurisdicció exclusiva dels tribunals ubicats a São Paulo.
+7.1 Llei de govern: aquesta llicència es regirà i es interpretarà d’acord amb les lleis del Brasil, sense tenir en compte els seus principis de conflictes de lleis.Qualsevol disputa derivada d'aquesta llicència serà subjecta a la jurisdicció exclusiva dels tribunals ubicats a São Paulo.
 
 8. Provisions generals
 

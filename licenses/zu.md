@@ -29,7 +29,7 @@ Usuku Olusebenzayo: [2024 - 2028]
 
 3.2.4 Azikho izinguquko zendawo: Ukulungiswa kwendawo okwenziwe yilayisense engangeniswa futhi kwamukelwa nge-GitHub akuvunyelwe futhi kuzothathwa njengokuphulwa kwemigomo yaleli layisensi.
 
-QAPHELA: Ngenhloso yale layisense, "indawo esemthethweni yesoftware" ibhekiswe endaweni yokubeka i-rupl_0__ Kungumsebenzi welayisense ukubukeza nokulandela imihlahlandlela nezinqubo ezinikezwe ngama-cysoniclusing.
+QAPHELA: Ngenhloso yale layisense, "okusemthethweni okusemthethweni kwesoftware" kubhekiswe endaweni yokugcina abayiphethe ku- __url_remod__ kungumthwalo wemfanelo welayisense ukubukeza nokulandela imihlahlandlela nezinqubo ezinikezwe ngama-cysizolutions wokufaka isandla.
 
 4. Ubunikazi
 

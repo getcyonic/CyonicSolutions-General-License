@@ -29,7 +29,7 @@ Tanggal anu efektif: [2024 - 2028]
 
 3.2.4 Henteu parobihan lokal: Modikasi lokal anu dilakukeun ku lisénsi lokal anu henteu dikintunkeun sareng nampi ngaliwatan Github henteu diijinkeun sareng bakal dianggap palanggaran istilah-istilah ieu.
 
-Catetan: pikeun tujuan lisénsi ieu, repositama bersalik resmi kanggo parangkat lunak "ngarujuk kana gudang di __url_0 ieu disayogikeun ku pedomians ilegeles pikeun nempoan penerbanganan.
+Catetan: pikeun tujuan lisénsi ieu, gudang di gudang resmi pikeun parangkat lunak "ngarujuk kana gudang di __ ka __undless dilacak.
 
 4. Kapamingpinan
 

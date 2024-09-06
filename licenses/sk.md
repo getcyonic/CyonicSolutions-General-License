@@ -9,7 +9,7 @@ Dátum účinnosti: [2024 - 2028]
 
 2. Definície
 
-2.1 Softvér: Znamená softvérový program vrátane zdrojového kódu, binárnych súborov, dokumentácie a akýchkoľvek ďalších súvisiacich materiálov, ktoré sprístupnil licencia licencie na základe tejto licencie.
+2.1 Softvér: Znamená softvérový program vrátane zdrojového kódu, binárnych súborov, dokumentácie a akýchkoľvek ďalších súvisiacich materiálov, ktoré poskytol licencia držiteľa licencie na základe tejto licencie.
 
 2.2 Licencia: Subjekt alebo jednotlivec, ktorý udeľuje túto licenciu.V tomto prípade sa týka cyonicsolutions vrátane jej pridružených spoločností a zástupcov.
 
@@ -29,7 +29,7 @@ Dátum účinnosti: [2024 - 2028]
 
 3.2.4 Žiadne miestne zmeny: Miestne úpravy vykonávané držiteľom licencie, ktoré nie sú predložené a akceptované prostredníctvom GitHub, nie sú povolené a budú sa považovať za porušenie podmienok tejto licencie.
 
-Poznámka: Na účely tejto licencie sa „oficiálny úložisko softvéru“ vzťahuje na úložisko hostené na __url_0__, je zodpovednosťou licencie pre kontrolu a dodržiavanie usmernení a postupov poskytnutých spoločnosťou Cyonicsolutions pre prispievanie.
+Poznámka: Na účely tejto licencie sa „oficiálne úložisko softvéru“ vzťahuje na úložisko hostené v __url_removed__, je zodpovednosťou licencie preskúmať a riadiť sa usmerneniami a postupmi poskytnutými spoločnosťami Cyonicsolutions pre prispievanie.
 
 4. Vlastníctvo
 
@@ -37,7 +37,7 @@ Poznámka: Na účely tejto licencie sa „oficiálny úložisko softvéru“ vz
 
 5. Záruky a vylúčenie zodpovednosti
 
-5.1 Žiadna záruka: Softvér je poskytnutý „tak, ako je“ bez záruky akéhokoľvek druhu, buď výslovným alebo predpokladaným, vrátane, ale nielen, implicitných záruk obchodovateľnosti, vhodnosti na konkrétny účel alebo neporušovania.
+5.1 Žiadna záruka: Softvér je poskytnutý „tak, ako je“ bez záruky akéhokoľvek druhu, buď výslovným alebo predpokladaným, vrátane, ale nielen, implikovaných záruk obchodovateľnosti, vhodnosti na konkrétny účel alebo neporušovania.
 
 5.2 Zrieknutie sa zodpovednosti: Licencia nezodpovedá za žiadne priame, nepriame, náhodné, špeciálne alebo následné škody, ktoré vyplývajú z použitia alebo neschopnosti používať softvér.
 
@@ -55,7 +55,7 @@ Poznámka: Na účely tejto licencie sa „oficiálny úložisko softvéru“ vz
 
 8.1 Celá dohoda: Táto licencia predstavuje celú dohodu medzi stranami v súvislosti so softvérom a nahrádza všetky predchádzajúce alebo súčasné dohody, písomné alebo ústne, týkajúce sa softvéru.
 
-8.2 Úpravy: Akákoľvek zmena alebo zmena a doplnenie tejto licencie musia byť písomne ​​a podpísané oboma stranami.
+8.2 Úpravy: Akékoľvek zmeny alebo zmena a doplnenie tejto licencie musia byť písomné a podpísané oboma stranami.
 
 8.3 Odpojiteľnosť: Ak sa zistí, že akékoľvek ustanovenie tejto licencie je neplatné alebo nevynútiteľné súdom príslušnej jurisdikcie, zostávajúce ustanovenia zostanú v plnej platnosti a účinnosti.
 

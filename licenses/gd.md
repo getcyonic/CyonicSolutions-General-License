@@ -29,7 +29,7 @@ Ceann-latha èifeachdach: [2024 - 2028]
 
 3.2.4 Chan eil atharrachaidhean ionadail sam bith: Chan eil cead ionadail air a dhèanamh le cead nach eilear a 'ceadachadh agus thèid gabhail riutha a' faighinn a bhith a 'cur às do chumhachan a' cheadachais seo.
 
-Nota: Airson adhbharan a 'cheadachais seo, tha an "Repoitidhce Oifigeil airson Bathar-bog" a' toirt iomradh air an ath-reic aig __Rll_0__ Is e cead a th 'ann an ro-aithne agus na modhan-siubhail a thug e seachad airson a bhith a' cur.
+Nota: Airson adhbharan a 'cheadachais seo, tha an "Repoitidhce Oifigeil airson Bathar-bog" a' toirt iomradh air an ath-reic eadar __URL_REMOVED__ Is e cead a th 'ann an ro-aithne agus na modhan-siubhail a thug Cionfortions seachad airson a bhith a' cur.
 
 4. Seilbh
 

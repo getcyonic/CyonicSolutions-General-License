@@ -5,7 +5,7 @@ Jõustumiskuupäev: [2024 - 2028]
 
 1. Litsentsi andmine
 
-1.1 õiguste andmine: Selle litsentsi kohaselt annab litsentsiandja litsentsisaajale mitte eksklusiivset, mitte-ülekantavat, mitte-avalikustatavat õigust juurdepääsu, vaadata ja kasutada tarkvara (nagu allpool määratletud) üksnes isiklikel, mitteärilistel eesmärkidel, sõltudesSiin esitatud tingimused.
+1.1 õiguste andmine: Selle litsentsi kohaselt annab litsentsiandja litsentsisaajale mitte eksklusiivset, mitte-ülekantavat, mitte-avalikustatavat õigust juurdepääsu, vaadata ja kasutada tarkvara (nagu allpool määratletud) üksnes isiklikel, mitteärilistel eesmärkidel, sõltudesSiin esitatud tingimused ja tingimused.
 
 2. Definitsioonid
 
@@ -29,7 +29,7 @@ Jõustumiskuupäev: [2024 - 2028]
 
 3.2.4 Ei ole kohalikke muudatusi: Litsentsisaaja tehtud kohalikud muudatused, mida GitHubi kaudu ei esitata ega aktsepteerita, pole lubatud ja mida peetakse selle litsentsi tingimuste rikkumiseks.
 
-MÄRKUS. Selle litsentsi kohaldamisel viitab "Tarkvara ametlik hoidla" hoidlale, mida hostitakse __URL_0__. Litsentsisaaja kohustus on läbi vaadata ja järgida CyonicsLolutions'i pakutavaid juhiseid ja protseduure.
+Märkus. Selle litsentsi kohaldamisel viitab "Tarkvara ametlik hoidla" hoidlale, mida hostitakse aadressil __url_removed__. Litsentsisaaja kohustus on vaadata ja järgida Cyonicsolutions'i pakutavaid juhiseid ja protseduure.
 
 4. omandiõigus
 
@@ -37,7 +37,7 @@ MÄRKUS. Selle litsentsi kohaldamisel viitab "Tarkvara ametlik hoidla" hoidlale,
 
 5. Garantiid ja loobumine
 
-5.1 Garantii puudub: tarkvara antakse "nagu on" ilma igasuguste garantiideta, kas selgesõnalised või kaudsed, sealhulgas, kuid mitte ainult, kaudsed garantiid kaupletavuse, konkreetsel eesmärgil sobivuse või rikkumata.
+5.1 Garantii puudub: tarkvara antakse "nagu on" ilma igasuguse selge või kaudse garantiita, sealhulgas, kuid mitte ainult, kaudsed garantiid, mis on kaupletavuse, konkreetsel eesmärgil sobivuse või rikkumata.
 
 5.2 Kohustustest loobumine: litsentsiandja ei vastuta otsese, kaudse, juhusliku, erilise või kaudse kahju eest, mis tuleneb tarkvara kasutamisest või suutmatusest.
 
@@ -57,7 +57,7 @@ MÄRKUS. Selle litsentsi kohaldamisel viitab "Tarkvara ametlik hoidla" hoidlale,
 
 8.2 Muudatused: selle litsentsi muutmine või muudatused peavad olema kirjalikult ja allkirjastatud mõlemad pooled.
 
-8.3 Eraldatavus: kui pädeva kohtu jurisdiktsiooni kohus leitakse, et selle litsentsi säte on kehtetu või jõustamatu, jäävad ülejäänud sätted täies jõusse ja mõju.
+8.3 Eraldatavus: kui pädeva kohtu jurisdiktsiooni kohus on selle litsentsi mis tahes sätet kehtetuks või jõustamatu, jäävad ülejäänud sätted täielikult jõu ja mõjuga.
 
 ---
 Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.

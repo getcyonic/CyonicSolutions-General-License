@@ -5,11 +5,11 @@ Ingangsdatum: [2024 - 2028]
 
 1. Licentie verlenen
 
-1.1 Rechten van rechten: onder deze licentie verleent licentiegeverslicentieverlener een niet-exclusieve, niet-overdraagbaar, niet-sublicaatbaar recht om de software (zoals hieronder gedefinieerd) uitsluitend voor persoonlijke, niet-commerciële doeleinden te gebruiken, onderworpen aande algemene voorwaarden die hierin worden uiteengezet.
+1.1 Rechten van rechten: onder deze licentie verleent licentiegever licentienemer een niet-exclusieve, niet-overdraagbaar, niet-sublicaatbaar recht om de software (zoals hieronder gedefinieerd) uitsluitend voor persoonlijke, niet-commerciële doeleinden te gebruiken, onderhevig aande algemene voorwaarden die hierin worden uiteengezet.
 
 2. Definities
 
-2.1 Software: betekent het softwareprogramma, inclusief broncode, binaries, documentatie en andere gerelateerde materialen, die door licentiegever beschikbaar zijn gesteld aan de licentiehouder onder deze licentie.
+2.1 Software: betekent het softwareprogramma, inclusief broncode, binaries, documentatie en andere gerelateerde materialen, die door licentiegever beschikbaar worden gesteld aan de licentiehouder onder deze licentie.
 
 2.2 Licentiegever: de entiteit of persoon die deze licentie verleent.In dit geval verwijst het naar cyonicsolutions, inclusief zijn gelieerde ondernemingen en vertegenwoordigers.
 
@@ -29,7 +29,7 @@ Ingangsdatum: [2024 - 2028]
 
 3.2.4 Geen lokale wijzigingen: lokale wijzigingen aangebracht door licentiehouder die niet zijn ingediend en geaccepteerd via GitHub zijn niet toegestaan ​​en worden beschouwd als een schending van de voorwaarden van deze licentie.
 
-OPMERKING: Voor de toepassing van deze licentie verwijst de "officiële repository voor de software" naar de repository gehost op __URL_0__ Het is de verantwoordelijkheid van de licentiehouder om de richtlijnen en procedures van Cyonicsolutions voor bijdrage te leveren en te volgen voor bijdragen.
+OPMERKING: Voor de toepassing van deze licentie verwijst de "officiële repository voor de software" naar de repository gehost op __url_removed__ Het is de verantwoordelijkheid van de licentienemer om de richtlijnen en procedures van cyonicsolutions voor bijdrage te leveren en te volgen voor bijdragen.
 
 4. Eigendom
 
@@ -45,7 +45,7 @@ OPMERKING: Voor de toepassing van deze licentie verwijst de "officiële reposito
 
 6.1 Beëindiging: deze licentie is effectief totdat beëindigd.Licentiegever kan deze licentie te allen tijde beëindigen bij kennisgeving aan licentiehouder als licentienemer een termijn of voorwaarde van deze licentie overtreden.
 
-6.2 Effect van beëindiging: na beëindiging van deze licentie moet de licentienemer onmiddellijk stoppen met het gebruik van de software en alle kopieën van de software in zijn bezit vernietigen.
+6.2 Effect van beëindiging: Na beëindiging van deze licentie moet de licentienemer onmiddellijk ophouden met het gebruik van de software en alle kopieën van de software in zijn bezit vernietigen.
 
 7. Toepasselijke wetgeving
 
@@ -57,7 +57,7 @@ OPMERKING: Voor de toepassing van deze licentie verwijst de "officiële reposito
 
 8.2 Wijzigingen: Elke wijziging of wijziging van deze licentie moet door beide partijen worden geschreven en ondertekend.
 
-8.3 SEERBAARHEID: Als een bepaling van deze licentie ongeldig of niet afdwingbaar is door een rechtbank van bevoegde jurisdictie, blijven de resterende bepalingen volledig van kracht en effect.
+8.3 SEERBAARHEID: Als er een bepaling van deze licentie ongeldig of niet afdwingbaar is door een rechtbank van bevoegde jurisdictie, blijven de resterende bepalingen volledig van kracht en effect.
 
 ---
 Disclaimer: This translation was generated automatically and may not be completely accurate. The official version of the license is the English version available on the GitHub repository: https://github.com/getcyonic/CyonicSolutions-General-License/blob/main/license.md. Please refer to the original version for the valid license.
