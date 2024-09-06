@@ -29,7 +29,7 @@ def replace_non_translatable(text):
     marker_count = 0
 
     def generate_marker(name, count):
-        return f'__{name}_{count}__'
+        return f'__{name}_removed__'
 
     for name, pattern in patterns.items():
         for match in re.finditer(pattern, text):
