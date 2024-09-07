@@ -5,22 +5,18 @@ import concurrent.futures
 from googletrans import Translator
 
 def load_languages(json_file):
-    """Carrega a lista de idiomas a partir de um arquivo JSON."""
     with open(json_file, 'r', encoding='utf-8') as file:
         return json.load(file)
 
 def read_file(file_path):
-    """Lê o conteúdo do arquivo."""
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
 def write_file(file_path, content):
-    """Escreve o conteúdo no arquivo."""
     with open(file_path, 'w', encoding='utf-8') as file:
         file.write(content)
 
 def replace_non_translatable(text):
-    """Substitui partes não traduzíveis por marcadores únicos."""
     patterns = {
         'URL': r'https?://[^\s]+',
         'EMAIL': r'\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b'
@@ -41,7 +37,6 @@ def replace_non_translatable(text):
     return text, markers
 
 def translate_text(text, dest_language):
-    """Traduz o texto para o idioma de destino usando o Google Translate."""
     translator = Translator()
     try:
         return translator.translate(text, dest=dest_language).text
@@ -50,7 +45,6 @@ def translate_text(text, dest_language):
         return None
 
 def append_disclaimer(text):
-    """Adiciona um aviso sobre a tradução automatizada e a versão oficial."""
     disclaimer = (
         "\n\n---\n"
         "Disclaimer: This translation was generated automatically and may not be completely accurate."
@@ -60,7 +54,6 @@ def append_disclaimer(text):
     return text + disclaimer
 
 def translate_in_batches(text, languages, batch_size, licenses_dir):
-    """Traduz o texto em lotes para vários idiomas e salva em arquivos."""
     def worker(batch):
         results = {}
         for lang_code, lang_name in batch:
@@ -92,7 +85,6 @@ def translate_in_batches(text, languages, batch_size, licenses_dir):
                     print(f'Falha ao traduzir para {lang_name}')
 
 def update_readme_table(licenses_dir, readme_path):
-    """Atualiza o README.md com uma tabela de links para os arquivos traduzidos."""
     table_header = (
         "# CyonicSolutions General License Translations\n\n"
         "Search for your language below:\n"
